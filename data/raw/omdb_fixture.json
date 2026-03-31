@@ -1,0 +1,9 @@
+{
+  "Interstellar": {"awards": "Won 1 Oscar", "box_office": "$701,800,000", "country": "United States"},
+  "Arrival": {"awards": "Nominated for 8 Oscars", "box_office": "$203,400,000", "country": "United States"},
+  "Blade Runner 2049": {"awards": "Won 2 Oscars", "box_office": "$267,500,000", "country": "United States"},
+  "Dune": {"awards": "Won 6 Oscars", "box_office": "$434,800,000", "country": "United States"},
+  "Dune: Part Two": {"awards": "N/A", "box_office": "$700,000,000", "country": "United States"},
+  "Oppenheimer": {"awards": "Won 7 Oscars", "box_office": "$975,800,000", "country": "United Kingdom, United States"},
+  "Parasite": {"awards": "Won 4 Oscars", "box_office": "$258,100,000", "country": "South Korea"}
+}

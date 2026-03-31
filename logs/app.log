@@ -1,0 +1,1059 @@
+2026-03-14 21:28:30 | INFO | DataExtractor | Loaded movies catalog: 22 rows
+2026-03-14 21:28:30 | INFO | DataExtractor | Loaded ratings snapshot: 22 rows
+2026-03-14 21:28:30 | INFO | DataExtractor | Loaded reviews corpus: 24 rows
+2026-03-14 21:28:30 | INFO | DataTransformer | Cleaned movies rows: 22
+2026-03-14 21:28:30 | INFO | DataTransformer | Cleaned ratings rows: 22
+2026-03-14 21:28:30 | INFO | DataTransformer | Cleaned reviews rows: 24
+2026-03-14 21:28:30 | INFO | DataTransformer | Merged movie records: 22
+2026-03-14 21:28:30 | INFO | DataExtractor | Loaded OMDb fixture entries: 7
+2026-03-14 21:28:30 | INFO | SQLiteLoader | SQLite load complete: /Users/cai/Desktop/Movie-Intelligence-Agent/storage/movie_agent.db
+2026-03-14 21:28:30 | INFO | LocalVectorStore | Vector index built: 22 docs
+2026-03-14 21:28:30 | INFO | pipeline | Pipeline summary: {'movies_loaded': 22, 'reviews_loaded': 24, 'documents_indexed': 22, 'sqlite_path': '/Users/cai/Desktop/Movie-Intelligence-Agent/storage/movie_agent.db', 'vector_store_dir': '/Users/cai/Desktop/Movie-Intelligence-Agent/storage/vector_store'}
+2026-03-14 21:28:34 | INFO | MovieIntelligenceAgent | Agent question=找出 2015 年后的高评分科幻片 mode=local_rule_based tools=[{'tool': 'sql.fetch_high_rated_scifi', 'params': {'year_from': 2015, 'min_rating': 7.5, 'limit': 10}}]
+2026-03-14 21:28:38 | INFO | MovieIntelligenceAgent | Agent question=找出与 Interstellar 在主题或风格上相似的电影 mode=local_rule_based tools=[{'tool': 'vector.find_similar_movies', 'params': {'movie_title': 'Interstellar', 'top_k': 5}}]
+2026-03-14 21:28:41 | INFO | MovieIntelligenceAgent | Agent question=总结 Arrival 和 Blade Runner 2049 的共同主题 mode=local_rule_based tools=[{'tool': 'nlp.summarize_common_themes', 'params': {'movie_titles': ['Arrival', 'Blade Runner 2049']}}]
+2026-03-14 21:28:44 | INFO | MovieIntelligenceAgent | Agent question=找出 2015 年后的高评分科幻片 mode=local_rule_based tools=[{'tool': 'sql.fetch_high_rated_scifi', 'params': {'year_from': 2015, 'min_rating': 7.5, 'limit': 10}}]
+2026-03-14 21:28:44 | INFO | MovieIntelligenceAgent | Agent question=比较 Christopher Nolan 和 Denis Villeneuve 在数据集中的表现 mode=local_rule_based tools=[{'tool': 'sql.compare_directors', 'params': {'director_a': 'Christopher Nolan', 'director_b': 'Denis Villeneuve'}}]
+2026-03-14 21:28:44 | INFO | MovieIntelligenceAgent | Agent question=找出与 Interstellar 在主题或风格上相似的电影 mode=local_rule_based tools=[{'tool': 'vector.find_similar_movies', 'params': {'movie_title': 'Interstellar', 'top_k': 5}}]
+2026-03-14 21:28:44 | INFO | MovieIntelligenceAgent | Agent question=总结 Arrival 和 Blade Runner 2049 的共同主题 mode=local_rule_based tools=[{'tool': 'nlp.summarize_common_themes', 'params': {'movie_titles': ['Arrival', 'Blade Runner 2049']}}]
+2026-03-14 21:28:44 | INFO | MovieIntelligenceAgent | Agent question=找出评分较高且投票数足够的 thriller 电影 mode=local_rule_based tools=[{'tool': 'sql.fetch_high_quality_thrillers', 'params': {'min_rating': 7.5, 'min_votes': 120000, 'limit': 10}}]
+2026-03-14 21:28:44 | INFO | evaluation | Evaluation complete. JSON=/Users/cai/Desktop/Movie-Intelligence-Agent/output/evaluation_report.json MD=/Users/cai/Desktop/Movie-Intelligence-Agent/output/evaluation_report.md
+2026-03-14 21:28:47 | INFO | DataExtractor | Loaded movies catalog: 22 rows
+2026-03-14 21:28:47 | INFO | DataExtractor | Loaded ratings snapshot: 22 rows
+2026-03-14 21:28:47 | INFO | DataExtractor | Loaded reviews corpus: 24 rows
+2026-03-14 21:28:47 | INFO | DataTransformer | Cleaned movies rows: 22
+2026-03-14 21:28:47 | INFO | DataTransformer | Cleaned ratings rows: 22
+2026-03-14 21:28:47 | INFO | DataTransformer | Cleaned reviews rows: 24
+2026-03-14 21:28:47 | INFO | DataTransformer | Merged movie records: 22
+2026-03-14 21:28:47 | INFO | DataExtractor | Loaded OMDb fixture entries: 7
+2026-03-14 21:28:47 | INFO | SQLiteLoader | SQLite load complete: /Users/cai/Desktop/Movie-Intelligence-Agent/storage/movie_agent.db
+2026-03-14 21:28:47 | INFO | LocalVectorStore | Vector index built: 22 docs
+2026-03-14 21:28:47 | INFO | pipeline | Pipeline summary: {'movies_loaded': 22, 'reviews_loaded': 24, 'documents_indexed': 22, 'sqlite_path': '/Users/cai/Desktop/Movie-Intelligence-Agent/storage/movie_agent.db', 'vector_store_dir': '/Users/cai/Desktop/Movie-Intelligence-Agent/storage/vector_store'}
+2026-03-14 21:28:47 | INFO | MovieIntelligenceAgent | Agent question=找出 2015 年后的高评分科幻片 mode=local_rule_based tools=[{'tool': 'sql.fetch_high_rated_scifi', 'params': {'year_from': 2015, 'min_rating': 7.5, 'limit': 10}}]
+2026-03-14 21:28:47 | INFO | DataExtractor | Loaded movies catalog: 22 rows
+2026-03-14 21:28:47 | INFO | DataExtractor | Loaded ratings snapshot: 22 rows
+2026-03-14 21:28:47 | INFO | DataExtractor | Loaded reviews corpus: 24 rows
+2026-03-14 21:28:47 | INFO | DataTransformer | Cleaned movies rows: 22
+2026-03-14 21:28:47 | INFO | DataTransformer | Cleaned ratings rows: 22
+2026-03-14 21:28:47 | INFO | DataTransformer | Cleaned reviews rows: 24
+2026-03-14 21:28:47 | INFO | DataTransformer | Merged movie records: 22
+2026-03-14 21:28:47 | INFO | DataExtractor | Loaded OMDb fixture entries: 7
+2026-03-14 21:28:47 | INFO | SQLiteLoader | SQLite load complete: /Users/cai/Desktop/Movie-Intelligence-Agent/storage/movie_agent.db
+2026-03-14 21:28:47 | INFO | LocalVectorStore | Vector index built: 22 docs
+2026-03-14 21:28:47 | INFO | pipeline | Pipeline summary: {'movies_loaded': 22, 'reviews_loaded': 24, 'documents_indexed': 22, 'sqlite_path': '/Users/cai/Desktop/Movie-Intelligence-Agent/storage/movie_agent.db', 'vector_store_dir': '/Users/cai/Desktop/Movie-Intelligence-Agent/storage/vector_store'}
+2026-03-14 21:53:25 | INFO | run_pipeline | Using raw CSV: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 21:53:25 | INFO | run_pipeline | Using TMDB source file: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 21:53:25 | INFO | IngestPipeline | Starting ingestion stage
+2026-03-14 21:53:25 | INFO | csv_loader | Loaded 20 rows from CSV fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 21:53:25 | INFO | TMDBClient | Loading TMDB data from fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 21:53:25 | INFO | TMDBClient | Loaded 18 rows from TMDB fixture
+2026-03-14 21:53:25 | INFO | IngestPipeline | Ingestion completed. csv_rows=20 tmdb_rows=18
+2026-03-14 21:53:25 | INFO | clean_movies | Cleaned 20 rows for source=csv
+2026-03-14 21:53:25 | INFO | clean_movies | Cleaned 18 rows for source=tmdb
+2026-03-14 21:53:25 | INFO | merge_sources | Merged sources into 20 unified movie rows
+2026-03-14 21:53:25 | INFO | validate_schema | [post-merge] movies schema validation passed (20 rows)
+2026-03-14 21:53:25 | INFO | build_documents | Built 20 movie documents
+2026-03-14 21:53:25 | INFO | validate_schema | [post-document-build] document schema validation passed (20 rows)
+2026-03-14 21:53:25 | INFO | SQLiteDB | SQLite schema ensured at: /Users/cai/Desktop/Movie-Intelligence-Agent/storage/movie_agent.db
+2026-03-14 21:53:25 | ERROR | run_pipeline | Pipeline failed: table movies has no column named movie_pk
+Traceback (most recent call last):
+  File "/Users/cai/Desktop/Movie-Intelligence-Agent/scripts/run_pipeline.py", line 117, in main
+    repo.upsert_movies(merged_movies)
+  File "/Users/cai/Desktop/Movie-Intelligence-Agent/src/storage/repository.py", line 54, in upsert_movies
+    conn.executemany(sql, records)
+sqlite3.OperationalError: table movies has no column named movie_pk
+2026-03-14 21:53:35 | INFO | run_pipeline | Using raw CSV: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 21:53:35 | INFO | run_pipeline | Using TMDB source file: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 21:53:35 | INFO | IngestPipeline | Starting ingestion stage
+2026-03-14 21:53:35 | INFO | csv_loader | Loaded 20 rows from CSV fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 21:53:35 | INFO | TMDBClient | Loading TMDB data from fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 21:53:35 | INFO | TMDBClient | Loaded 18 rows from TMDB fixture
+2026-03-14 21:53:35 | INFO | IngestPipeline | Ingestion completed. csv_rows=20 tmdb_rows=18
+2026-03-14 21:53:35 | INFO | clean_movies | Cleaned 20 rows for source=csv
+2026-03-14 21:53:35 | INFO | clean_movies | Cleaned 18 rows for source=tmdb
+2026-03-14 21:53:35 | INFO | merge_sources | Merged sources into 20 unified movie rows
+2026-03-14 21:53:35 | INFO | validate_schema | [post-merge] movies schema validation passed (20 rows)
+2026-03-14 21:53:35 | INFO | build_documents | Built 20 movie documents
+2026-03-14 21:53:35 | INFO | validate_schema | [post-document-build] document schema validation passed (20 rows)
+2026-03-14 21:53:35 | ERROR | run_pipeline | Pipeline failed: FOREIGN KEY constraint failed
+Traceback (most recent call last):
+  File "/Users/cai/Desktop/Movie-Intelligence-Agent/scripts/run_pipeline.py", line 115, in main
+    db.create_tables()
+  File "/Users/cai/Desktop/Movie-Intelligence-Agent/src/storage/db.py", line 25, in create_tables
+    conn.executescript(
+sqlite3.IntegrityError: FOREIGN KEY constraint failed
+2026-03-14 21:53:49 | INFO | run_pipeline | Using raw CSV: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 21:53:49 | INFO | run_pipeline | Using TMDB source file: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 21:53:49 | INFO | IngestPipeline | Starting ingestion stage
+2026-03-14 21:53:49 | INFO | csv_loader | Loaded 20 rows from CSV fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 21:53:49 | INFO | TMDBClient | Loading TMDB data from fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 21:53:49 | INFO | TMDBClient | Loaded 18 rows from TMDB fixture
+2026-03-14 21:53:49 | INFO | IngestPipeline | Ingestion completed. csv_rows=20 tmdb_rows=18
+2026-03-14 21:53:49 | INFO | clean_movies | Cleaned 20 rows for source=csv
+2026-03-14 21:53:49 | INFO | clean_movies | Cleaned 18 rows for source=tmdb
+2026-03-14 21:53:49 | INFO | merge_sources | Merged sources into 20 unified movie rows
+2026-03-14 21:53:49 | INFO | validate_schema | [post-merge] movies schema validation passed (20 rows)
+2026-03-14 21:53:49 | INFO | build_documents | Built 20 movie documents
+2026-03-14 21:53:49 | INFO | validate_schema | [post-document-build] document schema validation passed (20 rows)
+2026-03-14 21:53:49 | INFO | SQLiteDB | SQLite schema ensured at: /Users/cai/Desktop/Movie-Intelligence-Agent/storage/movie_agent.db
+2026-03-14 21:53:49 | INFO | MovieRepository | Upserted 20 movie rows
+2026-03-14 21:53:49 | INFO | MovieRepository | Upserted 20 document rows
+2026-03-14 21:53:49 | INFO | run_pipeline | Pipeline finished successfully
+2026-03-14 22:02:08 | WARNING | LocalEmbedder | sentence-transformers unavailable, using deterministic hash fallback. error=No module named 'sentence_transformers'
+2026-03-14 22:02:08 | WARNING | LocalEmbedder | sentence-transformers unavailable, using deterministic hash fallback. error=No module named 'sentence_transformers'
+2026-03-14 22:02:08 | WARNING | MovieVectorStore | chromadb unavailable, using JSON fallback store. error=No module named 'chromadb'
+2026-03-14 22:02:08 | WARNING | MovieVectorStore | chromadb unavailable, using JSON fallback store. error=No module named 'chromadb'
+2026-03-14 22:02:08 | INFO | top_rated | get_top_rated_movies returned 5 rows
+2026-03-14 22:02:08 | INFO | MovieSemanticRetriever | Loaded 20 documents from SQLite for indexing
+2026-03-14 22:08:40 | WARNING | LocalEmbedder | sentence-transformers unavailable, using deterministic hash fallback. error=No module named 'sentence_transformers'
+2026-03-14 22:08:40 | WARNING | MovieVectorStore | chromadb unavailable, using JSON fallback store. error=No module named 'chromadb'
+2026-03-14 22:08:40 | INFO | Evaluator | Evaluation index status: {'status': 'skipped', 'reason': 'index_exists', 'count': 20, 'backend': 'json_fallback'}
+2026-03-14 22:08:40 | INFO | top_rated | get_top_rated_movies returned 5 rows
+2026-03-14 22:08:40 | INFO | top_rated | get_top_rated_movies returned 5 rows
+2026-03-14 22:08:40 | INFO | compare_movies | compare_movies_or_directors mode=director
+2026-03-14 22:08:40 | INFO | compare_movies | compare_movies_or_directors mode=movie
+2026-03-14 22:08:40 | INFO | top_rated | get_top_rated_movies returned 5 rows
+2026-03-14 22:08:40 | INFO | search_movies | search_movies_by_filters returned 5 rows
+2026-03-14 22:08:41 | INFO | run_pipeline | Using raw CSV: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:08:41 | INFO | run_pipeline | Using TMDB source file: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:08:41 | INFO | IngestPipeline | Starting ingestion stage
+2026-03-14 22:08:41 | INFO | csv_loader | Loaded 20 rows from CSV fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:08:41 | INFO | TMDBClient | Loading TMDB data from fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:08:41 | INFO | TMDBClient | Loaded 18 rows from TMDB fixture
+2026-03-14 22:08:41 | INFO | IngestPipeline | Ingestion completed. csv_rows=20 tmdb_rows=18
+2026-03-14 22:08:41 | INFO | clean_movies | Cleaned 20 rows for source=csv
+2026-03-14 22:08:41 | INFO | clean_movies | Cleaned 18 rows for source=tmdb
+2026-03-14 22:08:41 | INFO | merge_sources | Merged sources into 20 unified movie rows
+2026-03-14 22:08:41 | INFO | validate_schema | [post-merge] movies schema validation passed (20 rows)
+2026-03-14 22:08:41 | INFO | build_documents | Built 20 movie documents
+2026-03-14 22:08:41 | INFO | validate_schema | [post-document-build] document schema validation passed (20 rows)
+2026-03-14 22:08:41 | INFO | SQLiteDB | SQLite schema ensured at: /Users/cai/Desktop/Movie-Intelligence-Agent/storage/movie_agent.db
+2026-03-14 22:08:41 | INFO | MovieRepository | Upserted 20 movie rows
+2026-03-14 22:08:41 | INFO | MovieRepository | Upserted 20 document rows
+2026-03-14 22:08:41 | INFO | run_pipeline | Pipeline finished successfully
+2026-03-14 22:08:42 | INFO | run_pipeline | Using raw CSV: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:08:42 | INFO | run_pipeline | Using TMDB source file: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:08:42 | INFO | IngestPipeline | Starting ingestion stage
+2026-03-14 22:08:42 | INFO | csv_loader | Loaded 20 rows from CSV fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:08:42 | INFO | TMDBClient | Loading TMDB data from fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:08:42 | INFO | TMDBClient | Loaded 18 rows from TMDB fixture
+2026-03-14 22:08:42 | INFO | IngestPipeline | Ingestion completed. csv_rows=20 tmdb_rows=18
+2026-03-14 22:08:42 | INFO | clean_movies | Cleaned 20 rows for source=csv
+2026-03-14 22:08:42 | INFO | clean_movies | Cleaned 18 rows for source=tmdb
+2026-03-14 22:08:42 | INFO | merge_sources | Merged sources into 20 unified movie rows
+2026-03-14 22:08:42 | INFO | validate_schema | [post-merge] movies schema validation passed (20 rows)
+2026-03-14 22:08:42 | INFO | build_documents | Built 20 movie documents
+2026-03-14 22:08:42 | INFO | validate_schema | [post-document-build] document schema validation passed (20 rows)
+2026-03-14 22:08:42 | INFO | SQLiteDB | SQLite schema ensured at: /Users/cai/Desktop/Movie-Intelligence-Agent/storage/movie_agent.db
+2026-03-14 22:08:42 | INFO | MovieRepository | Upserted 20 movie rows
+2026-03-14 22:08:42 | INFO | MovieRepository | Upserted 20 document rows
+2026-03-14 22:08:42 | INFO | run_pipeline | Pipeline finished successfully
+2026-03-14 22:08:43 | INFO | run_pipeline | Using raw CSV: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:08:43 | INFO | run_pipeline | Using TMDB source file: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:08:43 | INFO | IngestPipeline | Starting ingestion stage
+2026-03-14 22:08:43 | INFO | csv_loader | Loaded 20 rows from CSV fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:08:43 | INFO | TMDBClient | Loading TMDB data from fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:08:43 | INFO | TMDBClient | Loaded 18 rows from TMDB fixture
+2026-03-14 22:08:43 | INFO | IngestPipeline | Ingestion completed. csv_rows=20 tmdb_rows=18
+2026-03-14 22:08:43 | INFO | clean_movies | Cleaned 20 rows for source=csv
+2026-03-14 22:08:43 | INFO | clean_movies | Cleaned 18 rows for source=tmdb
+2026-03-14 22:08:43 | INFO | merge_sources | Merged sources into 20 unified movie rows
+2026-03-14 22:08:43 | INFO | validate_schema | [post-merge] movies schema validation passed (20 rows)
+2026-03-14 22:08:43 | INFO | build_documents | Built 20 movie documents
+2026-03-14 22:08:43 | INFO | validate_schema | [post-document-build] document schema validation passed (20 rows)
+2026-03-14 22:08:43 | INFO | SQLiteDB | SQLite schema ensured at: /Users/cai/Desktop/Movie-Intelligence-Agent/storage/movie_agent.db
+2026-03-14 22:08:43 | INFO | MovieRepository | Upserted 20 movie rows
+2026-03-14 22:08:43 | INFO | MovieRepository | Upserted 20 document rows
+2026-03-14 22:08:43 | INFO | run_pipeline | Pipeline finished successfully
+2026-03-14 22:08:43 | INFO | run_pipeline | Using raw CSV: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:08:43 | INFO | run_pipeline | Using TMDB source file: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:08:43 | INFO | IngestPipeline | Starting ingestion stage
+2026-03-14 22:08:43 | INFO | csv_loader | Loaded 20 rows from CSV fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:08:43 | INFO | TMDBClient | Loading TMDB data from fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:08:43 | INFO | TMDBClient | Loaded 18 rows from TMDB fixture
+2026-03-14 22:08:43 | INFO | IngestPipeline | Ingestion completed. csv_rows=20 tmdb_rows=18
+2026-03-14 22:08:43 | INFO | clean_movies | Cleaned 20 rows for source=csv
+2026-03-14 22:08:43 | INFO | clean_movies | Cleaned 18 rows for source=tmdb
+2026-03-14 22:08:43 | INFO | merge_sources | Merged sources into 20 unified movie rows
+2026-03-14 22:08:43 | INFO | validate_schema | [post-merge] movies schema validation passed (20 rows)
+2026-03-14 22:08:43 | INFO | build_documents | Built 20 movie documents
+2026-03-14 22:08:43 | INFO | validate_schema | [post-document-build] document schema validation passed (20 rows)
+2026-03-14 22:08:43 | INFO | SQLiteDB | SQLite schema ensured at: /Users/cai/Desktop/Movie-Intelligence-Agent/storage/movie_agent.db
+2026-03-14 22:08:43 | INFO | MovieRepository | Upserted 20 movie rows
+2026-03-14 22:08:43 | INFO | MovieRepository | Upserted 20 document rows
+2026-03-14 22:08:43 | INFO | run_pipeline | Pipeline finished successfully
+2026-03-14 22:08:44 | INFO | run_pipeline | Using raw CSV: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:08:44 | INFO | run_pipeline | Using TMDB source file: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:08:44 | INFO | IngestPipeline | Starting ingestion stage
+2026-03-14 22:08:44 | INFO | csv_loader | Loaded 20 rows from CSV fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:08:44 | INFO | TMDBClient | Loading TMDB data from fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:08:44 | INFO | TMDBClient | Loaded 18 rows from TMDB fixture
+2026-03-14 22:08:44 | INFO | IngestPipeline | Ingestion completed. csv_rows=20 tmdb_rows=18
+2026-03-14 22:08:44 | INFO | clean_movies | Cleaned 20 rows for source=csv
+2026-03-14 22:08:44 | INFO | clean_movies | Cleaned 18 rows for source=tmdb
+2026-03-14 22:08:44 | INFO | merge_sources | Merged sources into 20 unified movie rows
+2026-03-14 22:08:44 | INFO | validate_schema | [post-merge] movies schema validation passed (20 rows)
+2026-03-14 22:08:44 | INFO | build_documents | Built 20 movie documents
+2026-03-14 22:08:44 | INFO | validate_schema | [post-document-build] document schema validation passed (20 rows)
+2026-03-14 22:08:44 | INFO | SQLiteDB | SQLite schema ensured at: /Users/cai/Desktop/Movie-Intelligence-Agent/storage/movie_agent.db
+2026-03-14 22:08:44 | INFO | MovieRepository | Upserted 20 movie rows
+2026-03-14 22:08:44 | INFO | MovieRepository | Upserted 20 document rows
+2026-03-14 22:08:44 | INFO | run_pipeline | Pipeline finished successfully
+2026-03-14 22:11:15 | WARNING | LocalEmbedder | sentence-transformers unavailable, using deterministic hash fallback. error=No module named 'sentence_transformers'
+2026-03-14 22:11:15 | WARNING | MovieVectorStore | chromadb unavailable, using JSON fallback store. error=No module named 'chromadb'
+2026-03-14 22:11:15 | INFO | top_rated | get_top_rated_movies returned 5 rows
+2026-03-14 22:11:16 | INFO | run_pipeline | Using raw CSV: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:11:16 | INFO | run_pipeline | Using TMDB source file: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:11:16 | INFO | IngestPipeline | Starting ingestion stage
+2026-03-14 22:11:16 | INFO | csv_loader | Loaded 20 rows from CSV fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:11:16 | INFO | TMDBClient | Loading TMDB data from fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:11:16 | INFO | TMDBClient | Loaded 18 rows from TMDB fixture
+2026-03-14 22:11:16 | INFO | IngestPipeline | Ingestion completed. csv_rows=20 tmdb_rows=18
+2026-03-14 22:11:16 | INFO | clean_movies | Cleaned 20 rows for source=csv
+2026-03-14 22:11:16 | INFO | clean_movies | Cleaned 18 rows for source=tmdb
+2026-03-14 22:11:16 | INFO | merge_sources | Merged sources into 20 unified movie rows
+2026-03-14 22:11:16 | INFO | validate_schema | [post-merge] movies schema validation passed (20 rows)
+2026-03-14 22:11:16 | INFO | build_documents | Built 20 movie documents
+2026-03-14 22:11:16 | INFO | validate_schema | [post-document-build] document schema validation passed (20 rows)
+2026-03-14 22:11:16 | INFO | SQLiteDB | SQLite schema ensured at: /Users/cai/Desktop/Movie-Intelligence-Agent/storage/movie_agent.db
+2026-03-14 22:11:16 | INFO | MovieRepository | Upserted 20 movie rows
+2026-03-14 22:11:16 | INFO | MovieRepository | Upserted 20 document rows
+2026-03-14 22:11:16 | INFO | run_pipeline | Pipeline finished successfully
+2026-03-14 22:11:20 | WARNING | LocalEmbedder | sentence-transformers unavailable, using deterministic hash fallback. error=No module named 'sentence_transformers'
+2026-03-14 22:11:20 | WARNING | MovieVectorStore | chromadb unavailable, using JSON fallback store. error=No module named 'chromadb'
+2026-03-14 22:11:20 | INFO | MovieSemanticRetriever | Force rebuilding vector index
+2026-03-14 22:11:20 | INFO | MovieSemanticRetriever | Loaded 20 documents from SQLite for indexing
+2026-03-14 22:11:20 | INFO | main | Rebuilt index status: {'status': 'built', 'count': 20, 'embedder_backend': 'hash_fallback', 'vector_backend': 'json_fallback'}
+2026-03-14 22:11:25 | INFO | run_pipeline | Using raw CSV: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:11:25 | INFO | run_pipeline | Using TMDB source file: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:11:25 | INFO | IngestPipeline | Starting ingestion stage
+2026-03-14 22:11:25 | INFO | csv_loader | Loaded 20 rows from CSV fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:11:25 | INFO | TMDBClient | Loading TMDB data from fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:11:25 | INFO | TMDBClient | Loaded 18 rows from TMDB fixture
+2026-03-14 22:11:25 | INFO | IngestPipeline | Ingestion completed. csv_rows=20 tmdb_rows=18
+2026-03-14 22:11:25 | INFO | clean_movies | Cleaned 20 rows for source=csv
+2026-03-14 22:11:25 | INFO | clean_movies | Cleaned 18 rows for source=tmdb
+2026-03-14 22:11:25 | INFO | merge_sources | Merged sources into 20 unified movie rows
+2026-03-14 22:11:25 | INFO | validate_schema | [post-merge] movies schema validation passed (20 rows)
+2026-03-14 22:11:25 | INFO | build_documents | Built 20 movie documents
+2026-03-14 22:11:25 | INFO | validate_schema | [post-document-build] document schema validation passed (20 rows)
+2026-03-14 22:11:25 | INFO | SQLiteDB | SQLite schema ensured at: /Users/cai/Desktop/Movie-Intelligence-Agent/storage/movie_agent.db
+2026-03-14 22:11:25 | INFO | MovieRepository | Upserted 20 movie rows
+2026-03-14 22:11:25 | INFO | MovieRepository | Upserted 20 document rows
+2026-03-14 22:11:25 | INFO | run_pipeline | Pipeline finished successfully
+2026-03-14 22:11:25 | INFO | run_pipeline | Using raw CSV: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:11:25 | INFO | run_pipeline | Using TMDB source file: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:11:25 | INFO | IngestPipeline | Starting ingestion stage
+2026-03-14 22:11:25 | INFO | csv_loader | Loaded 20 rows from CSV fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:11:25 | INFO | TMDBClient | Loading TMDB data from fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:11:25 | INFO | TMDBClient | Loaded 18 rows from TMDB fixture
+2026-03-14 22:11:25 | INFO | IngestPipeline | Ingestion completed. csv_rows=20 tmdb_rows=18
+2026-03-14 22:11:25 | INFO | clean_movies | Cleaned 20 rows for source=csv
+2026-03-14 22:11:25 | INFO | clean_movies | Cleaned 18 rows for source=tmdb
+2026-03-14 22:11:25 | INFO | merge_sources | Merged sources into 20 unified movie rows
+2026-03-14 22:11:25 | INFO | validate_schema | [post-merge] movies schema validation passed (20 rows)
+2026-03-14 22:11:25 | INFO | build_documents | Built 20 movie documents
+2026-03-14 22:11:25 | INFO | validate_schema | [post-document-build] document schema validation passed (20 rows)
+2026-03-14 22:11:25 | INFO | SQLiteDB | SQLite schema ensured at: /Users/cai/Desktop/Movie-Intelligence-Agent/storage/movie_agent.db
+2026-03-14 22:11:25 | INFO | MovieRepository | Upserted 20 movie rows
+2026-03-14 22:11:25 | INFO | MovieRepository | Upserted 20 document rows
+2026-03-14 22:11:25 | INFO | run_pipeline | Pipeline finished successfully
+2026-03-14 22:11:26 | INFO | run_pipeline | Using raw CSV: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:11:26 | INFO | run_pipeline | Using TMDB source file: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:11:26 | INFO | IngestPipeline | Starting ingestion stage
+2026-03-14 22:11:26 | INFO | csv_loader | Loaded 20 rows from CSV fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:11:26 | INFO | TMDBClient | Loading TMDB data from fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:11:26 | INFO | TMDBClient | Loaded 18 rows from TMDB fixture
+2026-03-14 22:11:26 | INFO | IngestPipeline | Ingestion completed. csv_rows=20 tmdb_rows=18
+2026-03-14 22:11:26 | INFO | clean_movies | Cleaned 20 rows for source=csv
+2026-03-14 22:11:26 | INFO | clean_movies | Cleaned 18 rows for source=tmdb
+2026-03-14 22:11:26 | INFO | merge_sources | Merged sources into 20 unified movie rows
+2026-03-14 22:11:26 | INFO | validate_schema | [post-merge] movies schema validation passed (20 rows)
+2026-03-14 22:11:26 | INFO | build_documents | Built 20 movie documents
+2026-03-14 22:11:26 | INFO | validate_schema | [post-document-build] document schema validation passed (20 rows)
+2026-03-14 22:11:26 | INFO | SQLiteDB | SQLite schema ensured at: /Users/cai/Desktop/Movie-Intelligence-Agent/storage/movie_agent.db
+2026-03-14 22:11:26 | INFO | MovieRepository | Upserted 20 movie rows
+2026-03-14 22:11:26 | INFO | MovieRepository | Upserted 20 document rows
+2026-03-14 22:11:26 | INFO | run_pipeline | Pipeline finished successfully
+2026-03-14 22:11:26 | INFO | run_pipeline | Using raw CSV: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:11:26 | INFO | run_pipeline | Using TMDB source file: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:11:26 | INFO | IngestPipeline | Starting ingestion stage
+2026-03-14 22:11:26 | INFO | csv_loader | Loaded 20 rows from CSV fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:11:26 | INFO | TMDBClient | Loading TMDB data from fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:11:26 | INFO | TMDBClient | Loaded 18 rows from TMDB fixture
+2026-03-14 22:11:26 | INFO | IngestPipeline | Ingestion completed. csv_rows=20 tmdb_rows=18
+2026-03-14 22:11:26 | INFO | clean_movies | Cleaned 20 rows for source=csv
+2026-03-14 22:11:26 | INFO | clean_movies | Cleaned 18 rows for source=tmdb
+2026-03-14 22:11:26 | INFO | merge_sources | Merged sources into 20 unified movie rows
+2026-03-14 22:11:26 | INFO | validate_schema | [post-merge] movies schema validation passed (20 rows)
+2026-03-14 22:11:26 | INFO | build_documents | Built 20 movie documents
+2026-03-14 22:11:26 | INFO | validate_schema | [post-document-build] document schema validation passed (20 rows)
+2026-03-14 22:11:26 | INFO | SQLiteDB | SQLite schema ensured at: /Users/cai/Desktop/Movie-Intelligence-Agent/storage/movie_agent.db
+2026-03-14 22:11:26 | INFO | MovieRepository | Upserted 20 movie rows
+2026-03-14 22:11:26 | INFO | MovieRepository | Upserted 20 document rows
+2026-03-14 22:11:26 | INFO | run_pipeline | Pipeline finished successfully
+2026-03-14 22:11:27 | INFO | run_pipeline | Using raw CSV: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:11:27 | INFO | run_pipeline | Using TMDB source file: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:11:27 | INFO | IngestPipeline | Starting ingestion stage
+2026-03-14 22:11:27 | INFO | csv_loader | Loaded 20 rows from CSV fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:11:27 | INFO | TMDBClient | Loading TMDB data from fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:11:27 | INFO | TMDBClient | Loaded 18 rows from TMDB fixture
+2026-03-14 22:11:27 | INFO | IngestPipeline | Ingestion completed. csv_rows=20 tmdb_rows=18
+2026-03-14 22:11:27 | INFO | clean_movies | Cleaned 20 rows for source=csv
+2026-03-14 22:11:27 | INFO | clean_movies | Cleaned 18 rows for source=tmdb
+2026-03-14 22:11:27 | INFO | merge_sources | Merged sources into 20 unified movie rows
+2026-03-14 22:11:27 | INFO | validate_schema | [post-merge] movies schema validation passed (20 rows)
+2026-03-14 22:11:27 | INFO | build_documents | Built 20 movie documents
+2026-03-14 22:11:27 | INFO | validate_schema | [post-document-build] document schema validation passed (20 rows)
+2026-03-14 22:11:27 | INFO | SQLiteDB | SQLite schema ensured at: /Users/cai/Desktop/Movie-Intelligence-Agent/storage/movie_agent.db
+2026-03-14 22:11:27 | INFO | MovieRepository | Upserted 20 movie rows
+2026-03-14 22:11:27 | INFO | MovieRepository | Upserted 20 document rows
+2026-03-14 22:11:27 | INFO | run_pipeline | Pipeline finished successfully
+2026-03-14 22:12:08 | WARNING | LocalEmbedder | sentence-transformers unavailable, using deterministic hash fallback. error=No module named 'sentence_transformers'
+2026-03-14 22:12:08 | WARNING | MovieVectorStore | chromadb unavailable, using JSON fallback store. error=No module named 'chromadb'
+2026-03-14 22:12:08 | INFO | top_rated | get_top_rated_movies returned 5 rows
+2026-03-14 22:12:09 | INFO | run_pipeline | Using raw CSV: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:12:09 | INFO | run_pipeline | Using TMDB source file: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:12:09 | INFO | IngestPipeline | Starting ingestion stage
+2026-03-14 22:12:09 | INFO | csv_loader | Loaded 20 rows from CSV fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:12:09 | INFO | TMDBClient | Loading TMDB data from fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:12:09 | INFO | TMDBClient | Loaded 18 rows from TMDB fixture
+2026-03-14 22:12:09 | INFO | IngestPipeline | Ingestion completed. csv_rows=20 tmdb_rows=18
+2026-03-14 22:12:09 | INFO | clean_movies | Cleaned 20 rows for source=csv
+2026-03-14 22:12:09 | INFO | clean_movies | Cleaned 18 rows for source=tmdb
+2026-03-14 22:12:09 | INFO | merge_sources | Merged sources into 20 unified movie rows
+2026-03-14 22:12:09 | INFO | validate_schema | [post-merge] movies schema validation passed (20 rows)
+2026-03-14 22:12:09 | INFO | build_documents | Built 20 movie documents
+2026-03-14 22:12:09 | INFO | validate_schema | [post-document-build] document schema validation passed (20 rows)
+2026-03-14 22:12:09 | INFO | SQLiteDB | SQLite schema ensured at: /Users/cai/Desktop/Movie-Intelligence-Agent/storage/movie_agent.db
+2026-03-14 22:12:09 | INFO | MovieRepository | Upserted 20 movie rows
+2026-03-14 22:12:09 | INFO | MovieRepository | Upserted 20 document rows
+2026-03-14 22:12:09 | WARNING | LocalEmbedder | sentence-transformers unavailable, using deterministic hash fallback. error=No module named 'sentence_transformers'
+2026-03-14 22:12:09 | WARNING | MovieVectorStore | chromadb unavailable, using JSON fallback store. error=No module named 'chromadb'
+2026-03-14 22:12:09 | INFO | MovieSemanticRetriever | Force rebuilding vector index
+2026-03-14 22:12:09 | INFO | MovieSemanticRetriever | Loaded 20 documents from SQLite for indexing
+2026-03-14 22:12:09 | INFO | run_pipeline | Pipeline finished successfully
+2026-03-14 22:12:13 | INFO | run_pipeline | Using raw CSV: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:12:13 | INFO | run_pipeline | Using TMDB source file: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:12:13 | INFO | IngestPipeline | Starting ingestion stage
+2026-03-14 22:12:13 | INFO | csv_loader | Loaded 20 rows from CSV fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:12:13 | INFO | TMDBClient | Loading TMDB data from fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:12:13 | INFO | TMDBClient | Loaded 18 rows from TMDB fixture
+2026-03-14 22:12:13 | INFO | IngestPipeline | Ingestion completed. csv_rows=20 tmdb_rows=18
+2026-03-14 22:12:13 | INFO | clean_movies | Cleaned 20 rows for source=csv
+2026-03-14 22:12:13 | INFO | clean_movies | Cleaned 18 rows for source=tmdb
+2026-03-14 22:12:13 | INFO | merge_sources | Merged sources into 20 unified movie rows
+2026-03-14 22:12:13 | INFO | validate_schema | [post-merge] movies schema validation passed (20 rows)
+2026-03-14 22:12:13 | INFO | build_documents | Built 20 movie documents
+2026-03-14 22:12:13 | INFO | validate_schema | [post-document-build] document schema validation passed (20 rows)
+2026-03-14 22:12:13 | INFO | SQLiteDB | SQLite schema ensured at: /Users/cai/Desktop/Movie-Intelligence-Agent/storage/movie_agent.db
+2026-03-14 22:12:13 | INFO | MovieRepository | Upserted 20 movie rows
+2026-03-14 22:12:13 | INFO | MovieRepository | Upserted 20 document rows
+2026-03-14 22:12:13 | WARNING | LocalEmbedder | sentence-transformers unavailable, using deterministic hash fallback. error=No module named 'sentence_transformers'
+2026-03-14 22:12:13 | WARNING | MovieVectorStore | chromadb unavailable, using JSON fallback store. error=No module named 'chromadb'
+2026-03-14 22:12:13 | INFO | MovieSemanticRetriever | Force rebuilding vector index
+2026-03-14 22:12:13 | INFO | MovieSemanticRetriever | Loaded 20 documents from SQLite for indexing
+2026-03-14 22:12:13 | INFO | run_pipeline | Pipeline finished successfully
+2026-03-14 22:12:13 | INFO | run_pipeline | Using raw CSV: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:12:13 | INFO | run_pipeline | Using TMDB source file: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:12:13 | INFO | IngestPipeline | Starting ingestion stage
+2026-03-14 22:12:13 | INFO | csv_loader | Loaded 20 rows from CSV fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:12:13 | INFO | TMDBClient | Loading TMDB data from fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:12:13 | INFO | TMDBClient | Loaded 18 rows from TMDB fixture
+2026-03-14 22:12:13 | INFO | IngestPipeline | Ingestion completed. csv_rows=20 tmdb_rows=18
+2026-03-14 22:12:13 | INFO | clean_movies | Cleaned 20 rows for source=csv
+2026-03-14 22:12:13 | INFO | clean_movies | Cleaned 18 rows for source=tmdb
+2026-03-14 22:12:13 | INFO | merge_sources | Merged sources into 20 unified movie rows
+2026-03-14 22:12:13 | INFO | validate_schema | [post-merge] movies schema validation passed (20 rows)
+2026-03-14 22:12:13 | INFO | build_documents | Built 20 movie documents
+2026-03-14 22:12:13 | INFO | validate_schema | [post-document-build] document schema validation passed (20 rows)
+2026-03-14 22:12:13 | INFO | SQLiteDB | SQLite schema ensured at: /Users/cai/Desktop/Movie-Intelligence-Agent/storage/movie_agent.db
+2026-03-14 22:12:13 | INFO | MovieRepository | Upserted 20 movie rows
+2026-03-14 22:12:13 | INFO | MovieRepository | Upserted 20 document rows
+2026-03-14 22:12:13 | WARNING | LocalEmbedder | sentence-transformers unavailable, using deterministic hash fallback. error=No module named 'sentence_transformers'
+2026-03-14 22:12:13 | WARNING | MovieVectorStore | chromadb unavailable, using JSON fallback store. error=No module named 'chromadb'
+2026-03-14 22:12:13 | INFO | MovieSemanticRetriever | Force rebuilding vector index
+2026-03-14 22:12:13 | INFO | MovieSemanticRetriever | Loaded 20 documents from SQLite for indexing
+2026-03-14 22:12:13 | INFO | run_pipeline | Pipeline finished successfully
+2026-03-14 22:12:14 | INFO | run_pipeline | Using raw CSV: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:12:14 | INFO | run_pipeline | Using TMDB source file: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:12:14 | INFO | IngestPipeline | Starting ingestion stage
+2026-03-14 22:12:14 | INFO | csv_loader | Loaded 20 rows from CSV fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:12:14 | INFO | TMDBClient | Loading TMDB data from fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:12:14 | INFO | TMDBClient | Loaded 18 rows from TMDB fixture
+2026-03-14 22:12:14 | INFO | IngestPipeline | Ingestion completed. csv_rows=20 tmdb_rows=18
+2026-03-14 22:12:14 | INFO | clean_movies | Cleaned 20 rows for source=csv
+2026-03-14 22:12:14 | INFO | clean_movies | Cleaned 18 rows for source=tmdb
+2026-03-14 22:12:14 | INFO | merge_sources | Merged sources into 20 unified movie rows
+2026-03-14 22:12:14 | INFO | validate_schema | [post-merge] movies schema validation passed (20 rows)
+2026-03-14 22:12:14 | INFO | build_documents | Built 20 movie documents
+2026-03-14 22:12:14 | INFO | validate_schema | [post-document-build] document schema validation passed (20 rows)
+2026-03-14 22:12:14 | INFO | SQLiteDB | SQLite schema ensured at: /Users/cai/Desktop/Movie-Intelligence-Agent/storage/movie_agent.db
+2026-03-14 22:12:14 | INFO | MovieRepository | Upserted 20 movie rows
+2026-03-14 22:12:14 | INFO | MovieRepository | Upserted 20 document rows
+2026-03-14 22:12:14 | WARNING | LocalEmbedder | sentence-transformers unavailable, using deterministic hash fallback. error=No module named 'sentence_transformers'
+2026-03-14 22:12:14 | WARNING | MovieVectorStore | chromadb unavailable, using JSON fallback store. error=No module named 'chromadb'
+2026-03-14 22:12:14 | INFO | MovieSemanticRetriever | Force rebuilding vector index
+2026-03-14 22:12:14 | INFO | MovieSemanticRetriever | Loaded 20 documents from SQLite for indexing
+2026-03-14 22:12:14 | INFO | run_pipeline | Pipeline finished successfully
+2026-03-14 22:12:14 | INFO | run_pipeline | Using raw CSV: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:12:14 | INFO | run_pipeline | Using TMDB source file: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:12:14 | INFO | IngestPipeline | Starting ingestion stage
+2026-03-14 22:12:14 | INFO | csv_loader | Loaded 20 rows from CSV fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:12:14 | INFO | TMDBClient | Loading TMDB data from fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:12:14 | INFO | TMDBClient | Loaded 18 rows from TMDB fixture
+2026-03-14 22:12:14 | INFO | IngestPipeline | Ingestion completed. csv_rows=20 tmdb_rows=18
+2026-03-14 22:12:14 | INFO | clean_movies | Cleaned 20 rows for source=csv
+2026-03-14 22:12:14 | INFO | clean_movies | Cleaned 18 rows for source=tmdb
+2026-03-14 22:12:14 | INFO | merge_sources | Merged sources into 20 unified movie rows
+2026-03-14 22:12:14 | INFO | validate_schema | [post-merge] movies schema validation passed (20 rows)
+2026-03-14 22:12:14 | INFO | build_documents | Built 20 movie documents
+2026-03-14 22:12:14 | INFO | validate_schema | [post-document-build] document schema validation passed (20 rows)
+2026-03-14 22:12:14 | INFO | SQLiteDB | SQLite schema ensured at: /Users/cai/Desktop/Movie-Intelligence-Agent/storage/movie_agent.db
+2026-03-14 22:12:14 | INFO | MovieRepository | Upserted 20 movie rows
+2026-03-14 22:12:14 | INFO | MovieRepository | Upserted 20 document rows
+2026-03-14 22:12:14 | WARNING | LocalEmbedder | sentence-transformers unavailable, using deterministic hash fallback. error=No module named 'sentence_transformers'
+2026-03-14 22:12:14 | WARNING | MovieVectorStore | chromadb unavailable, using JSON fallback store. error=No module named 'chromadb'
+2026-03-14 22:12:14 | INFO | MovieSemanticRetriever | Force rebuilding vector index
+2026-03-14 22:12:14 | INFO | MovieSemanticRetriever | Loaded 20 documents from SQLite for indexing
+2026-03-14 22:12:14 | INFO | run_pipeline | Pipeline finished successfully
+2026-03-14 22:12:15 | INFO | run_pipeline | Using raw CSV: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:12:15 | INFO | run_pipeline | Using TMDB source file: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:12:15 | INFO | IngestPipeline | Starting ingestion stage
+2026-03-14 22:12:15 | INFO | csv_loader | Loaded 20 rows from CSV fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:12:15 | INFO | TMDBClient | Loading TMDB data from fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:12:15 | INFO | TMDBClient | Loaded 18 rows from TMDB fixture
+2026-03-14 22:12:15 | INFO | IngestPipeline | Ingestion completed. csv_rows=20 tmdb_rows=18
+2026-03-14 22:12:15 | INFO | clean_movies | Cleaned 20 rows for source=csv
+2026-03-14 22:12:15 | INFO | clean_movies | Cleaned 18 rows for source=tmdb
+2026-03-14 22:12:15 | INFO | merge_sources | Merged sources into 20 unified movie rows
+2026-03-14 22:12:15 | INFO | validate_schema | [post-merge] movies schema validation passed (20 rows)
+2026-03-14 22:12:15 | INFO | build_documents | Built 20 movie documents
+2026-03-14 22:12:15 | INFO | validate_schema | [post-document-build] document schema validation passed (20 rows)
+2026-03-14 22:12:15 | INFO | SQLiteDB | SQLite schema ensured at: /Users/cai/Desktop/Movie-Intelligence-Agent/storage/movie_agent.db
+2026-03-14 22:12:15 | INFO | MovieRepository | Upserted 20 movie rows
+2026-03-14 22:12:15 | INFO | MovieRepository | Upserted 20 document rows
+2026-03-14 22:12:15 | WARNING | LocalEmbedder | sentence-transformers unavailable, using deterministic hash fallback. error=No module named 'sentence_transformers'
+2026-03-14 22:12:15 | WARNING | MovieVectorStore | chromadb unavailable, using JSON fallback store. error=No module named 'chromadb'
+2026-03-14 22:12:15 | INFO | MovieSemanticRetriever | Force rebuilding vector index
+2026-03-14 22:12:15 | INFO | MovieSemanticRetriever | Loaded 20 documents from SQLite for indexing
+2026-03-14 22:12:15 | INFO | run_pipeline | Pipeline finished successfully
+2026-03-14 22:15:37 | INFO | run_pipeline | Using raw CSV: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:15:37 | INFO | run_pipeline | Using TMDB source file: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:15:37 | INFO | IngestPipeline | Starting ingestion stage
+2026-03-14 22:15:37 | INFO | csv_loader | Loaded 20 rows from CSV fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:15:37 | INFO | TMDBClient | Loading TMDB data from fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:15:37 | INFO | TMDBClient | Loaded 18 rows from TMDB fixture
+2026-03-14 22:15:37 | INFO | IngestPipeline | Ingestion completed. csv_rows=20 tmdb_rows=18
+2026-03-14 22:15:37 | INFO | clean_movies | Cleaned 20 rows for source=csv
+2026-03-14 22:15:37 | INFO | clean_movies | Cleaned 18 rows for source=tmdb
+2026-03-14 22:15:37 | INFO | merge_sources | Merged sources into 20 unified movie rows
+2026-03-14 22:15:37 | INFO | validate_schema | [post-merge] movies schema validation passed (20 rows)
+2026-03-14 22:15:37 | INFO | build_documents | Built 20 movie documents
+2026-03-14 22:15:37 | INFO | validate_schema | [post-document-build] document schema validation passed (20 rows)
+2026-03-14 22:15:37 | INFO | SQLiteDB | SQLite schema ensured at: /Users/cai/Desktop/Movie-Intelligence-Agent/storage/movie_agent.db
+2026-03-14 22:15:37 | INFO | MovieRepository | Upserted 20 movie rows
+2026-03-14 22:15:37 | INFO | MovieRepository | Upserted 20 document rows
+2026-03-14 22:15:37 | WARNING | LocalEmbedder | sentence-transformers unavailable, using deterministic hash fallback. error=No module named 'sentence_transformers'
+2026-03-14 22:15:37 | WARNING | MovieVectorStore | chromadb unavailable, using JSON fallback store. error=No module named 'chromadb'
+2026-03-14 22:15:37 | INFO | MovieSemanticRetriever | Force rebuilding vector index
+2026-03-14 22:15:37 | INFO | MovieSemanticRetriever | Loaded 20 documents from SQLite for indexing
+2026-03-14 22:15:37 | INFO | run_pipeline | Pipeline finished successfully
+2026-03-14 22:15:40 | WARNING | LocalEmbedder | sentence-transformers unavailable, using deterministic hash fallback. error=No module named 'sentence_transformers'
+2026-03-14 22:15:40 | WARNING | MovieVectorStore | chromadb unavailable, using JSON fallback store. error=No module named 'chromadb'
+2026-03-14 22:15:40 | INFO | top_rated | get_top_rated_movies returned 5 rows
+2026-03-14 22:15:45 | INFO | run_pipeline | Using raw CSV: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:15:45 | INFO | run_pipeline | Using TMDB source file: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:15:45 | INFO | IngestPipeline | Starting ingestion stage
+2026-03-14 22:15:45 | INFO | csv_loader | Loaded 20 rows from CSV fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:15:45 | INFO | TMDBClient | Loading TMDB data from fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:15:45 | INFO | TMDBClient | Loaded 18 rows from TMDB fixture
+2026-03-14 22:15:45 | INFO | IngestPipeline | Ingestion completed. csv_rows=20 tmdb_rows=18
+2026-03-14 22:15:45 | INFO | clean_movies | Cleaned 20 rows for source=csv
+2026-03-14 22:15:45 | INFO | clean_movies | Cleaned 18 rows for source=tmdb
+2026-03-14 22:15:45 | INFO | merge_sources | Merged sources into 20 unified movie rows
+2026-03-14 22:15:45 | INFO | validate_schema | [post-merge] movies schema validation passed (20 rows)
+2026-03-14 22:15:45 | INFO | build_documents | Built 20 movie documents
+2026-03-14 22:15:45 | INFO | validate_schema | [post-document-build] document schema validation passed (20 rows)
+2026-03-14 22:15:45 | INFO | SQLiteDB | SQLite schema ensured at: /Users/cai/Desktop/Movie-Intelligence-Agent/storage/movie_agent.db
+2026-03-14 22:15:45 | INFO | MovieRepository | Upserted 20 movie rows
+2026-03-14 22:15:45 | INFO | MovieRepository | Upserted 20 document rows
+2026-03-14 22:15:45 | WARNING | LocalEmbedder | sentence-transformers unavailable, using deterministic hash fallback. error=No module named 'sentence_transformers'
+2026-03-14 22:15:45 | WARNING | MovieVectorStore | chromadb unavailable, using JSON fallback store. error=No module named 'chromadb'
+2026-03-14 22:15:45 | INFO | MovieSemanticRetriever | Force rebuilding vector index
+2026-03-14 22:15:45 | INFO | MovieSemanticRetriever | Loaded 20 documents from SQLite for indexing
+2026-03-14 22:15:45 | INFO | run_pipeline | Pipeline finished successfully
+2026-03-14 22:15:45 | INFO | run_pipeline | Using raw CSV: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:15:45 | INFO | run_pipeline | Using TMDB source file: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:15:45 | INFO | IngestPipeline | Starting ingestion stage
+2026-03-14 22:15:45 | INFO | csv_loader | Loaded 20 rows from CSV fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:15:45 | INFO | TMDBClient | Loading TMDB data from fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:15:45 | INFO | TMDBClient | Loaded 18 rows from TMDB fixture
+2026-03-14 22:15:45 | INFO | IngestPipeline | Ingestion completed. csv_rows=20 tmdb_rows=18
+2026-03-14 22:15:45 | INFO | clean_movies | Cleaned 20 rows for source=csv
+2026-03-14 22:15:45 | INFO | clean_movies | Cleaned 18 rows for source=tmdb
+2026-03-14 22:15:45 | INFO | merge_sources | Merged sources into 20 unified movie rows
+2026-03-14 22:15:45 | INFO | validate_schema | [post-merge] movies schema validation passed (20 rows)
+2026-03-14 22:15:45 | INFO | build_documents | Built 20 movie documents
+2026-03-14 22:15:45 | INFO | validate_schema | [post-document-build] document schema validation passed (20 rows)
+2026-03-14 22:15:45 | INFO | SQLiteDB | SQLite schema ensured at: /Users/cai/Desktop/Movie-Intelligence-Agent/storage/movie_agent.db
+2026-03-14 22:15:45 | INFO | MovieRepository | Upserted 20 movie rows
+2026-03-14 22:15:45 | INFO | MovieRepository | Upserted 20 document rows
+2026-03-14 22:15:45 | WARNING | LocalEmbedder | sentence-transformers unavailable, using deterministic hash fallback. error=No module named 'sentence_transformers'
+2026-03-14 22:15:45 | WARNING | MovieVectorStore | chromadb unavailable, using JSON fallback store. error=No module named 'chromadb'
+2026-03-14 22:15:45 | INFO | MovieSemanticRetriever | Force rebuilding vector index
+2026-03-14 22:15:45 | INFO | MovieSemanticRetriever | Loaded 20 documents from SQLite for indexing
+2026-03-14 22:15:45 | INFO | run_pipeline | Pipeline finished successfully
+2026-03-14 22:15:46 | INFO | run_pipeline | Using raw CSV: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:15:46 | INFO | run_pipeline | Using TMDB source file: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:15:46 | INFO | IngestPipeline | Starting ingestion stage
+2026-03-14 22:15:46 | INFO | csv_loader | Loaded 20 rows from CSV fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:15:46 | INFO | TMDBClient | Loading TMDB data from fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:15:46 | INFO | TMDBClient | Loaded 18 rows from TMDB fixture
+2026-03-14 22:15:46 | INFO | IngestPipeline | Ingestion completed. csv_rows=20 tmdb_rows=18
+2026-03-14 22:15:46 | INFO | clean_movies | Cleaned 20 rows for source=csv
+2026-03-14 22:15:46 | INFO | clean_movies | Cleaned 18 rows for source=tmdb
+2026-03-14 22:15:46 | INFO | merge_sources | Merged sources into 20 unified movie rows
+2026-03-14 22:15:46 | INFO | validate_schema | [post-merge] movies schema validation passed (20 rows)
+2026-03-14 22:15:46 | INFO | build_documents | Built 20 movie documents
+2026-03-14 22:15:46 | INFO | validate_schema | [post-document-build] document schema validation passed (20 rows)
+2026-03-14 22:15:46 | INFO | SQLiteDB | SQLite schema ensured at: /Users/cai/Desktop/Movie-Intelligence-Agent/storage/movie_agent.db
+2026-03-14 22:15:46 | INFO | MovieRepository | Upserted 20 movie rows
+2026-03-14 22:15:46 | INFO | MovieRepository | Upserted 20 document rows
+2026-03-14 22:15:46 | WARNING | LocalEmbedder | sentence-transformers unavailable, using deterministic hash fallback. error=No module named 'sentence_transformers'
+2026-03-14 22:15:46 | WARNING | MovieVectorStore | chromadb unavailable, using JSON fallback store. error=No module named 'chromadb'
+2026-03-14 22:15:46 | INFO | MovieSemanticRetriever | Force rebuilding vector index
+2026-03-14 22:15:46 | INFO | MovieSemanticRetriever | Loaded 20 documents from SQLite for indexing
+2026-03-14 22:15:46 | INFO | run_pipeline | Pipeline finished successfully
+2026-03-14 22:15:47 | INFO | run_pipeline | Using raw CSV: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:15:47 | INFO | run_pipeline | Using TMDB source file: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:15:47 | INFO | IngestPipeline | Starting ingestion stage
+2026-03-14 22:15:47 | INFO | csv_loader | Loaded 20 rows from CSV fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:15:47 | INFO | TMDBClient | Loading TMDB data from fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:15:47 | INFO | TMDBClient | Loaded 18 rows from TMDB fixture
+2026-03-14 22:15:47 | INFO | IngestPipeline | Ingestion completed. csv_rows=20 tmdb_rows=18
+2026-03-14 22:15:47 | INFO | clean_movies | Cleaned 20 rows for source=csv
+2026-03-14 22:15:47 | INFO | clean_movies | Cleaned 18 rows for source=tmdb
+2026-03-14 22:15:47 | INFO | merge_sources | Merged sources into 20 unified movie rows
+2026-03-14 22:15:47 | INFO | validate_schema | [post-merge] movies schema validation passed (20 rows)
+2026-03-14 22:15:47 | INFO | build_documents | Built 20 movie documents
+2026-03-14 22:15:47 | INFO | validate_schema | [post-document-build] document schema validation passed (20 rows)
+2026-03-14 22:15:47 | INFO | SQLiteDB | SQLite schema ensured at: /Users/cai/Desktop/Movie-Intelligence-Agent/storage/movie_agent.db
+2026-03-14 22:15:47 | INFO | MovieRepository | Upserted 20 movie rows
+2026-03-14 22:15:47 | INFO | MovieRepository | Upserted 20 document rows
+2026-03-14 22:15:47 | WARNING | LocalEmbedder | sentence-transformers unavailable, using deterministic hash fallback. error=No module named 'sentence_transformers'
+2026-03-14 22:15:47 | WARNING | MovieVectorStore | chromadb unavailable, using JSON fallback store. error=No module named 'chromadb'
+2026-03-14 22:15:47 | INFO | MovieSemanticRetriever | Force rebuilding vector index
+2026-03-14 22:15:47 | INFO | MovieSemanticRetriever | Loaded 20 documents from SQLite for indexing
+2026-03-14 22:15:47 | INFO | run_pipeline | Pipeline finished successfully
+2026-03-14 22:15:47 | INFO | run_pipeline | Using raw CSV: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:15:47 | INFO | run_pipeline | Using TMDB source file: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:15:47 | INFO | IngestPipeline | Starting ingestion stage
+2026-03-14 22:15:47 | INFO | csv_loader | Loaded 20 rows from CSV fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:15:47 | INFO | TMDBClient | Loading TMDB data from fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:15:47 | INFO | TMDBClient | Loaded 18 rows from TMDB fixture
+2026-03-14 22:15:47 | INFO | IngestPipeline | Ingestion completed. csv_rows=20 tmdb_rows=18
+2026-03-14 22:15:47 | INFO | clean_movies | Cleaned 20 rows for source=csv
+2026-03-14 22:15:47 | INFO | clean_movies | Cleaned 18 rows for source=tmdb
+2026-03-14 22:15:47 | INFO | merge_sources | Merged sources into 20 unified movie rows
+2026-03-14 22:15:47 | INFO | validate_schema | [post-merge] movies schema validation passed (20 rows)
+2026-03-14 22:15:47 | INFO | build_documents | Built 20 movie documents
+2026-03-14 22:15:47 | INFO | validate_schema | [post-document-build] document schema validation passed (20 rows)
+2026-03-14 22:15:47 | INFO | SQLiteDB | SQLite schema ensured at: /Users/cai/Desktop/Movie-Intelligence-Agent/storage/movie_agent.db
+2026-03-14 22:15:47 | INFO | MovieRepository | Upserted 20 movie rows
+2026-03-14 22:15:47 | INFO | MovieRepository | Upserted 20 document rows
+2026-03-14 22:15:47 | WARNING | LocalEmbedder | sentence-transformers unavailable, using deterministic hash fallback. error=No module named 'sentence_transformers'
+2026-03-14 22:15:47 | WARNING | MovieVectorStore | chromadb unavailable, using JSON fallback store. error=No module named 'chromadb'
+2026-03-14 22:15:47 | INFO | MovieSemanticRetriever | Force rebuilding vector index
+2026-03-14 22:15:47 | INFO | MovieSemanticRetriever | Loaded 20 documents from SQLite for indexing
+2026-03-14 22:15:47 | INFO | run_pipeline | Pipeline finished successfully
+2026-03-14 22:16:50 | WARNING | LocalEmbedder | sentence-transformers unavailable, using deterministic hash fallback. error=No module named 'sentence_transformers'
+2026-03-14 22:16:50 | WARNING | MovieVectorStore | chromadb unavailable, using JSON fallback store. error=No module named 'chromadb'
+2026-03-14 22:16:50 | INFO | Evaluator | Evaluation index status: {'status': 'skipped', 'reason': 'index_exists', 'count': 20, 'backend': 'json_fallback'}
+2026-03-14 22:16:50 | INFO | top_rated | get_top_rated_movies returned 5 rows
+2026-03-14 22:16:50 | INFO | top_rated | get_top_rated_movies returned 5 rows
+2026-03-14 22:16:50 | INFO | compare_movies | compare_movies_or_directors mode=director
+2026-03-14 22:16:50 | INFO | compare_movies | compare_movies_or_directors mode=movie
+2026-03-14 22:16:50 | INFO | top_rated | get_top_rated_movies returned 5 rows
+2026-03-14 22:16:50 | INFO | search_movies | search_movies_by_filters returned 5 rows
+2026-03-14 22:29:42 | INFO | run_pipeline | Using raw CSV: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:29:42 | INFO | run_pipeline | Using TMDB source file: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:29:42 | INFO | IngestPipeline | Starting ingestion stage
+2026-03-14 22:29:42 | INFO | csv_loader | Loaded 20 rows from CSV fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:29:42 | INFO | TMDBClient | Loading TMDB data from fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:29:42 | INFO | TMDBClient | Loaded 18 rows from TMDB fixture
+2026-03-14 22:29:42 | INFO | IngestPipeline | Ingestion completed. csv_rows=20 tmdb_rows=18
+2026-03-14 22:29:42 | INFO | clean_movies | Cleaned 20 rows for source=csv
+2026-03-14 22:29:42 | INFO | clean_movies | Cleaned 18 rows for source=tmdb
+2026-03-14 22:29:42 | INFO | merge_sources | Merged sources into 20 unified movie rows
+2026-03-14 22:29:42 | INFO | validate_schema | [post-merge] movies schema validation passed (20 rows)
+2026-03-14 22:29:42 | INFO | build_documents | Built 20 movie documents
+2026-03-14 22:29:42 | INFO | validate_schema | [post-document-build] document schema validation passed (20 rows)
+2026-03-14 22:29:42 | INFO | SQLiteDB | SQLite schema ensured at: /Users/cai/Desktop/Movie-Intelligence-Agent/storage/movie_agent.db
+2026-03-14 22:29:42 | INFO | MovieRepository | Upserted 20 movie rows
+2026-03-14 22:29:42 | INFO | MovieRepository | Upserted 20 document rows
+2026-03-14 22:29:42 | WARNING | LocalEmbedder | sentence-transformers unavailable, using deterministic hash fallback. error=No module named 'sentence_transformers'
+2026-03-14 22:29:42 | WARNING | MovieVectorStore | chromadb unavailable, using JSON fallback store. error=No module named 'chromadb'
+2026-03-14 22:29:42 | INFO | MovieSemanticRetriever | Force rebuilding vector index
+2026-03-14 22:29:42 | INFO | MovieSemanticRetriever | Loaded 20 documents from SQLite for indexing
+2026-03-14 22:29:42 | INFO | run_pipeline | Pipeline finished successfully
+2026-03-14 22:29:42 | WARNING | LocalEmbedder | sentence-transformers unavailable, using deterministic hash fallback. error=No module named 'sentence_transformers'
+2026-03-14 22:29:42 | WARNING | MovieVectorStore | chromadb unavailable, using JSON fallback store. error=No module named 'chromadb'
+2026-03-14 22:29:42 | INFO | Evaluator | Evaluation index status: {'status': 'skipped', 'reason': 'index_exists', 'count': 20, 'backend': 'json_fallback'}
+2026-03-14 22:29:42 | INFO | top_rated | get_top_rated_movies returned 5 rows
+2026-03-14 22:29:42 | INFO | top_rated | get_top_rated_movies returned 5 rows
+2026-03-14 22:29:42 | INFO | compare_movies | compare_movies_or_directors mode=director
+2026-03-14 22:29:42 | INFO | compare_movies | compare_movies_or_directors mode=movie
+2026-03-14 22:29:42 | INFO | top_rated | get_top_rated_movies returned 5 rows
+2026-03-14 22:29:42 | INFO | search_movies | search_movies_by_filters returned 5 rows
+2026-03-14 22:29:42 | WARNING | LocalEmbedder | sentence-transformers unavailable, using deterministic hash fallback. error=No module named 'sentence_transformers'
+2026-03-14 22:29:42 | WARNING | MovieVectorStore | chromadb unavailable, using JSON fallback store. error=No module named 'chromadb'
+2026-03-14 22:29:42 | INFO | top_rated | get_top_rated_movies returned 5 rows
+2026-03-14 22:51:17 | INFO | run_pipeline | Using raw CSV: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:51:17 | INFO | run_pipeline | Using TMDB source file: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:51:17 | INFO | IngestPipeline | Starting ingestion stage
+2026-03-14 22:51:17 | INFO | csv_loader | Loaded 20 rows from CSV fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:51:17 | INFO | TMDBClient | Loading TMDB data from fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:51:17 | INFO | TMDBClient | Loaded 18 rows from TMDB fixture
+2026-03-14 22:51:17 | INFO | IngestPipeline | Ingestion completed. csv_rows=20 tmdb_rows=18
+2026-03-14 22:51:17 | INFO | clean_movies | Cleaned 20 rows for source=csv
+2026-03-14 22:51:17 | INFO | clean_movies | Cleaned 18 rows for source=tmdb
+2026-03-14 22:51:17 | INFO | merge_sources | Merged sources into 20 unified movie rows
+2026-03-14 22:51:17 | INFO | validate_schema | [post-merge] movies schema validation passed (20 rows)
+2026-03-14 22:51:17 | INFO | build_documents | Built 20 movie documents
+2026-03-14 22:51:17 | INFO | validate_schema | [post-document-build] document schema validation passed (20 rows)
+2026-03-14 22:51:17 | INFO | SQLiteDB | SQLite schema ensured at: /Users/cai/Desktop/Movie-Intelligence-Agent/storage/movie_agent.db
+2026-03-14 22:51:17 | INFO | MovieRepository | Upserted 20 movie rows
+2026-03-14 22:51:17 | INFO | MovieRepository | Upserted 20 document rows
+2026-03-14 22:51:17 | WARNING | LocalEmbedder | sentence-transformers unavailable, using deterministic hash fallback. error=No module named 'sentence_transformers'
+2026-03-14 22:51:17 | WARNING | MovieVectorStore | chromadb unavailable, using JSON fallback store. error=No module named 'chromadb'
+2026-03-14 22:51:17 | INFO | MovieSemanticRetriever | Force rebuilding vector index
+2026-03-14 22:51:17 | INFO | MovieSemanticRetriever | Loaded 20 documents from SQLite for indexing
+2026-03-14 22:51:17 | INFO | run_pipeline | Pipeline finished successfully
+2026-03-14 22:51:17 | INFO | run_pipeline | Using raw CSV: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:51:17 | INFO | run_pipeline | Using TMDB source file: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:51:17 | INFO | IngestPipeline | Starting ingestion stage
+2026-03-14 22:51:17 | INFO | csv_loader | Loaded 20 rows from CSV fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:51:17 | INFO | TMDBClient | Loading TMDB data from fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:51:17 | INFO | TMDBClient | Loaded 18 rows from TMDB fixture
+2026-03-14 22:51:17 | INFO | IngestPipeline | Ingestion completed. csv_rows=20 tmdb_rows=18
+2026-03-14 22:51:17 | INFO | clean_movies | Cleaned 20 rows for source=csv
+2026-03-14 22:51:17 | INFO | clean_movies | Cleaned 18 rows for source=tmdb
+2026-03-14 22:51:17 | INFO | merge_sources | Merged sources into 20 unified movie rows
+2026-03-14 22:51:17 | INFO | validate_schema | [post-merge] movies schema validation passed (20 rows)
+2026-03-14 22:51:17 | INFO | build_documents | Built 20 movie documents
+2026-03-14 22:51:17 | INFO | validate_schema | [post-document-build] document schema validation passed (20 rows)
+2026-03-14 22:51:17 | INFO | SQLiteDB | SQLite schema ensured at: /Users/cai/Desktop/Movie-Intelligence-Agent/storage/movie_agent.db
+2026-03-14 22:51:17 | INFO | MovieRepository | Upserted 20 movie rows
+2026-03-14 22:51:17 | INFO | MovieRepository | Upserted 20 document rows
+2026-03-14 22:51:17 | WARNING | LocalEmbedder | sentence-transformers unavailable, using deterministic hash fallback. error=No module named 'sentence_transformers'
+2026-03-14 22:51:17 | WARNING | MovieVectorStore | chromadb unavailable, using JSON fallback store. error=No module named 'chromadb'
+2026-03-14 22:51:17 | INFO | MovieSemanticRetriever | Force rebuilding vector index
+2026-03-14 22:51:17 | INFO | MovieSemanticRetriever | Loaded 20 documents from SQLite for indexing
+2026-03-14 22:51:17 | INFO | run_pipeline | Pipeline finished successfully
+2026-03-14 22:51:18 | INFO | run_pipeline | Using raw CSV: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:51:18 | INFO | run_pipeline | Using TMDB source file: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:51:18 | INFO | IngestPipeline | Starting ingestion stage
+2026-03-14 22:51:18 | INFO | csv_loader | Loaded 20 rows from CSV fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:51:18 | INFO | TMDBClient | Loading TMDB data from fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:51:18 | INFO | TMDBClient | Loaded 18 rows from TMDB fixture
+2026-03-14 22:51:18 | INFO | IngestPipeline | Ingestion completed. csv_rows=20 tmdb_rows=18
+2026-03-14 22:51:18 | INFO | clean_movies | Cleaned 20 rows for source=csv
+2026-03-14 22:51:18 | INFO | clean_movies | Cleaned 18 rows for source=tmdb
+2026-03-14 22:51:18 | INFO | merge_sources | Merged sources into 20 unified movie rows
+2026-03-14 22:51:18 | INFO | validate_schema | [post-merge] movies schema validation passed (20 rows)
+2026-03-14 22:51:18 | INFO | build_documents | Built 20 movie documents
+2026-03-14 22:51:18 | INFO | validate_schema | [post-document-build] document schema validation passed (20 rows)
+2026-03-14 22:51:18 | INFO | SQLiteDB | SQLite schema ensured at: /Users/cai/Desktop/Movie-Intelligence-Agent/storage/movie_agent.db
+2026-03-14 22:51:18 | INFO | MovieRepository | Upserted 20 movie rows
+2026-03-14 22:51:18 | INFO | MovieRepository | Upserted 20 document rows
+2026-03-14 22:51:18 | WARNING | LocalEmbedder | sentence-transformers unavailable, using deterministic hash fallback. error=No module named 'sentence_transformers'
+2026-03-14 22:51:18 | WARNING | MovieVectorStore | chromadb unavailable, using JSON fallback store. error=No module named 'chromadb'
+2026-03-14 22:51:18 | INFO | MovieSemanticRetriever | Force rebuilding vector index
+2026-03-14 22:51:18 | INFO | MovieSemanticRetriever | Loaded 20 documents from SQLite for indexing
+2026-03-14 22:51:18 | INFO | run_pipeline | Pipeline finished successfully
+2026-03-14 22:51:18 | INFO | run_pipeline | Using raw CSV: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:51:18 | INFO | run_pipeline | Using TMDB source file: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:51:18 | INFO | IngestPipeline | Starting ingestion stage
+2026-03-14 22:51:18 | INFO | csv_loader | Loaded 20 rows from CSV fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:51:18 | INFO | TMDBClient | Loading TMDB data from fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:51:18 | INFO | TMDBClient | Loaded 18 rows from TMDB fixture
+2026-03-14 22:51:18 | INFO | IngestPipeline | Ingestion completed. csv_rows=20 tmdb_rows=18
+2026-03-14 22:51:18 | INFO | clean_movies | Cleaned 20 rows for source=csv
+2026-03-14 22:51:18 | INFO | clean_movies | Cleaned 18 rows for source=tmdb
+2026-03-14 22:51:18 | INFO | merge_sources | Merged sources into 20 unified movie rows
+2026-03-14 22:51:18 | INFO | validate_schema | [post-merge] movies schema validation passed (20 rows)
+2026-03-14 22:51:18 | INFO | build_documents | Built 20 movie documents
+2026-03-14 22:51:18 | INFO | validate_schema | [post-document-build] document schema validation passed (20 rows)
+2026-03-14 22:51:18 | INFO | SQLiteDB | SQLite schema ensured at: /Users/cai/Desktop/Movie-Intelligence-Agent/storage/movie_agent.db
+2026-03-14 22:51:18 | INFO | MovieRepository | Upserted 20 movie rows
+2026-03-14 22:51:18 | INFO | MovieRepository | Upserted 20 document rows
+2026-03-14 22:51:18 | WARNING | LocalEmbedder | sentence-transformers unavailable, using deterministic hash fallback. error=No module named 'sentence_transformers'
+2026-03-14 22:51:18 | WARNING | MovieVectorStore | chromadb unavailable, using JSON fallback store. error=No module named 'chromadb'
+2026-03-14 22:51:18 | INFO | MovieSemanticRetriever | Force rebuilding vector index
+2026-03-14 22:51:18 | INFO | MovieSemanticRetriever | Loaded 20 documents from SQLite for indexing
+2026-03-14 22:51:19 | INFO | run_pipeline | Pipeline finished successfully
+2026-03-14 22:51:19 | INFO | run_pipeline | Using raw CSV: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:51:19 | INFO | run_pipeline | Using TMDB source file: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:51:19 | INFO | IngestPipeline | Starting ingestion stage
+2026-03-14 22:51:19 | INFO | csv_loader | Loaded 20 rows from CSV fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:51:19 | INFO | TMDBClient | Loading TMDB data from fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:51:19 | INFO | TMDBClient | Loaded 18 rows from TMDB fixture
+2026-03-14 22:51:19 | INFO | IngestPipeline | Ingestion completed. csv_rows=20 tmdb_rows=18
+2026-03-14 22:51:19 | INFO | clean_movies | Cleaned 20 rows for source=csv
+2026-03-14 22:51:19 | INFO | clean_movies | Cleaned 18 rows for source=tmdb
+2026-03-14 22:51:19 | INFO | merge_sources | Merged sources into 20 unified movie rows
+2026-03-14 22:51:19 | INFO | validate_schema | [post-merge] movies schema validation passed (20 rows)
+2026-03-14 22:51:19 | INFO | build_documents | Built 20 movie documents
+2026-03-14 22:51:19 | INFO | validate_schema | [post-document-build] document schema validation passed (20 rows)
+2026-03-14 22:51:19 | INFO | SQLiteDB | SQLite schema ensured at: /Users/cai/Desktop/Movie-Intelligence-Agent/storage/movie_agent.db
+2026-03-14 22:51:19 | INFO | MovieRepository | Upserted 20 movie rows
+2026-03-14 22:51:19 | INFO | MovieRepository | Upserted 20 document rows
+2026-03-14 22:51:19 | WARNING | LocalEmbedder | sentence-transformers unavailable, using deterministic hash fallback. error=No module named 'sentence_transformers'
+2026-03-14 22:51:19 | WARNING | MovieVectorStore | chromadb unavailable, using JSON fallback store. error=No module named 'chromadb'
+2026-03-14 22:51:19 | INFO | MovieSemanticRetriever | Force rebuilding vector index
+2026-03-14 22:51:19 | INFO | MovieSemanticRetriever | Loaded 20 documents from SQLite for indexing
+2026-03-14 22:51:19 | INFO | run_pipeline | Pipeline finished successfully
+2026-03-14 22:51:20 | INFO | run_pipeline | Using raw CSV: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:51:20 | INFO | run_pipeline | Using TMDB source file: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:51:20 | INFO | IngestPipeline | Starting ingestion stage
+2026-03-14 22:51:20 | INFO | csv_loader | Loaded 20 rows from CSV fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:51:20 | INFO | TMDBClient | Loading TMDB data from fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:51:20 | INFO | TMDBClient | Loaded 18 rows from TMDB fixture
+2026-03-14 22:51:20 | INFO | IngestPipeline | Ingestion completed. csv_rows=20 tmdb_rows=18
+2026-03-14 22:51:20 | INFO | clean_movies | Cleaned 20 rows for source=csv
+2026-03-14 22:51:20 | INFO | clean_movies | Cleaned 18 rows for source=tmdb
+2026-03-14 22:51:20 | INFO | merge_sources | Merged sources into 20 unified movie rows
+2026-03-14 22:51:20 | INFO | validate_schema | [post-merge] movies schema validation passed (20 rows)
+2026-03-14 22:51:20 | INFO | build_documents | Built 20 movie documents
+2026-03-14 22:51:20 | INFO | validate_schema | [post-document-build] document schema validation passed (20 rows)
+2026-03-14 22:51:20 | INFO | SQLiteDB | SQLite schema ensured at: /Users/cai/Desktop/Movie-Intelligence-Agent/storage/movie_agent.db
+2026-03-14 22:51:20 | INFO | MovieRepository | Upserted 20 movie rows
+2026-03-14 22:51:20 | INFO | MovieRepository | Upserted 20 document rows
+2026-03-14 22:51:20 | WARNING | LocalEmbedder | sentence-transformers unavailable, using deterministic hash fallback. error=No module named 'sentence_transformers'
+2026-03-14 22:51:20 | WARNING | MovieVectorStore | chromadb unavailable, using JSON fallback store. error=No module named 'chromadb'
+2026-03-14 22:51:20 | INFO | MovieSemanticRetriever | Force rebuilding vector index
+2026-03-14 22:51:20 | INFO | MovieSemanticRetriever | Loaded 20 documents from SQLite for indexing
+2026-03-14 22:51:20 | INFO | run_pipeline | Pipeline finished successfully
+2026-03-14 22:51:20 | INFO | run_pipeline | Using raw CSV: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:51:20 | INFO | run_pipeline | Using TMDB source file: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:51:20 | INFO | IngestPipeline | Starting ingestion stage
+2026-03-14 22:51:20 | INFO | csv_loader | Loaded 20 rows from CSV fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:51:20 | INFO | TMDBClient | Loading TMDB data from fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:51:20 | INFO | TMDBClient | Loaded 18 rows from TMDB fixture
+2026-03-14 22:51:20 | INFO | IngestPipeline | Ingestion completed. csv_rows=20 tmdb_rows=18
+2026-03-14 22:51:20 | INFO | clean_movies | Cleaned 20 rows for source=csv
+2026-03-14 22:51:20 | INFO | clean_movies | Cleaned 18 rows for source=tmdb
+2026-03-14 22:51:20 | INFO | merge_sources | Merged sources into 20 unified movie rows
+2026-03-14 22:51:20 | INFO | validate_schema | [post-merge] movies schema validation passed (20 rows)
+2026-03-14 22:51:20 | INFO | build_documents | Built 20 movie documents
+2026-03-14 22:51:20 | INFO | validate_schema | [post-document-build] document schema validation passed (20 rows)
+2026-03-14 22:51:20 | INFO | SQLiteDB | SQLite schema ensured at: /Users/cai/Desktop/Movie-Intelligence-Agent/storage/movie_agent.db
+2026-03-14 22:51:20 | INFO | MovieRepository | Upserted 20 movie rows
+2026-03-14 22:51:20 | INFO | MovieRepository | Upserted 20 document rows
+2026-03-14 22:51:20 | WARNING | LocalEmbedder | sentence-transformers unavailable, using deterministic hash fallback. error=No module named 'sentence_transformers'
+2026-03-14 22:51:20 | WARNING | MovieVectorStore | chromadb unavailable, using JSON fallback store. error=No module named 'chromadb'
+2026-03-14 22:51:20 | INFO | MovieSemanticRetriever | Force rebuilding vector index
+2026-03-14 22:51:20 | INFO | MovieSemanticRetriever | Loaded 20 documents from SQLite for indexing
+2026-03-14 22:51:20 | INFO | run_pipeline | Pipeline finished successfully
+2026-03-14 22:51:22 | WARNING | LocalEmbedder | sentence-transformers unavailable, using deterministic hash fallback. error=No module named 'sentence_transformers'
+2026-03-14 22:51:22 | WARNING | MovieVectorStore | chromadb unavailable, using JSON fallback store. error=No module named 'chromadb'
+2026-03-14 22:51:22 | INFO | Evaluator | Evaluation index status: {'status': 'skipped', 'reason': 'index_exists', 'count': 20, 'backend': 'json_fallback'}
+2026-03-14 22:51:22 | INFO | top_rated | get_top_rated_movies returned 5 rows
+2026-03-14 22:51:22 | INFO | top_rated | get_top_rated_movies returned 5 rows
+2026-03-14 22:51:22 | INFO | compare_movies | compare_movies_or_directors mode=director
+2026-03-14 22:51:22 | INFO | compare_movies | compare_movies_or_directors mode=movie
+2026-03-14 22:51:22 | INFO | search_movies | search_movies_by_filters returned 0 rows
+2026-03-14 22:51:22 | INFO | top_rated | get_top_rated_movies returned 5 rows
+2026-03-14 22:51:22 | INFO | compare_movies | compare_movies_or_directors mode=mixed
+2026-03-14 22:51:22 | INFO | search_movies | search_movies_by_filters returned 5 rows
+2026-03-14 22:51:39 | WARNING | LocalEmbedder | sentence-transformers unavailable, using deterministic hash fallback. error=No module named 'sentence_transformers'
+2026-03-14 22:51:39 | WARNING | MovieVectorStore | chromadb unavailable, using JSON fallback store. error=No module named 'chromadb'
+2026-03-14 22:51:39 | INFO | Evaluator | Evaluation index status: {'status': 'skipped', 'reason': 'index_exists', 'count': 20, 'backend': 'json_fallback'}
+2026-03-14 22:51:39 | INFO | top_rated | get_top_rated_movies returned 5 rows
+2026-03-14 22:51:39 | INFO | top_rated | get_top_rated_movies returned 5 rows
+2026-03-14 22:51:39 | INFO | compare_movies | compare_movies_or_directors mode=director
+2026-03-14 22:51:39 | INFO | compare_movies | compare_movies_or_directors mode=movie
+2026-03-14 22:51:39 | INFO | top_rated | get_top_rated_movies returned 5 rows
+2026-03-14 22:51:39 | INFO | compare_movies | compare_movies_or_directors mode=mixed
+2026-03-14 22:51:39 | INFO | search_movies | search_movies_by_filters returned 5 rows
+2026-03-14 22:51:44 | WARNING | LocalEmbedder | sentence-transformers unavailable, using deterministic hash fallback. error=No module named 'sentence_transformers'
+2026-03-14 22:51:44 | WARNING | MovieVectorStore | chromadb unavailable, using JSON fallback store. error=No module named 'chromadb'
+2026-03-14 22:51:44 | INFO | top_rated | get_top_rated_movies returned 5 rows
+2026-03-14 22:51:44 | INFO | run_pipeline | Using raw CSV: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:51:44 | INFO | run_pipeline | Using TMDB source file: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:51:44 | INFO | IngestPipeline | Starting ingestion stage
+2026-03-14 22:51:44 | INFO | csv_loader | Loaded 20 rows from CSV fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:51:44 | INFO | TMDBClient | Loading TMDB data from fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:51:44 | INFO | TMDBClient | Loaded 18 rows from TMDB fixture
+2026-03-14 22:51:44 | INFO | IngestPipeline | Ingestion completed. csv_rows=20 tmdb_rows=18
+2026-03-14 22:51:44 | INFO | clean_movies | Cleaned 20 rows for source=csv
+2026-03-14 22:51:44 | INFO | clean_movies | Cleaned 18 rows for source=tmdb
+2026-03-14 22:51:44 | INFO | merge_sources | Merged sources into 20 unified movie rows
+2026-03-14 22:51:44 | INFO | validate_schema | [post-merge] movies schema validation passed (20 rows)
+2026-03-14 22:51:44 | INFO | build_documents | Built 20 movie documents
+2026-03-14 22:51:44 | INFO | validate_schema | [post-document-build] document schema validation passed (20 rows)
+2026-03-14 22:51:44 | INFO | SQLiteDB | SQLite schema ensured at: /Users/cai/Desktop/Movie-Intelligence-Agent/storage/movie_agent.db
+2026-03-14 22:51:44 | INFO | MovieRepository | Upserted 20 movie rows
+2026-03-14 22:51:44 | INFO | MovieRepository | Upserted 20 document rows
+2026-03-14 22:51:44 | WARNING | LocalEmbedder | sentence-transformers unavailable, using deterministic hash fallback. error=No module named 'sentence_transformers'
+2026-03-14 22:51:44 | WARNING | MovieVectorStore | chromadb unavailable, using JSON fallback store. error=No module named 'chromadb'
+2026-03-14 22:51:44 | INFO | MovieSemanticRetriever | Force rebuilding vector index
+2026-03-14 22:51:44 | INFO | MovieSemanticRetriever | Loaded 20 documents from SQLite for indexing
+2026-03-14 22:51:44 | INFO | run_pipeline | Pipeline finished successfully
+2026-03-14 22:52:12 | INFO | run_pipeline | Using raw CSV: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:52:12 | INFO | run_pipeline | Using TMDB source file: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:52:12 | INFO | IngestPipeline | Starting ingestion stage
+2026-03-14 22:52:12 | INFO | csv_loader | Loaded 20 rows from CSV fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-14 22:52:12 | INFO | TMDBClient | Loading TMDB data from fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-14 22:52:12 | INFO | TMDBClient | Loaded 18 rows from TMDB fixture
+2026-03-14 22:52:12 | INFO | IngestPipeline | Ingestion completed. csv_rows=20 tmdb_rows=18
+2026-03-14 22:52:12 | INFO | clean_movies | Cleaned 20 rows for source=csv
+2026-03-14 22:52:12 | INFO | clean_movies | Cleaned 18 rows for source=tmdb
+2026-03-14 22:52:12 | INFO | merge_sources | Merged sources into 20 unified movie rows
+2026-03-14 22:52:12 | INFO | validate_schema | [post-merge] movies schema validation passed (20 rows)
+2026-03-14 22:52:12 | INFO | build_documents | Built 20 movie documents
+2026-03-14 22:52:12 | INFO | validate_schema | [post-document-build] document schema validation passed (20 rows)
+2026-03-14 22:52:12 | INFO | SQLiteDB | SQLite schema ensured at: /Users/cai/Desktop/Movie-Intelligence-Agent/storage/movie_agent.db
+2026-03-14 22:52:12 | INFO | MovieRepository | Upserted 20 movie rows
+2026-03-14 22:52:12 | INFO | MovieRepository | Upserted 20 document rows
+2026-03-14 22:52:12 | WARNING | LocalEmbedder | sentence-transformers unavailable, using deterministic hash fallback. error=No module named 'sentence_transformers'
+2026-03-14 22:52:12 | WARNING | MovieVectorStore | chromadb unavailable, using JSON fallback store. error=No module named 'chromadb'
+2026-03-14 22:52:12 | INFO | MovieSemanticRetriever | Force rebuilding vector index
+2026-03-14 22:52:12 | INFO | MovieSemanticRetriever | Loaded 20 documents from SQLite for indexing
+2026-03-14 22:52:12 | INFO | run_pipeline | Pipeline finished successfully
+2026-03-14 22:52:12 | WARNING | LocalEmbedder | sentence-transformers unavailable, using deterministic hash fallback. error=No module named 'sentence_transformers'
+2026-03-14 22:52:12 | WARNING | MovieVectorStore | chromadb unavailable, using JSON fallback store. error=No module named 'chromadb'
+2026-03-14 22:52:12 | INFO | Evaluator | Evaluation index status: {'status': 'skipped', 'reason': 'index_exists', 'count': 20, 'backend': 'json_fallback'}
+2026-03-14 22:52:12 | INFO | top_rated | get_top_rated_movies returned 5 rows
+2026-03-14 22:52:12 | INFO | top_rated | get_top_rated_movies returned 5 rows
+2026-03-14 22:52:12 | INFO | compare_movies | compare_movies_or_directors mode=director
+2026-03-14 22:52:12 | INFO | compare_movies | compare_movies_or_directors mode=movie
+2026-03-14 22:52:12 | INFO | top_rated | get_top_rated_movies returned 5 rows
+2026-03-14 22:52:12 | INFO | compare_movies | compare_movies_or_directors mode=mixed
+2026-03-14 22:52:12 | INFO | search_movies | search_movies_by_filters returned 5 rows
+2026-03-14 22:52:12 | WARNING | LocalEmbedder | sentence-transformers unavailable, using deterministic hash fallback. error=No module named 'sentence_transformers'
+2026-03-14 22:52:12 | WARNING | MovieVectorStore | chromadb unavailable, using JSON fallback store. error=No module named 'chromadb'
+2026-03-14 22:52:12 | INFO | compare_movies | compare_movies_or_directors mode=mixed
+2026-03-31 18:53:11 | WARNING | LocalEmbedder | sentence-transformers unavailable, using deterministic hash fallback. error=No module named 'sentence_transformers'
+2026-03-31 18:53:11 | WARNING | MovieVectorStore | chromadb unavailable, using JSON fallback store. error=No module named 'chromadb'
+2026-03-31 18:53:11 | INFO | Evaluator | Evaluation index status: {'status': 'skipped', 'reason': 'index_exists', 'count': 20, 'backend': 'json_fallback'}
+2026-03-31 18:53:11 | INFO | top_rated | get_top_rated_movies returned 5 rows
+2026-03-31 18:53:11 | INFO | top_rated | get_top_rated_movies returned 5 rows
+2026-03-31 18:53:11 | INFO | compare_movies | compare_movies_or_directors mode=director
+2026-03-31 18:53:11 | INFO | compare_movies | compare_movies_or_directors mode=movie
+2026-03-31 18:53:11 | INFO | top_rated | get_top_rated_movies returned 5 rows
+2026-03-31 18:53:11 | INFO | compare_movies | compare_movies_or_directors mode=mixed
+2026-03-31 18:53:11 | INFO | search_movies | search_movies_by_filters returned 5 rows
+2026-03-31 18:53:11 | INFO | run_pipeline | Using raw CSV: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-31 18:53:11 | INFO | run_pipeline | Using TMDB source file: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-31 18:53:11 | INFO | IngestPipeline | Starting ingestion stage
+2026-03-31 18:53:11 | INFO | csv_loader | Loaded 263 rows from CSV fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-31 18:53:11 | INFO | TMDBClient | Loading TMDB data from fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-31 18:53:11 | INFO | TMDBClient | Loaded 230 rows from TMDB fixture
+2026-03-31 18:53:11 | INFO | IngestPipeline | Ingestion completed. csv_rows=263 tmdb_rows=230
+2026-03-31 18:53:11 | INFO | clean_movies | Cleaned 263 rows for source=csv
+2026-03-31 18:53:11 | INFO | clean_movies | Cleaned 230 rows for source=tmdb
+2026-03-31 18:53:11 | INFO | merge_sources | Merged sources into 263 unified movie rows
+2026-03-31 18:53:11 | INFO | validate_schema | [post-merge] movies schema validation passed (263 rows)
+2026-03-31 18:53:11 | INFO | build_documents | Built 263 movie documents
+2026-03-31 18:53:11 | INFO | validate_schema | [post-document-build] document schema validation passed (263 rows)
+2026-03-31 18:53:11 | INFO | SQLiteDB | SQLite schema ensured at: /Users/cai/Desktop/Movie-Intelligence-Agent/storage/movie_agent.db
+2026-03-31 18:53:11 | INFO | MovieRepository | Upserted 263 movie rows
+2026-03-31 18:53:11 | INFO | MovieRepository | Upserted 263 document rows
+2026-03-31 18:53:11 | WARNING | LocalEmbedder | sentence-transformers unavailable, using deterministic hash fallback. error=No module named 'sentence_transformers'
+2026-03-31 18:53:11 | WARNING | MovieVectorStore | chromadb unavailable, using JSON fallback store. error=No module named 'chromadb'
+2026-03-31 18:53:11 | INFO | MovieSemanticRetriever | Force rebuilding vector index
+2026-03-31 18:53:11 | INFO | MovieSemanticRetriever | Loaded 263 documents from SQLite for indexing
+2026-03-31 18:53:11 | INFO | run_pipeline | Pipeline finished successfully
+2026-03-31 18:53:20 | WARNING | LocalEmbedder | sentence-transformers unavailable, using deterministic hash fallback. error=No module named 'sentence_transformers'
+2026-03-31 18:53:20 | WARNING | MovieVectorStore | chromadb unavailable, using JSON fallback store. error=No module named 'chromadb'
+2026-03-31 18:53:20 | INFO | Evaluator | Evaluation index status: {'status': 'skipped', 'reason': 'index_exists', 'count': 263, 'backend': 'json_fallback'}
+2026-03-31 18:53:20 | INFO | top_rated | get_top_rated_movies returned 5 rows
+2026-03-31 18:53:20 | INFO | top_rated | get_top_rated_movies returned 5 rows
+2026-03-31 18:53:20 | INFO | compare_movies | compare_movies_or_directors mode=director
+2026-03-31 18:53:20 | INFO | compare_movies | compare_movies_or_directors mode=movie
+2026-03-31 18:53:20 | INFO | top_rated | get_top_rated_movies returned 5 rows
+2026-03-31 18:53:20 | INFO | compare_movies | compare_movies_or_directors mode=mixed
+2026-03-31 18:53:20 | INFO | search_movies | search_movies_by_filters returned 5 rows
+2026-03-31 18:53:22 | INFO | run_pipeline | Using raw CSV: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-31 18:53:22 | INFO | run_pipeline | Using TMDB source file: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-31 18:53:22 | INFO | IngestPipeline | Starting ingestion stage
+2026-03-31 18:53:22 | INFO | csv_loader | Loaded 263 rows from CSV fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-31 18:53:22 | INFO | TMDBClient | Loading TMDB data from fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-31 18:53:22 | INFO | TMDBClient | Loaded 230 rows from TMDB fixture
+2026-03-31 18:53:22 | INFO | IngestPipeline | Ingestion completed. csv_rows=263 tmdb_rows=230
+2026-03-31 18:53:22 | INFO | clean_movies | Cleaned 263 rows for source=csv
+2026-03-31 18:53:22 | INFO | clean_movies | Cleaned 230 rows for source=tmdb
+2026-03-31 18:53:22 | INFO | merge_sources | Merged sources into 263 unified movie rows
+2026-03-31 18:53:22 | INFO | validate_schema | [post-merge] movies schema validation passed (263 rows)
+2026-03-31 18:53:22 | INFO | build_documents | Built 263 movie documents
+2026-03-31 18:53:22 | INFO | validate_schema | [post-document-build] document schema validation passed (263 rows)
+2026-03-31 18:53:22 | INFO | SQLiteDB | SQLite schema ensured at: /Users/cai/Desktop/Movie-Intelligence-Agent/storage/movie_agent.db
+2026-03-31 18:53:22 | INFO | MovieRepository | Upserted 263 movie rows
+2026-03-31 18:53:22 | INFO | MovieRepository | Upserted 263 document rows
+2026-03-31 18:53:22 | WARNING | LocalEmbedder | sentence-transformers unavailable, using deterministic hash fallback. error=No module named 'sentence_transformers'
+2026-03-31 18:53:22 | WARNING | MovieVectorStore | chromadb unavailable, using JSON fallback store. error=No module named 'chromadb'
+2026-03-31 18:53:22 | INFO | MovieSemanticRetriever | Force rebuilding vector index
+2026-03-31 18:53:22 | INFO | MovieSemanticRetriever | Loaded 263 documents from SQLite for indexing
+2026-03-31 18:53:22 | INFO | run_pipeline | Pipeline finished successfully
+2026-03-31 18:53:22 | INFO | run_pipeline | Using raw CSV: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-31 18:53:22 | INFO | run_pipeline | Using TMDB source file: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-31 18:53:22 | INFO | IngestPipeline | Starting ingestion stage
+2026-03-31 18:53:22 | INFO | csv_loader | Loaded 263 rows from CSV fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-31 18:53:22 | INFO | TMDBClient | Loading TMDB data from fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-31 18:53:22 | INFO | TMDBClient | Loaded 230 rows from TMDB fixture
+2026-03-31 18:53:22 | INFO | IngestPipeline | Ingestion completed. csv_rows=263 tmdb_rows=230
+2026-03-31 18:53:22 | INFO | clean_movies | Cleaned 263 rows for source=csv
+2026-03-31 18:53:22 | INFO | clean_movies | Cleaned 230 rows for source=tmdb
+2026-03-31 18:53:22 | INFO | merge_sources | Merged sources into 263 unified movie rows
+2026-03-31 18:53:22 | INFO | validate_schema | [post-merge] movies schema validation passed (263 rows)
+2026-03-31 18:53:22 | INFO | build_documents | Built 263 movie documents
+2026-03-31 18:53:22 | INFO | validate_schema | [post-document-build] document schema validation passed (263 rows)
+2026-03-31 18:53:22 | INFO | SQLiteDB | SQLite schema ensured at: /Users/cai/Desktop/Movie-Intelligence-Agent/storage/movie_agent.db
+2026-03-31 18:53:22 | INFO | MovieRepository | Upserted 263 movie rows
+2026-03-31 18:53:22 | INFO | MovieRepository | Upserted 263 document rows
+2026-03-31 18:53:22 | WARNING | LocalEmbedder | sentence-transformers unavailable, using deterministic hash fallback. error=No module named 'sentence_transformers'
+2026-03-31 18:53:22 | WARNING | MovieVectorStore | chromadb unavailable, using JSON fallback store. error=No module named 'chromadb'
+2026-03-31 18:53:22 | INFO | MovieSemanticRetriever | Force rebuilding vector index
+2026-03-31 18:53:22 | INFO | MovieSemanticRetriever | Loaded 263 documents from SQLite for indexing
+2026-03-31 18:53:22 | INFO | run_pipeline | Pipeline finished successfully
+2026-03-31 18:53:23 | INFO | run_pipeline | Using raw CSV: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-31 18:53:23 | INFO | run_pipeline | Using TMDB source file: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-31 18:53:23 | INFO | IngestPipeline | Starting ingestion stage
+2026-03-31 18:53:23 | INFO | csv_loader | Loaded 263 rows from CSV fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-31 18:53:23 | INFO | TMDBClient | Loading TMDB data from fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-31 18:53:23 | INFO | TMDBClient | Loaded 230 rows from TMDB fixture
+2026-03-31 18:53:23 | INFO | IngestPipeline | Ingestion completed. csv_rows=263 tmdb_rows=230
+2026-03-31 18:53:23 | INFO | clean_movies | Cleaned 263 rows for source=csv
+2026-03-31 18:53:23 | INFO | clean_movies | Cleaned 230 rows for source=tmdb
+2026-03-31 18:53:23 | INFO | merge_sources | Merged sources into 263 unified movie rows
+2026-03-31 18:53:23 | INFO | validate_schema | [post-merge] movies schema validation passed (263 rows)
+2026-03-31 18:53:23 | INFO | build_documents | Built 263 movie documents
+2026-03-31 18:53:23 | INFO | validate_schema | [post-document-build] document schema validation passed (263 rows)
+2026-03-31 18:53:23 | INFO | SQLiteDB | SQLite schema ensured at: /Users/cai/Desktop/Movie-Intelligence-Agent/storage/movie_agent.db
+2026-03-31 18:53:23 | INFO | MovieRepository | Upserted 263 movie rows
+2026-03-31 18:53:23 | INFO | MovieRepository | Upserted 263 document rows
+2026-03-31 18:53:23 | WARNING | LocalEmbedder | sentence-transformers unavailable, using deterministic hash fallback. error=No module named 'sentence_transformers'
+2026-03-31 18:53:23 | WARNING | MovieVectorStore | chromadb unavailable, using JSON fallback store. error=No module named 'chromadb'
+2026-03-31 18:53:23 | INFO | MovieSemanticRetriever | Force rebuilding vector index
+2026-03-31 18:53:23 | INFO | MovieSemanticRetriever | Loaded 263 documents from SQLite for indexing
+2026-03-31 18:53:23 | INFO | run_pipeline | Pipeline finished successfully
+2026-03-31 18:53:24 | INFO | run_pipeline | Using raw CSV: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-31 18:53:24 | INFO | run_pipeline | Using TMDB source file: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-31 18:53:24 | INFO | IngestPipeline | Starting ingestion stage
+2026-03-31 18:53:24 | INFO | csv_loader | Loaded 263 rows from CSV fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-31 18:53:24 | INFO | TMDBClient | Loading TMDB data from fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-31 18:53:24 | INFO | TMDBClient | Loaded 230 rows from TMDB fixture
+2026-03-31 18:53:24 | INFO | IngestPipeline | Ingestion completed. csv_rows=263 tmdb_rows=230
+2026-03-31 18:53:24 | INFO | clean_movies | Cleaned 263 rows for source=csv
+2026-03-31 18:53:24 | INFO | clean_movies | Cleaned 230 rows for source=tmdb
+2026-03-31 18:53:24 | INFO | merge_sources | Merged sources into 263 unified movie rows
+2026-03-31 18:53:24 | INFO | validate_schema | [post-merge] movies schema validation passed (263 rows)
+2026-03-31 18:53:24 | INFO | build_documents | Built 263 movie documents
+2026-03-31 18:53:24 | INFO | validate_schema | [post-document-build] document schema validation passed (263 rows)
+2026-03-31 18:53:24 | INFO | SQLiteDB | SQLite schema ensured at: /Users/cai/Desktop/Movie-Intelligence-Agent/storage/movie_agent.db
+2026-03-31 18:53:24 | INFO | MovieRepository | Upserted 263 movie rows
+2026-03-31 18:53:24 | INFO | MovieRepository | Upserted 263 document rows
+2026-03-31 18:53:24 | WARNING | LocalEmbedder | sentence-transformers unavailable, using deterministic hash fallback. error=No module named 'sentence_transformers'
+2026-03-31 18:53:24 | WARNING | MovieVectorStore | chromadb unavailable, using JSON fallback store. error=No module named 'chromadb'
+2026-03-31 18:53:24 | INFO | MovieSemanticRetriever | Force rebuilding vector index
+2026-03-31 18:53:24 | INFO | MovieSemanticRetriever | Loaded 263 documents from SQLite for indexing
+2026-03-31 18:53:24 | INFO | run_pipeline | Pipeline finished successfully
+2026-03-31 18:53:24 | INFO | run_pipeline | Using raw CSV: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-31 18:53:24 | INFO | run_pipeline | Using TMDB source file: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-31 18:53:24 | INFO | IngestPipeline | Starting ingestion stage
+2026-03-31 18:53:24 | INFO | csv_loader | Loaded 263 rows from CSV fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-31 18:53:24 | INFO | TMDBClient | Loading TMDB data from fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-31 18:53:24 | INFO | TMDBClient | Loaded 230 rows from TMDB fixture
+2026-03-31 18:53:24 | INFO | IngestPipeline | Ingestion completed. csv_rows=263 tmdb_rows=230
+2026-03-31 18:53:24 | INFO | clean_movies | Cleaned 263 rows for source=csv
+2026-03-31 18:53:24 | INFO | clean_movies | Cleaned 230 rows for source=tmdb
+2026-03-31 18:53:24 | INFO | merge_sources | Merged sources into 263 unified movie rows
+2026-03-31 18:53:24 | INFO | validate_schema | [post-merge] movies schema validation passed (263 rows)
+2026-03-31 18:53:24 | INFO | build_documents | Built 263 movie documents
+2026-03-31 18:53:24 | INFO | validate_schema | [post-document-build] document schema validation passed (263 rows)
+2026-03-31 18:53:24 | INFO | SQLiteDB | SQLite schema ensured at: /Users/cai/Desktop/Movie-Intelligence-Agent/storage/movie_agent.db
+2026-03-31 18:53:24 | INFO | MovieRepository | Upserted 263 movie rows
+2026-03-31 18:53:24 | INFO | MovieRepository | Upserted 263 document rows
+2026-03-31 18:53:24 | WARNING | LocalEmbedder | sentence-transformers unavailable, using deterministic hash fallback. error=No module named 'sentence_transformers'
+2026-03-31 18:53:24 | WARNING | MovieVectorStore | chromadb unavailable, using JSON fallback store. error=No module named 'chromadb'
+2026-03-31 18:53:24 | INFO | MovieSemanticRetriever | Force rebuilding vector index
+2026-03-31 18:53:24 | INFO | MovieSemanticRetriever | Loaded 263 documents from SQLite for indexing
+2026-03-31 18:53:24 | INFO | run_pipeline | Pipeline finished successfully
+2026-03-31 18:53:25 | INFO | run_pipeline | Using raw CSV: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-31 18:53:25 | INFO | run_pipeline | Using TMDB source file: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-31 18:53:25 | INFO | IngestPipeline | Starting ingestion stage
+2026-03-31 18:53:25 | INFO | csv_loader | Loaded 263 rows from CSV fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-31 18:53:25 | INFO | TMDBClient | Loading TMDB data from fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-31 18:53:25 | INFO | TMDBClient | Loaded 230 rows from TMDB fixture
+2026-03-31 18:53:25 | INFO | IngestPipeline | Ingestion completed. csv_rows=263 tmdb_rows=230
+2026-03-31 18:53:25 | INFO | clean_movies | Cleaned 263 rows for source=csv
+2026-03-31 18:53:25 | INFO | clean_movies | Cleaned 230 rows for source=tmdb
+2026-03-31 18:53:25 | INFO | merge_sources | Merged sources into 263 unified movie rows
+2026-03-31 18:53:25 | INFO | validate_schema | [post-merge] movies schema validation passed (263 rows)
+2026-03-31 18:53:25 | INFO | build_documents | Built 263 movie documents
+2026-03-31 18:53:25 | INFO | validate_schema | [post-document-build] document schema validation passed (263 rows)
+2026-03-31 18:53:25 | INFO | SQLiteDB | SQLite schema ensured at: /Users/cai/Desktop/Movie-Intelligence-Agent/storage/movie_agent.db
+2026-03-31 18:53:25 | INFO | MovieRepository | Upserted 263 movie rows
+2026-03-31 18:53:25 | INFO | MovieRepository | Upserted 263 document rows
+2026-03-31 18:53:25 | WARNING | LocalEmbedder | sentence-transformers unavailable, using deterministic hash fallback. error=No module named 'sentence_transformers'
+2026-03-31 18:53:25 | WARNING | MovieVectorStore | chromadb unavailable, using JSON fallback store. error=No module named 'chromadb'
+2026-03-31 18:53:25 | INFO | MovieSemanticRetriever | Force rebuilding vector index
+2026-03-31 18:53:25 | INFO | MovieSemanticRetriever | Loaded 263 documents from SQLite for indexing
+2026-03-31 18:53:25 | INFO | run_pipeline | Pipeline finished successfully
+2026-03-31 18:53:26 | INFO | run_pipeline | Using raw CSV: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-31 18:53:26 | INFO | run_pipeline | Using TMDB source file: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-31 18:53:26 | INFO | IngestPipeline | Starting ingestion stage
+2026-03-31 18:53:26 | INFO | csv_loader | Loaded 263 rows from CSV fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-31 18:53:26 | INFO | TMDBClient | Loading TMDB data from fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-31 18:53:26 | INFO | TMDBClient | Loaded 230 rows from TMDB fixture
+2026-03-31 18:53:26 | INFO | IngestPipeline | Ingestion completed. csv_rows=263 tmdb_rows=230
+2026-03-31 18:53:26 | INFO | clean_movies | Cleaned 263 rows for source=csv
+2026-03-31 18:53:26 | INFO | clean_movies | Cleaned 230 rows for source=tmdb
+2026-03-31 18:53:26 | INFO | merge_sources | Merged sources into 263 unified movie rows
+2026-03-31 18:53:26 | INFO | validate_schema | [post-merge] movies schema validation passed (263 rows)
+2026-03-31 18:53:26 | INFO | build_documents | Built 263 movie documents
+2026-03-31 18:53:26 | INFO | validate_schema | [post-document-build] document schema validation passed (263 rows)
+2026-03-31 18:53:26 | INFO | SQLiteDB | SQLite schema ensured at: /Users/cai/Desktop/Movie-Intelligence-Agent/storage/movie_agent.db
+2026-03-31 18:53:26 | INFO | MovieRepository | Upserted 263 movie rows
+2026-03-31 18:53:26 | INFO | MovieRepository | Upserted 263 document rows
+2026-03-31 18:53:26 | WARNING | LocalEmbedder | sentence-transformers unavailable, using deterministic hash fallback. error=No module named 'sentence_transformers'
+2026-03-31 18:53:26 | WARNING | MovieVectorStore | chromadb unavailable, using JSON fallback store. error=No module named 'chromadb'
+2026-03-31 18:53:26 | INFO | MovieSemanticRetriever | Force rebuilding vector index
+2026-03-31 18:53:26 | INFO | MovieSemanticRetriever | Loaded 263 documents from SQLite for indexing
+2026-03-31 18:53:26 | INFO | run_pipeline | Pipeline finished successfully
+2026-03-31 18:55:39 | INFO | run_pipeline | Using raw CSV: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-31 18:55:39 | INFO | run_pipeline | Using TMDB source file: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-31 18:55:39 | INFO | IngestPipeline | Starting ingestion stage
+2026-03-31 18:55:39 | INFO | csv_loader | Loaded 263 rows from CSV fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_csv.csv
+2026-03-31 18:55:39 | INFO | TMDBClient | Loading TMDB data from fixture: /Users/cai/Desktop/Movie-Intelligence-Agent/data/raw/movies_from_tmdb_fixture.json
+2026-03-31 18:55:39 | INFO | TMDBClient | Loaded 230 rows from TMDB fixture
+2026-03-31 18:55:39 | INFO | IngestPipeline | Ingestion completed. csv_rows=263 tmdb_rows=230
+2026-03-31 18:55:39 | INFO | clean_movies | Cleaned 263 rows for source=csv
+2026-03-31 18:55:39 | INFO | clean_movies | Cleaned 230 rows for source=tmdb
+2026-03-31 18:55:39 | INFO | merge_sources | Merged sources into 263 unified movie rows
+2026-03-31 18:55:39 | INFO | validate_schema | [post-merge] movies schema validation passed (263 rows)
+2026-03-31 18:55:39 | INFO | build_documents | Built 263 movie documents
+2026-03-31 18:55:39 | INFO | validate_schema | [post-document-build] document schema validation passed (263 rows)
+2026-03-31 18:55:39 | INFO | SQLiteDB | SQLite schema ensured at: /Users/cai/Desktop/Movie-Intelligence-Agent/storage/movie_agent.db
+2026-03-31 18:55:39 | INFO | MovieRepository | Upserted 263 movie rows
+2026-03-31 18:55:39 | INFO | MovieRepository | Upserted 263 document rows
+2026-03-31 18:55:39 | WARNING | LocalEmbedder | sentence-transformers unavailable, using deterministic hash fallback. error=No module named 'sentence_transformers'
+2026-03-31 18:55:39 | WARNING | MovieVectorStore | chromadb unavailable, using JSON fallback store. error=No module named 'chromadb'
+2026-03-31 18:55:39 | INFO | MovieSemanticRetriever | Force rebuilding vector index
+2026-03-31 18:55:39 | INFO | MovieSemanticRetriever | Loaded 263 documents from SQLite for indexing
+2026-03-31 18:55:39 | INFO | run_pipeline | Pipeline finished successfully
+2026-03-31 18:55:39 | WARNING | LocalEmbedder | sentence-transformers unavailable, using deterministic hash fallback. error=No module named 'sentence_transformers'
+2026-03-31 18:55:39 | WARNING | MovieVectorStore | chromadb unavailable, using JSON fallback store. error=No module named 'chromadb'
+2026-03-31 18:55:39 | INFO | Evaluator | Evaluation index status: {'status': 'skipped', 'reason': 'index_exists', 'count': 263, 'backend': 'json_fallback'}
+2026-03-31 18:55:39 | INFO | top_rated | get_top_rated_movies returned 5 rows
+2026-03-31 18:55:39 | INFO | top_rated | get_top_rated_movies returned 5 rows
+2026-03-31 18:55:39 | INFO | compare_movies | compare_movies_or_directors mode=director
+2026-03-31 18:55:39 | INFO | compare_movies | compare_movies_or_directors mode=movie
+2026-03-31 18:55:39 | INFO | top_rated | get_top_rated_movies returned 5 rows
+2026-03-31 18:55:39 | INFO | compare_movies | compare_movies_or_directors mode=mixed
+2026-03-31 18:55:39 | INFO | search_movies | search_movies_by_filters returned 5 rows
+2026-03-31 18:55:39 | WARNING | LocalEmbedder | sentence-transformers unavailable, using deterministic hash fallback. error=No module named 'sentence_transformers'
+2026-03-31 18:55:39 | WARNING | MovieVectorStore | chromadb unavailable, using JSON fallback store. error=No module named 'chromadb'
+2026-03-31 18:55:39 | INFO | top_rated | get_top_rated_movies returned 5 rows

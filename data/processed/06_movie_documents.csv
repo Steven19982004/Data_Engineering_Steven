@@ -1,0 +1,1316 @@
+doc_id,movie_pk,title,document_text,metadata_json
+doc_inception_2010,inception_2010,Inception,"Title: Inception
+Genres: Action|Sci-Fi|Thriller
+Overview: A skilled thief enters dreams to steal ideas and is offered a chance at redemption through inception.
+Tagline: 
+Review snippet:","{""movie_pk"": ""inception_2010"", ""title"": ""Inception"", ""release_year"": 2010, ""director"": ""Christopher Nolan"", ""genres"": ""Action|Sci-Fi|Thriller"", ""source_flags"": ""csv|tmdb""}"
+doc_eternalsunshineofthespotlessmind_2004,eternalsunshineofthespotlessmind_2004,Eternal Sunshine of the Spotless Mind,"Title: Eternal Sunshine of the Spotless Mind
+Genres: Drama|Romance|Sci-Fi
+Overview: When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories for ever.
+Tagline: When | their | relationship | turns | sour, | a | couple | undergoes | a | medical
+Review snippet: When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories for ever.","{""movie_pk"": ""eternalsunshineofthespotlessmind_2004"", ""title"": ""Eternal Sunshine of the Spotless Mind"", ""release_year"": 2004, ""director"": ""Michel Gondry"", ""genres"": ""Drama|Romance|Sci-Fi"", ""source_flags"": ""csv|tmdb""}"
+doc_insideout_2015,insideout_2015,Inside Out,"Title: Inside Out
+Genres: Adventure|Animation|Comedy
+Overview: After young Riley is uprooted from her Midwest life and moved to San Francisco, her emotions - Joy, Fear, Anger, Disgust and Sadness - conflict on how best to navigate a new city, house, and school.
+Tagline: After | young | Riley | is | uprooted | from | her | Midwest | life | and
+Review snippet: After young Riley is uprooted from her Midwest life and moved to San Francisco, her emotions - Joy, Fear, Anger, Disgust and Sadness - conflict on how best to navigate a new city, house, and school.","{""movie_pk"": ""insideout_2015"", ""title"": ""Inside Out"", ""release_year"": 2015, ""director"": ""Pete Docter"", ""genres"": ""Adventure|Animation|Comedy"", ""source_flags"": ""csv|tmdb""}"
+doc_diehard_1988,diehard_1988,Die Hard,"Title: Die Hard
+Genres: Action|Thriller
+Overview: A New York City police officer tries to save his estranged wife and several others taken hostage by terrorists during a Christmas party at the Nakatomi Plaza in Los Angeles.
+Tagline: A | New | York | City | police | officer | tries | to | save | his
+Review snippet: A New York City police officer tries to save his estranged wife and several others taken hostage by terrorists during a Christmas party at the Nakatomi Plaza in Los Angeles.","{""movie_pk"": ""diehard_1988"", ""title"": ""Die Hard"", ""release_year"": 1988, ""director"": ""John McTiernan"", ""genres"": ""Action|Thriller"", ""source_flags"": ""csv|tmdb""}"
+doc_logan_2017,logan_2017,Logan,"Title: Logan
+Genres: Action|Drama|Sci-Fi
+Overview: In a future where mutants are nearly extinct, an elderly and weary Logan leads a quiet life. But when Laura, a mutant child pursued by scientists, comes to him for help, he must get her to safety.
+Tagline: In | a | future | where | mutants | are | nearly | extinct, | an | elderly
+Review snippet: In a future where mutants are nearly extinct, an elderly and weary Logan leads a quiet life. But when Laura, a mutant child pursued by scientists, comes to him for help, he must get her to safety.","{""movie_pk"": ""logan_2017"", ""title"": ""Logan"", ""release_year"": 2017, ""director"": ""James Mangold"", ""genres"": ""Action|Drama|Sci-Fi"", ""source_flags"": ""csv|tmdb""}"
+doc_gandhi_1983,gandhi_1983,Gandhi,"Title: Gandhi
+Genres: Biography|Drama
+Overview: The life of the lawyer who became the famed leader of the Indian revolts against the British rule through his philosophy of nonviolent protest.
+Tagline: The | life | of | the | lawyer | who | became | the | famed | leader
+Review snippet: The life of the lawyer who became the famed leader of the Indian revolts against the British rule through his philosophy of nonviolent protest.","{""movie_pk"": ""gandhi_1983"", ""title"": ""Gandhi"", ""release_year"": 1983, ""director"": ""Richard Attenborough"", ""genres"": ""Biography|Drama"", ""source_flags"": ""csv|tmdb""}"
+doc_raidersofthelostark_1981,raidersofthelostark_1981,Raiders of the Lost Ark,"Title: Raiders of the Lost Ark
+Genres: Action|Adventure
+Overview: Archaeology professor Indiana Jones ventures to seize a biblical artefact known as the Ark of the Covenant. While doing so, he puts up a fight against Renee and a troop of Nazis.
+Tagline: Archaeology | professor | Indiana | Jones | ventures | to | seize | a | biblical | artefact
+Review snippet: Archaeology professor Indiana Jones ventures to seize a biblical artefact known as the Ark of the Covenant. While doing so, he puts up a fight against Renee and a troop of Nazis.","{""movie_pk"": ""raidersofthelostark_1981"", ""title"": ""Raiders of the Lost Ark"", ""release_year"": 1981, ""director"": ""Steven Spielberg"", ""genres"": ""Action|Adventure"", ""source_flags"": ""csv|tmdb""}"
+doc_hamilton_2020,hamilton_2020,Hamilton,"Title: Hamilton
+Genres: Biography|Drama|History
+Overview: The real life of one of America&apos;s foremost founding fathers and first Secretary of the Treasury, Alexander Hamilton. Captured live on Broadway from the Richard Rodgers Theater with the original Broadway cast.
+Tagline: The | real | life | of | one | of | America&apos;s | foremost | founding | fathers
+Review snippet: The real life of one of America&apos;s foremost founding fathers and first Secretary of the Treasury, Alexander Hamilton. Captured live on Broadway from the Richard Rodgers Theater with the original Broadway cast.","{""movie_pk"": ""hamilton_2020"", ""title"": ""Hamilton"", ""release_year"": 2020, ""director"": ""Thomas Kail"", ""genres"": ""Biography|Drama|History"", ""source_flags"": ""csv|tmdb""}"
+doc_lavitabella_1997,lavitabella_1997,La vita è bella,"Title: La vita è bella
+Genres: Comedy|Drama|Romance
+Overview: When an open-minded Jewish waiter and his son become victims of the Holocaust, he uses a perfect mixture of will, humor, and imagination to protect his son from the dangers around their camp.
+Tagline: When | an | open-minded | Jewish | waiter | and | his | son | become | victims
+Review snippet: When an open-minded Jewish waiter and his son become victims of the Holocaust, he uses a perfect mixture of will, humor, and imagination to protect his son from the dangers around their camp.","{""movie_pk"": ""lavitabella_1997"", ""title"": ""La vita è bella"", ""release_year"": 1997, ""director"": ""Roberto Benigni"", ""genres"": ""Comedy|Drama|Romance"", ""source_flags"": ""csv|tmdb""}"
+doc_somelikeithot_1959,somelikeithot_1959,Some Like It Hot,"Title: Some Like It Hot
+Genres: Comedy|Music|Romance
+Overview: After two male musicians witness a mob hit, they flee the state in an all-female band disguised as women, but further complications set in.
+Tagline: After | two | male | musicians | witness | a | mob | hit, | they | flee
+Review snippet: After two male musicians witness a mob hit, they flee the state in an all-female band disguised as women, but further complications set in.","{""movie_pk"": ""somelikeithot_1959"", ""title"": ""Some Like It Hot"", ""release_year"": 1959, ""director"": ""Billy Wilder"", ""genres"": ""Comedy|Music|Romance"", ""source_flags"": ""csv|tmdb""}"
+doc_klaus_2019,klaus_2019,Klaus,"Title: Klaus
+Genres: Adventure|Animation|Comedy
+Overview: A simple act of kindness always sparks another, even in a frozen, faraway place. When Smeerensburg&apos;s new postman, Jesper, befriends toymaker Klaus, their gifts melt an age-old feud and deliver a sleigh full of holiday traditions.
+Tagline: A | simple | act | of | kindness | always | sparks | another, | even | in
+Review snippet: A simple act of kindness always sparks another, even in a frozen, faraway place. When Smeerensburg&apos;s new postman, Jesper, befriends toymaker Klaus, their gifts melt an age-old feud and deliver a sleigh full of holiday traditions.","{""movie_pk"": ""klaus_2019"", ""title"": ""Klaus"", ""release_year"": 2019, ""director"": ""Sergio Pablos"", ""genres"": ""Adventure|Animation|Comedy"", ""source_flags"": ""csv|tmdb""}"
+doc_capharnam_2018,capharnam_2018,Capharnaüm,"Title: Capharnaüm
+Genres: Drama
+Overview: While serving a five-year sentence for a violent crime, a 12-year-old boy sues his parents for neglect.
+Tagline: While | serving | a | five-year | sentence | for | a | violent | crime, | a
+Review snippet: While serving a five-year sentence for a violent crime, a 12-year-old boy sues his parents for neglect.","{""movie_pk"": ""capharnam_2018"", ""title"": ""Capharnaüm"", ""release_year"": 2018, ""director"": ""Nadine Labaki"", ""genres"": ""Drama"", ""source_flags"": ""csv|tmdb""}"
+doc_taarezameenpar_2007,taarezameenpar_2007,Taare Zameen Par,"Title: Taare Zameen Par
+Genres: Drama|Family
+Overview: An eight-year-old boy is thought to be a lazy trouble-maker, until the new art teacher has the patience and compassion to discover the real problem behind his struggles in school.
+Tagline: An | eight-year-old | boy | is | thought | to | be | a | lazy | trouble-maker,
+Review snippet: An eight-year-old boy is thought to be a lazy trouble-maker, until the new art teacher has the patience and compassion to discover the real problem behind his struggles in school.","{""movie_pk"": ""taarezameenpar_2007"", ""title"": ""Taare Zameen Par"", ""release_year"": 2007, ""director"": ""Aamir Khan"", ""genres"": ""Drama|Family"", ""source_flags"": ""csv|tmdb""}"
+doc_theirongiant_1999,theirongiant_1999,The Iron Giant,"Title: The Iron Giant
+Genres: Action|Adventure|Animation
+Overview: A young boy befriends a giant robot from outer space that a paranoid government agent wants to destroy.
+Tagline: A | young | boy | befriends | a | giant | robot | from | outer | space
+Review snippet: A young boy befriends a giant robot from outer space that a paranoid government agent wants to destroy.","{""movie_pk"": ""theirongiant_1999"", ""title"": ""The Iron Giant"", ""release_year"": 1999, ""director"": ""Brad Bird"", ""genres"": ""Action|Adventure|Animation"", ""source_flags"": ""csv|tmdb""}"
+doc_drstrangeloveorhowilearnedtostopworryingandlovethebomb_1964,drstrangeloveorhowilearnedtostopworryingandlovethebomb_1964,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,"Title: Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+Genres: Comedy|War
+Overview: An insane American general orders a bombing attack on the Soviet Union, triggering a path to nuclear holocaust that a war room full of politicians and generals frantically tries to stop.
+Tagline: An | insane | American | general | orders | a | bombing | attack | on | the
+Review snippet: An insane American general orders a bombing attack on the Soviet Union, triggering a path to nuclear holocaust that a war room full of politicians and generals frantically tries to stop.","{""movie_pk"": ""drstrangeloveorhowilearnedtostopworryingandlovethebomb_1964"", ""title"": ""Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb"", ""release_year"": 1964, ""director"": ""Stanley Kubrick"", ""genres"": ""Comedy|War"", ""source_flags"": ""csv|tmdb""}"
+doc_barrylyndon_1975,barrylyndon_1975,Barry Lyndon,"Title: Barry Lyndon
+Genres: Adventure|Drama|War
+Overview: An Irish rogue wins the heart of a rich widow and assumes her dead husband&apos;s aristocratic position in 18th-century England.
+Tagline: An | Irish | rogue | wins | the | heart | of | a | rich | widow
+Review snippet: An Irish rogue wins the heart of a rich widow and assumes her dead husband&apos;s aristocratic position in 18th-century England.","{""movie_pk"": ""barrylyndon_1975"", ""title"": ""Barry Lyndon"", ""release_year"": 1975, ""director"": ""Stanley Kubrick"", ""genres"": ""Adventure|Drama|War"", ""source_flags"": ""csv|tmdb""}"
+doc_ikiru_1956,ikiru_1956,Ikiru,"Title: Ikiru
+Genres: Drama
+Overview: A bureaucrat tries to find meaning in his life after he discovers he has terminal cancer.
+Tagline: A | bureaucrat | tries | to | find | meaning | in | his | life | after
+Review snippet: A bureaucrat tries to find meaning in his life after he discovers he has terminal cancer.","{""movie_pk"": ""ikiru_1956"", ""title"": ""Ikiru"", ""release_year"": 1956, ""director"": ""Akira Kurosawa"", ""genres"": ""Drama"", ""source_flags"": ""csv|tmdb""}"
+doc_fullmetaljacket_1987,fullmetaljacket_1987,Full Metal Jacket,"Title: Full Metal Jacket
+Genres: Drama|War
+Overview: A pragmatic U.S. Marine observes the dehumanizing effects the Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.
+Tagline: A | pragmatic | U.S. | Marine | observes | the | dehumanizing | effects | the | Vietnam
+Review snippet: A pragmatic U.S. Marine observes the dehumanizing effects the Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.","{""movie_pk"": ""fullmetaljacket_1987"", ""title"": ""Full Metal Jacket"", ""release_year"": 1987, ""director"": ""Stanley Kubrick"", ""genres"": ""Drama|War"", ""source_flags"": ""csv|tmdb""}"
+doc_deadpoetssociety_1989,deadpoetssociety_1989,Dead Poets Society,"Title: Dead Poets Society
+Genres: Comedy|Drama
+Overview: Maverick teacher John Keating uses poetry to embolden his boarding school students to new heights of self-expression.
+Tagline: Maverick | teacher | John | Keating | uses | poetry | to | embolden | his | boarding
+Review snippet: Maverick teacher John Keating uses poetry to embolden his boarding school students to new heights of self-expression.","{""movie_pk"": ""deadpoetssociety_1989"", ""title"": ""Dead Poets Society"", ""release_year"": 1989, ""director"": ""Peter Weir"", ""genres"": ""Comedy|Drama"", ""source_flags"": ""csv|tmdb""}"
+doc_thetreasureofthesierramadre_1948,thetreasureofthesierramadre_1948,The Treasure of the Sierra Madre,"Title: The Treasure of the Sierra Madre
+Genres: Adventure|Drama|Western
+Overview: Two down-on-their-luck Americans searching for work in 1920s Mexico convince an old prospector to help them mine for gold in the Sierra Madre Mountains.
+Tagline: Two | down-on-their-luck | Americans | searching | for | work | in | 1920s | Mexico | convince
+Review snippet: Two down-on-their-luck Americans searching for work in 1920s Mexico convince an old prospector to help them mine for gold in the Sierra Madre Mountains.","{""movie_pk"": ""thetreasureofthesierramadre_1948"", ""title"": ""The Treasure of the Sierra Madre"", ""release_year"": 1948, ""director"": ""John Huston"", ""genres"": ""Adventure|Drama|Western"", ""source_flags"": ""csv|tmdb""}"
+doc_lawrenceofarabia_1962,lawrenceofarabia_1962,Lawrence of Arabia,"Title: Lawrence of Arabia
+Genres: Adventure|Biography|Drama
+Overview: The story of T.E. Lawrence, the English officer who successfully united and led the diverse, often warring, Arab tribes during World War I in order to fight the Turks.
+Tagline: The | story | of | T.E. | Lawrence, | the | English | officer | who | successfully
+Review snippet: The story of T.E. Lawrence, the English officer who successfully united and led the diverse, often warring, Arab tribes during World War I in order to fight the Turks.","{""movie_pk"": ""lawrenceofarabia_1962"", ""title"": ""Lawrence of Arabia"", ""release_year"": 1962, ""director"": ""David Lean"", ""genres"": ""Adventure|Biography|Drama"", ""source_flags"": ""csv|tmdb""}"
+doc_thefather_2021,thefather_2021,The Father,"Title: The Father
+Genres: Drama|Mystery
+Overview: A man refuses all assistance from his daughter as he ages. As he tries to make sense of his changing circumstances, he begins to doubt his loved ones, his own mind and even the fabric of his reality.
+Tagline: A | man | refuses | all | assistance | from | his | daughter | as | he
+Review snippet: A man refuses all assistance from his daughter as he ages. As he tries to make sense of his changing circumstances, he begins to doubt his loved ones, his own mind and even the fabric of his reality.","{""movie_pk"": ""thefather_2021"", ""title"": ""The Father"", ""release_year"": 2021, ""director"": ""Florian Zeller"", ""genres"": ""Drama|Mystery"", ""source_flags"": ""csv|tmdb""}"
+doc_thelionking_1994,thelionking_1994,The Lion King,"Title: The Lion King
+Genres: Adventure|Animation|Drama
+Overview: Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.
+Tagline: Lion | prince | Simba | and | his | father | are | targeted | by | his
+Review snippet: Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.","{""movie_pk"": ""thelionking_1994"", ""title"": ""The Lion King"", ""release_year"": 1994, ""director"": ""Roger Allers"", ""genres"": ""Adventure|Animation|Drama"", ""source_flags"": ""csv|tmdb""}"
+doc_abeautifulmind_2002,abeautifulmind_2002,A Beautiful Mind,"Title: A Beautiful Mind
+Genres: Biography|Drama
+Overview: After John Nash, a brilliant but asocial mathematician, accepts secret work in cryptography, his life takes a turn for the nightmarish.
+Tagline: After | John | Nash, | a | brilliant | but | asocial | mathematician, | accepts | secret
+Review snippet: After John Nash, a brilliant but asocial mathematician, accepts secret work in cryptography, his life takes a turn for the nightmarish.","{""movie_pk"": ""abeautifulmind_2002"", ""title"": ""A Beautiful Mind"", ""release_year"": 2002, ""director"": ""Ron Howard"", ""genres"": ""Biography|Drama"", ""source_flags"": ""csv|tmdb""}"
+doc_lockstockandtwosmokingbarrels_1998,lockstockandtwosmokingbarrels_1998,"Lock, Stock and Two Smoking Barrels","Title: Lock, Stock and Two Smoking Barrels
+Genres: Action|Comedy|Crime
+Overview: Eddy persuades his three pals to pool money for a vital poker game against a powerful local mobster, Hatchet Harry. Eddy loses, after which Harry gives him a week to pay back 500,000 pounds.
+Tagline: Eddy | persuades | his | three | pals | to | pool | money | for | a
+Review snippet: Eddy persuades his three pals to pool money for a vital poker game against a powerful local mobster, Hatchet Harry. Eddy loses, after which Harry gives him a week to pay back 500,000 pounds.","{""movie_pk"": ""lockstockandtwosmokingbarrels_1998"", ""title"": ""Lock, Stock and Two Smoking Barrels"", ""release_year"": 1998, ""director"": ""Guy Ritchie"", ""genres"": ""Action|Comedy|Crime"", ""source_flags"": ""csv|tmdb""}"
+doc_daslebenderanderen_2007,daslebenderanderen_2007,Das Leben der Anderen,"Title: Das Leben der Anderen
+Genres: Drama|Mystery|Thriller
+Overview: In 1984 East Berlin, an agent of the secret police, conducting surveillance on a writer and his lover, finds himself becoming increasingly absorbed by their lives.
+Tagline: In | 1984 | East | Berlin, | an | agent | of | the | secret | police,
+Review snippet: In 1984 East Berlin, an agent of the secret police, conducting surveillance on a writer and his lover, finds himself becoming increasingly absorbed by their lives.","{""movie_pk"": ""daslebenderanderen_2007"", ""title"": ""Das Leben der Anderen"", ""release_year"": 2007, ""director"": ""Florian Henckel von Donnersmarck"", ""genres"": ""Drama|Mystery|Thriller"", ""source_flags"": ""csv|tmdb""}"
+doc_gisaengchung_2019,gisaengchung_2019,Gisaengchung,"Title: Gisaengchung
+Genres: Drama|Thriller
+Overview: Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.
+Tagline: Greed | and | class | discrimination | threaten | the | newly | formed | symbiotic | relationship
+Review snippet: Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.","{""movie_pk"": ""gisaengchung_2019"", ""title"": ""Gisaengchung"", ""release_year"": 2019, ""director"": ""Bong Joon Ho"", ""genres"": ""Drama|Thriller"", ""source_flags"": ""csv|tmdb""}"
+doc_thebestyearsofourlives_1947,thebestyearsofourlives_1947,The Best Years of Our Lives,"Title: The Best Years of Our Lives
+Genres: Drama|Romance|War
+Overview: Three World War II veterans, two of them traumatized or disabled, return home to the American midwest to discover that they and their families have been irreparably changed.
+Tagline: Three | World | War | II | veterans, | two | of | them | traumatized | or
+Review snippet: Three World War II veterans, two of them traumatized or disabled, return home to the American midwest to discover that they and their families have been irreparably changed.","{""movie_pk"": ""thebestyearsofourlives_1947"", ""title"": ""The Best Years of Our Lives"", ""release_year"": 1947, ""director"": ""William Wyler"", ""genres"": ""Drama|Romance|War"", ""source_flags"": ""csv|tmdb""}"
+doc_citizenkane_1941,citizenkane_1941,Citizen Kane,"Title: Citizen Kane
+Genres: Drama|Mystery
+Overview: Following the death of publishing tycoon Charles Foster Kane, reporters scramble to uncover the meaning of his final utterance: &apos;Rosebud.&apos;
+Tagline: Following | the | death | of | publishing | tycoon | Charles | Foster | Kane, | reporters
+Review snippet: Following the death of publishing tycoon Charles Foster Kane, reporters scramble to uncover the meaning of his final utterance: &apos;Rosebud.&apos;","{""movie_pk"": ""citizenkane_1941"", ""title"": ""Citizen Kane"", ""release_year"": 1941, ""director"": ""Orson Welles"", ""genres"": ""Drama|Mystery"", ""source_flags"": ""csv|tmdb""}"
+doc_psycho_1960,psycho_1960,Psycho,"Title: Psycho
+Genres: Horror|Mystery|Thriller
+Overview: A Phoenix secretary embezzles $40,000 from her employer&apos;s client, goes on the run and checks into a remote motel run by a young man under the domination of his mother.
+Tagline: A | Phoenix | secretary | embezzles | $40,000 | from | her | employer&apos;s | client, | goes
+Review snippet: A Phoenix secretary embezzles $40,000 from her employer&apos;s client, goes on the run and checks into a remote motel run by a young man under the domination of his mother.","{""movie_pk"": ""psycho_1960"", ""title"": ""Psycho"", ""release_year"": 1960, ""director"": ""Alfred Hitchcock"", ""genres"": ""Horror|Mystery|Thriller"", ""source_flags"": ""csv|tmdb""}"
+doc_lifeofbrian_1979,lifeofbrian_1979,Life of Brian,"Title: Life of Brian
+Genres: Comedy
+Overview: Born on the original Christmas in the stable next door to Jesus Christ, Brian of Nazareth spends his life being mistaken for a messiah.
+Tagline: Born | on | the | original | Christmas | in | the | stable | next | door
+Review snippet: Born on the original Christmas in the stable next door to Jesus Christ, Brian of Nazareth spends his life being mistaken for a messiah.","{""movie_pk"": ""lifeofbrian_1979"", ""title"": ""Life of Brian"", ""release_year"": 1979, ""director"": ""Terry Jones"", ""genres"": ""Comedy"", ""source_flags"": ""csv|tmdb""}"
+doc_smultronstllet_1959,smultronstllet_1959,Smultronstället,"Title: Smultronstället
+Genres: Drama|Romance
+Overview: After living a life marked by coldness, an aging professor is forced to confront the emptiness of his existence.
+Tagline: After | living | a | life | marked | by | coldness, | an | aging | professor
+Review snippet: After living a life marked by coldness, an aging professor is forced to confront the emptiness of his existence.","{""movie_pk"": ""smultronstllet_1959"", ""title"": ""Smultronstället"", ""release_year"": 1959, ""director"": ""Ingmar Bergman"", ""genres"": ""Drama|Romance"", ""source_flags"": ""csv|tmdb""}"
+doc_rearwindow_1954,rearwindow_1954,Rear Window,"Title: Rear Window
+Genres: Mystery|Thriller
+Overview: A wheelchair-bound photographer spies on his neighbors from his Greenwich Village courtyard apartment window, and becomes convinced one of them has committed murder, despite the skepticism of his fashion-model girlfriend.
+Tagline: A | wheelchair-bound | photographer | spies | on | his | neighbors | from | his | Greenwich
+Review snippet: A wheelchair-bound photographer spies on his neighbors from his Greenwich Village courtyard apartment window, and becomes convinced one of them has committed murder, despite the skepticism of his fashion-model girlfriend.","{""movie_pk"": ""rearwindow_1954"", ""title"": ""Rear Window"", ""release_year"": 1954, ""director"": ""Alfred Hitchcock"", ""genres"": ""Mystery|Thriller"", ""source_flags"": ""csv|tmdb""}"
+doc_thegodfather_1972,thegodfather_1972,The Godfather,"Title: The Godfather
+Genres: Crime|Drama
+Overview: The aging patriarch of an organized crime dynasty in postwar New York City transfers control of his clandestine empire to his reluctant youngest son.
+Tagline: The | aging | patriarch | of | an | organized | crime | dynasty | in | postwar
+Review snippet: The aging patriarch of an organized crime dynasty in postwar New York City transfers control of his clandestine empire to his reluctant youngest son.","{""movie_pk"": ""thegodfather_1972"", ""title"": ""The Godfather"", ""release_year"": 1972, ""director"": ""Francis Ford Coppola"", ""genres"": ""Crime|Drama"", ""source_flags"": ""csv|tmdb""}"
+doc_americanhistoryx_1998,americanhistoryx_1998,American History X,"Title: American History X
+Genres: Crime|Drama
+Overview: A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did.
+Tagline: A | former | neo-nazi | skinhead | tries | to | prevent | his | younger | brother
+Review snippet: A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did.","{""movie_pk"": ""americanhistoryx_1998"", ""title"": ""American History X"", ""release_year"": 1998, ""director"": ""Tony Kaye"", ""genres"": ""Crime|Drama"", ""source_flags"": ""csv|tmdb""}"
+doc_fargo_1996,fargo_1996,Fargo,"Title: Fargo
+Genres: Crime|Thriller
+Overview: Minnesota car salesman Jerry Lundegaard&apos;s inept crime falls apart due to his and his henchmen&apos;s bungling and the persistent police work of the quite pregnant Marge Gunderson.
+Tagline: Minnesota | car | salesman | Jerry | Lundegaard&apos;s | inept | crime | falls | apart | due
+Review snippet: Minnesota car salesman Jerry Lundegaard&apos;s inept crime falls apart due to his and his henchmen&apos;s bungling and the persistent police work of the quite pregnant Marge Gunderson.","{""movie_pk"": ""fargo_1996"", ""title"": ""Fargo"", ""release_year"": 1996, ""director"": ""Joel Coen"", ""genres"": ""Crime|Thriller"", ""source_flags"": ""csv|tmdb""}"
+doc_theshining_1980,theshining_1980,The Shining,"Title: The Shining
+Genres: Drama|Horror
+Overview: A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.
+Tagline: A | family | heads | to | an | isolated | hotel | for | the | winter
+Review snippet: A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.","{""movie_pk"": ""theshining_1980"", ""title"": ""The Shining"", ""release_year"": 1980, ""director"": ""Stanley Kubrick"", ""genres"": ""Drama|Horror"", ""source_flags"": ""csv|tmdb""}"
+doc_greenbook_2018,greenbook_2018,Green Book,"Title: Green Book
+Genres: Biography|Comedy|Drama
+Overview: A working-class Italian-American bouncer becomes the driver for an African-American classical pianist on a tour of venues through the 1960s American South.
+Tagline: A | working-class | Italian-American | bouncer | becomes | the | driver | for | an | African-American
+Review snippet: A working-class Italian-American bouncer becomes the driver for an African-American classical pianist on a tour of venues through the 1960s American South.","{""movie_pk"": ""greenbook_2018"", ""title"": ""Green Book"", ""release_year"": 2018, ""director"": ""Peter Farrelly"", ""genres"": ""Biography|Comedy|Drama"", ""source_flags"": ""csv|tmdb""}"
+doc_findingnemo_2003,findingnemo_2003,Finding Nemo,"Title: Finding Nemo
+Genres: Adventure|Animation|Comedy
+Overview: After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.
+Tagline: After | his | son | is | captured | in | the | Great | Barrier | Reef
+Review snippet: After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.","{""movie_pk"": ""findingnemo_2003"", ""title"": ""Finding Nemo"", ""release_year"": 2003, ""director"": ""Andrew Stanton"", ""genres"": ""Adventure|Animation|Comedy"", ""source_flags"": ""csv|tmdb""}"
+doc_fightclub_1999,fightclub_1999,Fight Club,"Title: Fight Club
+Genres: Drama
+Overview: An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.
+Tagline: An | insomniac | office | worker | and | a | devil-may-care | soap | maker | form
+Review snippet: An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.","{""movie_pk"": ""fightclub_1999"", ""title"": ""Fight Club"", ""release_year"": 1999, ""director"": ""David Fincher"", ""genres"": ""Drama"", ""source_flags"": ""csv|tmdb""}"
+doc_thedarkknightrises_2012,thedarkknightrises_2012,The Dark Knight Rises,"Title: The Dark Knight Rises
+Genres: Action|Drama
+Overview: Eight years after the Joker&apos;s reign of anarchy, Batman, with the help of the enigmatic Selina Kyle, is forced from his exile to save Gotham City from the brutal guerrilla terrorist Bane.
+Tagline: Eight | years | after | the | Joker&apos;s | reign | of | anarchy, | Batman, | with
+Review snippet: Eight years after the Joker&apos;s reign of anarchy, Batman, with the help of the enigmatic Selina Kyle, is forced from his exile to save Gotham City from the brutal guerrilla terrorist Bane.","{""movie_pk"": ""thedarkknightrises_2012"", ""title"": ""The Dark Knight Rises"", ""release_year"": 2012, ""director"": ""Christopher Nolan"", ""genres"": ""Action|Drama"", ""source_flags"": ""csv|tmdb""}"
+doc_thelordoftheringsthefellowshipofthering_2001,thelordoftheringsthefellowshipofthering_2001,The Lord of the Rings: The Fellowship of the Ring,"Title: The Lord of the Rings: The Fellowship of the Ring
+Genres: Action|Adventure|Drama
+Overview: A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.
+Tagline: A | meek | Hobbit | from | the | Shire | and | eight | companions | set
+Review snippet: A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.","{""movie_pk"": ""thelordoftheringsthefellowshipofthering_2001"", ""title"": ""The Lord of the Rings: The Fellowship of the Ring"", ""release_year"": 2001, ""director"": ""Peter Jackson"", ""genres"": ""Action|Adventure|Drama"", ""source_flags"": ""csv|tmdb""}"
+doc_vforvendetta_2006,vforvendetta_2006,V for Vendetta,"Title: V for Vendetta
+Genres: Action|Drama|Sci-Fi
+Overview: In a future British dystopian society, a shadowy freedom fighter, known only by the alias of &quot;V&quot;, plots to overthrow the tyrannical government - with the help of a young woman.
+Tagline: In | a | future | British | dystopian | society, | a | shadowy | freedom | fighter,
+Review snippet: In a future British dystopian society, a shadowy freedom fighter, known only by the alias of &quot;V&quot;, plots to overthrow the tyrannical government - with the help of a young woman.","{""movie_pk"": ""vforvendetta_2006"", ""title"": ""V for Vendetta"", ""release_year"": 2006, ""director"": ""James McTeigue"", ""genres"": ""Action|Drama|Sci-Fi"", ""source_flags"": ""csv|tmdb""}"
+doc_shichininnosamurai_1956,shichininnosamurai_1956,Shichinin no samurai,"Title: Shichinin no samurai
+Genres: Action|Drama
+Overview: Farmers from a village exploited by bandits hire a veteran samurai for protection, who gathers six other samurai to join him. As the samurai teach the peasants how to defend themselves, the village is attacked by an army of bandits.
+Tagline: Farmers | from | a | village | exploited | by | bandits | hire | a | veteran
+Review snippet: Farmers from a village exploited by bandits hire a veteran samurai for protection, who gathers six other samurai to join him. As the samurai teach the peasants how to defend themselves, the village is attacked by an army of bandits.","{""movie_pk"": ""shichininnosamurai_1956"", ""title"": ""Shichinin no samurai"", ""release_year"": 1956, ""director"": ""Akira Kurosawa"", ""genres"": ""Action|Drama"", ""source_flags"": ""csv|tmdb""}"
+doc_forrestgump_1994,forrestgump_1994,Forrest Gump,"Title: Forrest Gump
+Genres: Drama|Romance
+Overview: The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood swe...
+Tagline: The | presidencies | of | Kennedy | and | Johnson, | the | Vietnam | War, | the
+Review snippet: The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood swe...","{""movie_pk"": ""forrestgump_1994"", ""title"": ""Forrest Gump"", ""release_year"": 1994, ""director"": ""Robert Zemeckis"", ""genres"": ""Drama|Romance"", ""source_flags"": ""csv|tmdb""}"
+doc_thegreatescape_1963,thegreatescape_1963,The Great Escape,"Title: The Great Escape
+Genres: Adventure|Drama|History
+Overview: Allied prisoners of war plan for several hundred of their number to escape from a German camp during World War II.
+Tagline: Allied | prisoners | of | war | plan | for | several | hundred | of | their
+Review snippet: Allied prisoners of war plan for several hundred of their number to escape from a German camp during World War II.","{""movie_pk"": ""thegreatescape_1963"", ""title"": ""The Great Escape"", ""release_year"": 1963, ""director"": ""John Sturges"", ""genres"": ""Adventure|Drama|History"", ""source_flags"": ""csv|tmdb""}"
+doc_oldeuboi_2003,oldeuboi_2003,Oldeuboi,"Title: Oldeuboi
+Genres: Action|Drama|Mystery
+Overview: After being kidnapped and imprisoned for fifteen years, Oh Dae-Su is released, only to find that he must find his captor in five days.
+Tagline: After | being | kidnapped | and | imprisoned | for | fifteen | years, | Oh | Dae-Su
+Review snippet: After being kidnapped and imprisoned for fifteen years, Oh Dae-Su is released, only to find that he must find his captor in five days.","{""movie_pk"": ""oldeuboi_2003"", ""title"": ""Oldeuboi"", ""release_year"": 2003, ""director"": ""Park Chan-wook"", ""genres"": ""Action|Drama|Mystery"", ""source_flags"": ""csv|tmdb""}"
+doc_thesting_1973,thesting_1973,The Sting,"Title: The Sting
+Genres: Comedy|Crime|Drama
+Overview: Two grifters team up to pull off the ultimate con.
+Tagline: Two | grifters | team | up | to | pull | off | the | ultimate | con.
+Review snippet: Two grifters team up to pull off the ultimate con.","{""movie_pk"": ""thesting_1973"", ""title"": ""The Sting"", ""release_year"": 1973, ""director"": ""George Roy Hill"", ""genres"": ""Comedy|Crime|Drama"", ""source_flags"": ""csv|tmdb""}"
+doc_fordvferrari_2019,fordvferrari_2019,Ford v Ferrari,"Title: Ford v Ferrari
+Genres: Action|Biography|Drama
+Overview: American car designer Carroll Shelby and driver Ken Miles battle corporate interference and the laws of physics to build a revolutionary race car for Ford in order to defeat Ferrari at the 24 Hours of Le Mans in 1966.
+Tagline: American | car | designer | Carroll | Shelby | and | driver | Ken | Miles | battle
+Review snippet: American car designer Carroll Shelby and driver Ken Miles battle corporate interference and the laws of physics to build a revolutionary race car for Ford in order to defeat Ferrari at the 24 Hours of Le Mans in 1966.","{""movie_pk"": ""fordvferrari_2019"", ""title"": ""Ford v Ferrari"", ""release_year"": 2019, ""director"": ""James Mangold"", ""genres"": ""Action|Biography|Drama"", ""source_flags"": ""csv|tmdb""}"
+doc_tobeornottobe_1942,tobeornottobe_1942,To Be or Not to Be,"Title: To Be or Not to Be
+Genres: Comedy|Romance|War
+Overview: During the Nazi occupation of Poland, an acting troupe becomes embroiled in a Polish soldier&apos;s efforts to track down a German spy.
+Tagline: During | the | Nazi | occupation | of | Poland, | an | acting | troupe | becomes
+Review snippet: During the Nazi occupation of Poland, an acting troupe becomes embroiled in a Polish soldier&apos;s efforts to track down a German spy.","{""movie_pk"": ""tobeornottobe_1942"", ""title"": ""To Be or Not to Be"", ""release_year"": 1942, ""director"": ""Ernst Lubitsch"", ""genres"": ""Comedy|Romance|War"", ""source_flags"": ""csv|tmdb""}"
+doc_interstellar_2014,interstellar_2014,Interstellar,"Title: Interstellar
+Genres: Adventure|Drama|Sci-Fi
+Overview: A team of explorers travels through a wormhole in space in an attempt to ensure humanity's survival.
+Tagline: 
+Review snippet:","{""movie_pk"": ""interstellar_2014"", ""title"": ""Interstellar"", ""release_year"": 2014, ""director"": ""Christopher Nolan"", ""genres"": ""Adventure|Drama|Sci-Fi"", ""source_flags"": ""csv|tmdb""}"
+doc_beforesunrise_1995,beforesunrise_1995,Before Sunrise,"Title: Before Sunrise
+Genres: Drama|Romance
+Overview: A young man and woman meet on a train in Europe, and wind up spending one evening together in Vienna. Unfortunately, both know that this will probably be their only night together.
+Tagline: A | young | man | and | woman | meet | on | a | train | in
+Review snippet: A young man and woman meet on a train in Europe, and wind up spending one evening together in Vienna. Unfortunately, both know that this will probably be their only night together.","{""movie_pk"": ""beforesunrise_1995"", ""title"": ""Before Sunrise"", ""release_year"": 1995, ""director"": ""Richard Linklater"", ""genres"": ""Drama|Romance"", ""source_flags"": ""csv|tmdb""}"
+doc_dangal_2016,dangal_2016,Dangal,"Title: Dangal
+Genres: Action|Biography|Drama
+Overview: Former wrestler Mahavir Singh Phogat and his two wrestler daughters struggle towards glory at the Commonwealth Games in the face of societal oppression.
+Tagline: Former | wrestler | Mahavir | Singh | Phogat | and | his | two | wrestler | daughters
+Review snippet: Former wrestler Mahavir Singh Phogat and his two wrestler daughters struggle towards glory at the Commonwealth Games in the face of societal oppression.","{""movie_pk"": ""dangal_2016"", ""title"": ""Dangal"", ""release_year"": 2016, ""director"": ""Nitesh Tiwari"", ""genres"": ""Action|Biography|Drama"", ""source_flags"": ""csv|tmdb""}"
+doc_doubleindemnity_1944,doubleindemnity_1944,Double Indemnity,"Title: Double Indemnity
+Genres: Crime|Drama|Film-Noir
+Overview: A Los Angeles insurance representative lets an alluring housewife seduce him into a scheme of insurance fraud and murder that arouses the suspicion of his colleague, an insurance investigator.
+Tagline: A | Los | Angeles | insurance | representative | lets | an | alluring | housewife | seduce
+Review snippet: A Los Angeles insurance representative lets an alluring housewife seduce him into a scheme of insurance fraud and murder that arouses the suspicion of his colleague, an insurance investigator.","{""movie_pk"": ""doubleindemnity_1944"", ""title"": ""Double Indemnity"", ""release_year"": 1944, ""director"": ""Billy Wilder"", ""genres"": ""Crime|Drama|Film-Noir"", ""source_flags"": ""csv|tmdb""}"
+doc_gladiator_2000,gladiator_2000,Gladiator,"Title: Gladiator
+Genres: Action|Adventure|Drama
+Overview: A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.
+Tagline: A | former | Roman | General | sets | out | to | exact | vengeance | against
+Review snippet: A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.","{""movie_pk"": ""gladiator_2000"", ""title"": ""Gladiator"", ""release_year"": 2000, ""director"": ""Ridley Scott"", ""genres"": ""Action|Adventure|Drama"", ""source_flags"": ""csv|tmdb""}"
+doc_cidadededeus_2004,cidadededeus_2004,Cidade de Deus,"Title: Cidade de Deus
+Genres: Crime|Drama
+Overview: In the slums of Rio, two kids&apos; paths diverge as one struggles to become a photographer and the other a kingpin.
+Tagline: In | the | slums | of | Rio, | two | kids&apos; | paths | diverge | as
+Review snippet: In the slums of Rio, two kids&apos; paths diverge as one struggles to become a photographer and the other a kingpin.","{""movie_pk"": ""cidadededeus_2004"", ""title"": ""Cidade de Deus"", ""release_year"": 2004, ""director"": ""Fernando Meirelles"", ""genres"": ""Crime|Drama"", ""source_flags"": ""csv|tmdb""}"
+doc_pulpfiction_1994,pulpfiction_1994,Pulp Fiction,"Title: Pulp Fiction
+Genres: Crime|Drama
+Overview: The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.
+Tagline: The | lives | of | two | mob | hitmen, | a | boxer, | a | gangster
+Review snippet: The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.","{""movie_pk"": ""pulpfiction_1994"", ""title"": ""Pulp Fiction"", ""release_year"": 1994, ""director"": ""Quentin Tarantino"", ""genres"": ""Crime|Drama"", ""source_flags"": ""csv|tmdb""}"
+doc_onceuponatimeinamerica_1984,onceuponatimeinamerica_1984,Once Upon a Time in America,"Title: Once Upon a Time in America
+Genres: Crime|Drama
+Overview: A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan 35 years later, where he must once again confront the ghosts and regrets of his old life.
+Tagline: A | former | Prohibition-era | Jewish | gangster | returns | to | the | Lower | East
+Review snippet: A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan 35 years later, where he must once again confront the ghosts and regrets of his old life.","{""movie_pk"": ""onceuponatimeinamerica_1984"", ""title"": ""Once Upon a Time in America"", ""release_year"": 1984, ""director"": ""Sergio Leone"", ""genres"": ""Crime|Drama"", ""source_flags"": ""csv|tmdb""}"
+doc_heat_1995,heat_1995,Heat,"Title: Heat
+Genres: Action|Crime|Drama
+Overview: A group of high-end professional thieves start to feel the heat from the LAPD when they unknowingly leave a clue at their latest heist.
+Tagline: A | group | of | high-end | professional | thieves | start | to | feel | the
+Review snippet: A group of high-end professional thieves start to feel the heat from the LAPD when they unknowingly leave a clue at their latest heist.","{""movie_pk"": ""heat_1995"", ""title"": ""Heat"", ""release_year"": 1995, ""director"": ""Michael Mann"", ""genres"": ""Action|Crime|Drama"", ""source_flags"": ""csv|tmdb""}"
+doc_hachiadogaposstale_2010,hachiadogaposstale_2010,Hachi: A Dog&apos;s Tale,"Title: Hachi: A Dog&apos;s Tale
+Genres: Biography|Drama|Family
+Overview: A college professor bonds with an abandoned dog he takes into his home.
+Tagline: A | college | professor | bonds | with | an | abandoned | dog | he | takes
+Review snippet: A college professor bonds with an abandoned dog he takes into his home.","{""movie_pk"": ""hachiadogaposstale_2010"", ""title"": ""Hachi: A Dog&apos;s Tale"", ""release_year"": 2010, ""director"": ""Lasse Hallström"", ""genres"": ""Biography|Drama|Family"", ""source_flags"": ""csv|tmdb""}"
+doc_intothewild_2007,intothewild_2007,Into the Wild,"Title: Into the Wild
+Genres: Adventure|Biography|Drama
+Overview: After graduating from Emory University, top student and athlete Christopher McCandless abandons his possessions, gives his entire $24,000 savings account to charity and hitchhikes to Alaska to live in the wilderness. Along the way...
+Tagline: After | graduating | from | Emory | University, | top | student | and | athlete | Christopher
+Review snippet: After graduating from Emory University, top student and athlete Christopher McCandless abandons his possessions, gives his entire $24,000 savings account to charity and hitchhikes to Alaska to live in the wilderness. Along the way...","{""movie_pk"": ""intothewild_2007"", ""title"": ""Into the Wild"", ""release_year"": 2007, ""director"": ""Sean Penn"", ""genres"": ""Adventure|Biography|Drama"", ""source_flags"": ""csv|tmdb""}"
+doc_thelordoftheringsthetwotowers_2002,thelordoftheringsthetwotowers_2002,The Lord of the Rings: The Two Towers,"Title: The Lord of the Rings: The Two Towers
+Genres: Action|Adventure|Drama
+Overview: While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron&apos;s new ally, Saruman, and his hordes of Isengard.
+Tagline: While | Frodo | and | Sam | edge | closer | to | Mordor | with | the
+Review snippet: While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron&apos;s new ally, Saruman, and his hordes of Isengard.","{""movie_pk"": ""thelordoftheringsthetwotowers_2002"", ""title"": ""The Lord of the Rings: The Two Towers"", ""release_year"": 2002, ""director"": ""Peter Jackson"", ""genres"": ""Action|Adventure|Drama"", ""source_flags"": ""csv|tmdb""}"
+doc_maryandmax_2010,maryandmax_2010,Mary and Max.,"Title: Mary and Max.
+Genres: Animation|Comedy|Drama
+Overview: A tale of friendship between two unlikely pen pals: Mary, a lonely, eight-year-old girl living in the suburbs of Melbourne, and Max, a forty-four-year old, severely obese man living in New York.
+Tagline: A | tale | of | friendship | between | two | unlikely | pen | pals: | Mary,
+Review snippet: A tale of friendship between two unlikely pen pals: Mary, a lonely, eight-year-old girl living in the suburbs of Melbourne, and Max, a forty-four-year old, severely obese man living in New York.","{""movie_pk"": ""maryandmax_2010"", ""title"": ""Mary and Max."", ""release_year"": 2010, ""director"": ""Adam Elliot"", ""genres"": ""Animation|Comedy|Drama"", ""source_flags"": ""csv|tmdb""}"
+doc_tengokutojigoku_1963,tengokutojigoku_1963,Tengoku to jigoku,"Title: Tengoku to jigoku
+Genres: Crime|Drama|Mystery
+Overview: An executive of a Yokohama shoe company becomes a victim of extortion when his chauffeur&apos;s son is kidnapped by mistake and held for ransom.
+Tagline: An | executive | of | a | Yokohama | shoe | company | becomes | a | victim
+Review snippet: An executive of a Yokohama shoe company becomes a victim of extortion when his chauffeur&apos;s son is kidnapped by mistake and held for ransom.","{""movie_pk"": ""tengokutojigoku_1963"", ""title"": ""Tengoku to jigoku"", ""release_year"": 1963, ""director"": ""Akira Kurosawa"", ""genres"": ""Crime|Drama|Mystery"", ""source_flags"": ""csv|tmdb""}"
+doc_indianajonesandthelastcrusade_1989,indianajonesandthelastcrusade_1989,Indiana Jones and the Last Crusade,"Title: Indiana Jones and the Last Crusade
+Genres: Action|Adventure
+Overview: In 1938, after his father Professor Henry Jones, Sr. goes missing while pursuing the Holy Grail, Professor Henry &quot;Indiana&quot; Jones, Jr. finds himself up against Adolf Hitler&apos;s Nazis again to stop them from obtaining its powers.
+Tagline: In | 1938, | after | his | father | Professor | Henry | Jones, | Sr. | goes
+Review snippet: In 1938, after his father Professor Henry Jones, Sr. goes missing while pursuing the Holy Grail, Professor Henry &quot;Indiana&quot; Jones, Jr. finds himself up against Adolf Hitler&apos;s Nazis again to stop them from obtaining its powers.","{""movie_pk"": ""indianajonesandthelastcrusade_1989"", ""title"": ""Indiana Jones and the Last Crusade"", ""release_year"": 1989, ""director"": ""Steven Spielberg"", ""genres"": ""Action|Adventure"", ""source_flags"": ""csv|tmdb""}"
+doc_thegrandbudapesthotel_2014,thegrandbudapesthotel_2014,The Grand Budapest Hotel,"Title: The Grand Budapest Hotel
+Genres: Adventure|Comedy|Crime
+Overview: A writer encounters the owner of an aging high-class hotel, who tells him of his early years serving as a lobby boy in the hotel&apos;s glorious years under an exceptional concierge.
+Tagline: A | writer | encounters | the | owner | of | an | aging | high-class | hotel,
+Review snippet: A writer encounters the owner of an aging high-class hotel, who tells him of his early years serving as a lobby boy in the hotel&apos;s glorious years under an exceptional concierge.","{""movie_pk"": ""thegrandbudapesthotel_2014"", ""title"": ""The Grand Budapest Hotel"", ""release_year"": 2014, ""director"": ""Wes Anderson"", ""genres"": ""Adventure|Comedy|Crime"", ""source_flags"": ""csv|tmdb""}"
+doc_thedeerhunter_1979,thedeerhunter_1979,The Deer Hunter,"Title: The Deer Hunter
+Genres: Drama|War
+Overview: An in-depth examination of the ways in which the Vietnam War impacts and disrupts the lives of several friends in a small steel mill town in Pennsylvania.
+Tagline: An | in-depth | examination | of | the | ways | in | which | the | Vietnam
+Review snippet: An in-depth examination of the ways in which the Vietnam War impacts and disrupts the lives of several friends in a small steel mill town in Pennsylvania.","{""movie_pk"": ""thedeerhunter_1979"", ""title"": ""The Deer Hunter"", ""release_year"": 1979, ""director"": ""Michael Cimino"", ""genres"": ""Drama|War"", ""source_flags"": ""csv|tmdb""}"
+doc_ratatouille_2007,ratatouille_2007,Ratatouille,"Title: Ratatouille
+Genres: Adventure|Animation|Comedy
+Overview: A rat who can cook makes an unusual alliance with a young kitchen worker at a famous Paris restaurant.
+Tagline: A | rat | who | can | cook | makes | an | unusual | alliance | with
+Review snippet: A rat who can cook makes an unusual alliance with a young kitchen worker at a famous Paris restaurant.","{""movie_pk"": ""ratatouille_2007"", ""title"": ""Ratatouille"", ""release_year"": 2007, ""director"": ""Brad Bird"", ""genres"": ""Adventure|Animation|Comedy"", ""source_flags"": ""csv|tmdb""}"
+doc_dasboot_1982,dasboot_1982,Das Boot,"Title: Das Boot
+Genres: Drama|War
+Overview: A German U-boat stalks the frigid waters of the North Atlantic as its young crew experience the sheer terror and claustrophobic life of a submariner in World War II.
+Tagline: A | German | U-boat | stalks | the | frigid | waters | of | the | North
+Review snippet: A German U-boat stalks the frigid waters of the North Atlantic as its young crew experience the sheer terror and claustrophobic life of a submariner in World War II.","{""movie_pk"": ""dasboot_1982"", ""title"": ""Das Boot"", ""release_year"": 1982, ""director"": ""Wolfgang Petersen"", ""genres"": ""Drama|War"", ""source_flags"": ""csv|tmdb""}"
+doc_rush_2013,rush_2013,Rush,"Title: Rush
+Genres: Action|Biography|Drama
+Overview: The merciless 1970s rivalry between Formula One rivals James Hunt and Niki Lauda.
+Tagline: The | merciless | 1970s | rivalry | between | Formula | One | rivals | James | Hunt
+Review snippet: The merciless 1970s rivalry between Formula One rivals James Hunt and Niki Lauda.","{""movie_pk"": ""rush_2013"", ""title"": ""Rush"", ""release_year"": 2013, ""director"": ""Ron Howard"", ""genres"": ""Action|Biography|Drama"", ""source_flags"": ""csv|tmdb""}"
+doc_ahgassi_2016,ahgassi_2016,Ah-ga-ssi,"Title: Ah-ga-ssi
+Genres: Drama|Romance|Thriller
+Overview: A woman is hired as a handmaiden to a Japanese heiress, but secretly she is involved in a plot to defraud her.
+Tagline: A | woman | is | hired | as | a | handmaiden | to | a | Japanese
+Review snippet: A woman is hired as a handmaiden to a Japanese heiress, but secretly she is involved in a plot to defraud her.","{""movie_pk"": ""ahgassi_2016"", ""title"": ""Ah-ga-ssi"", ""release_year"": 2016, ""director"": ""Park Chan-wook"", ""genres"": ""Drama|Romance|Thriller"", ""source_flags"": ""csv|tmdb""}"
+doc_thegoldrush_1925,thegoldrush_1925,The Gold Rush,"Title: The Gold Rush
+Genres: Adventure|Comedy|Drama
+Overview: A prospector goes to the Klondike during the 1890s gold rush in hopes of making his fortune, and is smitten with a girl he sees in a dance hall.
+Tagline: A | prospector | goes | to | the | Klondike | during | the | 1890s | gold
+Review snippet: A prospector goes to the Klondike during the 1890s gold rush in hopes of making his fortune, and is smitten with a girl he sees in a dance hall.","{""movie_pk"": ""thegoldrush_1925"", ""title"": ""The Gold Rush"", ""release_year"": 1925, ""director"": ""Charles Chaplin"", ""genres"": ""Adventure|Comedy|Drama"", ""source_flags"": ""csv|tmdb""}"
+doc_mrsmithgoestowashington_1939,mrsmithgoestowashington_1939,Mr. Smith Goes to Washington,"Title: Mr. Smith Goes to Washington
+Genres: Comedy|Drama
+Overview: A naive youth leader is appointed to fill a vacancy in the U.S. Senate. His idealistic plans promptly collide with corruption at home and subterfuge from his hero in Washington, but he tries to forge ahead despite attacks on his c...
+Tagline: A | naive | youth | leader | is | appointed | to | fill | a | vacancy
+Review snippet: A naive youth leader is appointed to fill a vacancy in the U.S. Senate. His idealistic plans promptly collide with corruption at home and subterfuge from his hero in Washington, but he tries to forge ahead despite attacks on his c...","{""movie_pk"": ""mrsmithgoestowashington_1939"", ""title"": ""Mr. Smith Goes to Washington"", ""release_year"": 1939, ""director"": ""Frank Capra"", ""genres"": ""Comedy|Drama"", ""source_flags"": ""csv|tmdb""}"
+doc_se7en_1995,se7en_1995,Se7en,"Title: Se7en
+Genres: Crime|Drama|Mystery
+Overview: Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.
+Tagline: Two | detectives, | a | rookie | and | a | veteran, | hunt | a | serial
+Review snippet: Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.","{""movie_pk"": ""se7en_1995"", ""title"": ""Se7en"", ""release_year"": 1995, ""director"": ""David Fincher"", ""genres"": ""Crime|Drama|Mystery"", ""source_flags"": ""csv|tmdb""}"
+doc_thelordoftheringsthereturnoftheking_2003,thelordoftheringsthereturnoftheking_2003,The Lord of the Rings: The Return of the King,"Title: The Lord of the Rings: The Return of the King
+Genres: Action|Adventure|Drama
+Overview: Gandalf and Aragorn lead the World of Men against Sauron&apos;s army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.
+Tagline: Gandalf | and | Aragorn | lead | the | World | of | Men | against | Sauron&apos;s
+Review snippet: Gandalf and Aragorn lead the World of Men against Sauron&apos;s army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.","{""movie_pk"": ""thelordoftheringsthereturnoftheking_2003"", ""title"": ""The Lord of the Rings: The Return of the King"", ""release_year"": 2003, ""director"": ""Peter Jackson"", ""genres"": ""Action|Adventure|Drama"", ""source_flags"": ""csv|tmdb""}"
+doc_djangounchained_2012,djangounchained_2012,Django Unchained,"Title: Django Unchained
+Genres: Drama|Western
+Overview: With the help of a German bounty-hunter, a freed slave sets out to rescue his wife from a brutal plantation-owner in Mississippi.
+Tagline: With | the | help | of | a | German | bounty-hunter, | a | freed | slave
+Review snippet: With the help of a German bounty-hunter, a freed slave sets out to rescue his wife from a brutal plantation-owner in Mississippi.","{""movie_pk"": ""djangounchained_2012"", ""title"": ""Django Unchained"", ""release_year"": 2012, ""director"": ""Quentin Tarantino"", ""genres"": ""Drama|Western"", ""source_flags"": ""csv|tmdb""}"
+doc_casablanca_1943,casablanca_1943,Casablanca,"Title: Casablanca
+Genres: Drama|Romance|War
+Overview: A cynical expatriate American cafe owner struggles to decide whether or not to help his former lover and her fugitive husband escape the Nazis in French Morocco.
+Tagline: A | cynical | expatriate | American | cafe | owner | struggles | to | decide | whether
+Review snippet: A cynical expatriate American cafe owner struggles to decide whether or not to help his former lover and her fugitive husband escape the Nazis in French Morocco.","{""movie_pk"": ""casablanca_1943"", ""title"": ""Casablanca"", ""release_year"": 1943, ""director"": ""Michael Curtiz"", ""genres"": ""Drama|Romance|War"", ""source_flags"": ""csv|tmdb""}"
+doc_vertigo_1958,vertigo_1958,Vertigo,"Title: Vertigo
+Genres: Mystery|Romance|Thriller
+Overview: A former San Francisco police detective juggles wrestling with his personal demons and becoming obsessed with the hauntingly beautiful woman he has been hired to trail, who may be deeply disturbed.
+Tagline: A | former | San | Francisco | police | detective | juggles | wrestling | with | his
+Review snippet: A former San Francisco police detective juggles wrestling with his personal demons and becoming obsessed with the hauntingly beautiful woman he has been hired to trail, who may be deeply disturbed.","{""movie_pk"": ""vertigo_1958"", ""title"": ""Vertigo"", ""release_year"": 1958, ""director"": ""Alfred Hitchcock"", ""genres"": ""Mystery|Romance|Thriller"", ""source_flags"": ""csv|tmdb""}"
+doc_deruntergang_2005,deruntergang_2005,Der Untergang,"Title: Der Untergang
+Genres: Biography|Drama|History
+Overview: Traudl Junge, the final secretary for Adolf Hitler, tells of the Nazi dictator&apos;s final days in his Berlin bunker at the end of WWII.
+Tagline: Traudl | Junge, | the | final | secretary | for | Adolf | Hitler, | tells | of
+Review snippet: Traudl Junge, the final secretary for Adolf Hitler, tells of the Nazi dictator&apos;s final days in his Berlin bunker at the end of WWII.","{""movie_pk"": ""deruntergang_2005"", ""title"": ""Der Untergang"", ""release_year"": 2005, ""director"": ""Oliver Hirschbiegel"", ""genres"": ""Biography|Drama|History"", ""source_flags"": ""csv|tmdb""}"
+doc_theusualsuspects_1995,theusualsuspects_1995,The Usual Suspects,"Title: The Usual Suspects
+Genres: Crime|Drama|Mystery
+Overview: A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which began when five criminals met at a seemingly random police lineup.
+Tagline: A | sole | survivor | tells | of | the | twisty | events | leading | up
+Review snippet: A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which began when five criminals met at a seemingly random police lineup.","{""movie_pk"": ""theusualsuspects_1995"", ""title"": ""The Usual Suspects"", ""release_year"": 1995, ""director"": ""Bryan Singer"", ""genres"": ""Crime|Drama|Mystery"", ""source_flags"": ""csv|tmdb""}"
+doc_witnessfortheprosecution_1958,witnessfortheprosecution_1958,Witness for the Prosecution,"Title: Witness for the Prosecution
+Genres: Crime|Drama|Mystery
+Overview: A veteran British barrister must defend his client in a murder trial that has surprise after surprise.
+Tagline: A | veteran | British | barrister | must | defend | his | client | in | a
+Review snippet: A veteran British barrister must defend his client in a murder trial that has surprise after surprise.","{""movie_pk"": ""witnessfortheprosecution_1958"", ""title"": ""Witness for the Prosecution"", ""release_year"": 1958, ""director"": ""Billy Wilder"", ""genres"": ""Crime|Drama|Mystery"", ""source_flags"": ""csv|tmdb""}"
+doc_thewizardofoz_1939,thewizardofoz_1939,The Wizard of Oz,"Title: The Wizard of Oz
+Genres: Adventure|Family|Fantasy
+Overview: Young Dorothy Gale and her dog Toto are swept away by a tornado from their Kansas farm to the magical Land of Oz, and embark on a quest with three new friends to see the Wizard, who can return her to her home and fulfill the other...
+Tagline: Young | Dorothy | Gale | and | her | dog | Toto | are | swept | away
+Review snippet: Young Dorothy Gale and her dog Toto are swept away by a tornado from their Kansas farm to the magical Land of Oz, and embark on a quest with three new friends to see the Wizard, who can return her to her home and fulfill the other...","{""movie_pk"": ""thewizardofoz_1939"", ""title"": ""The Wizard of Oz"", ""release_year"": 1939, ""director"": ""Victor Fleming"", ""genres"": ""Adventure|Family|Fantasy"", ""source_flags"": ""csv|tmdb""}"
+doc_walle_2008,walle_2008,WALL·E,"Title: WALL·E
+Genres: Adventure|Animation|Family
+Overview: In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind.
+Tagline: In | the | distant | future, | a | small | waste-collecting | robot | inadvertently | embarks
+Review snippet: In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind.","{""movie_pk"": ""walle_2008"", ""title"": ""WALL·E"", ""release_year"": 2008, ""director"": ""Andrew Stanton"", ""genres"": ""Adventure|Animation|Family"", ""source_flags"": ""csv|tmdb""}"
+doc_avengersendgame_2019,avengersendgame_2019,Avengers: Endgame,"Title: Avengers: Endgame
+Genres: Action|Adventure|Drama
+Overview: After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos&apos; actions and restore balance to the universe.
+Tagline: After | the | devastating | events | of | Avengers: | Infinity | War | (2018), | the
+Review snippet: After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos&apos; actions and restore balance to the universe.","{""movie_pk"": ""avengersendgame_2019"", ""title"": ""Avengers: Endgame"", ""release_year"": 2019, ""director"": ""Anthony Russo"", ""genres"": ""Action|Adventure|Drama"", ""source_flags"": ""csv|tmdb""}"
+doc_lon_1994,lon_1994,Léon,"Title: Léon
+Genres: Action|Crime|Drama
+Overview: 12-year-old Mathilda is reluctantly taken in by Léon, a professional assassin, after her family is murdered. An unusual relationship forms as she becomes his protégée and learns the assassin&apos;s trade.
+Tagline: 12-year-old | Mathilda | is | reluctantly | taken | in | by | Léon, | a | professional
+Review snippet: 12-year-old Mathilda is reluctantly taken in by Léon, a professional assassin, after her family is murdered. An unusual relationship forms as she becomes his protégée and learns the assassin&apos;s trade.","{""movie_pk"": ""lon_1994"", ""title"": ""Léon"", ""release_year"": 1994, ""director"": ""Luc Besson"", ""genres"": ""Action|Crime|Drama"", ""source_flags"": ""csv|tmdb""}"
+doc_americanbeauty_1999,americanbeauty_1999,American Beauty,"Title: American Beauty
+Genres: Drama
+Overview: A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter&apos;s best friend.
+Tagline: A | sexually | frustrated | suburban | father | has | a | mid-life | crisis | after
+Review snippet: A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter&apos;s best friend.","{""movie_pk"": ""americanbeauty_1999"", ""title"": ""American Beauty"", ""release_year"": 1999, ""director"": ""Sam Mendes"", ""genres"": ""Drama"", ""source_flags"": ""csv|tmdb""}"
+doc_theelephantman_1980,theelephantman_1980,The Elephant Man,"Title: The Elephant Man
+Genres: Biography|Drama
+Overview: A Victorian surgeon rescues a heavily disfigured man who is mistreated while scraping a living as a side-show freak. Behind his monstrous façade, there is revealed a person of kindness, intelligence and sophistication.
+Tagline: A | Victorian | surgeon | rescues | a | heavily | disfigured | man | who | is
+Review snippet: A Victorian surgeon rescues a heavily disfigured man who is mistreated while scraping a living as a side-show freak. Behind his monstrous façade, there is revealed a person of kindness, intelligence and sophistication.","{""movie_pk"": ""theelephantman_1980"", ""title"": ""The Elephant Man"", ""release_year"": 1980, ""director"": ""David Lynch"", ""genres"": ""Biography|Drama"", ""source_flags"": ""csv|tmdb""}"
+doc_bladerunner_1982,bladerunner_1982,Blade Runner,"Title: Blade Runner
+Genres: Action|Drama|Sci-Fi
+Overview: A blade runner must pursue and terminate four replicants who stole a ship in space and have returned to Earth to find their creator.
+Tagline: A | blade | runner | must | pursue | and | terminate | four | replicants | who
+Review snippet: A blade runner must pursue and terminate four replicants who stole a ship in space and have returned to Earth to find their creator.","{""movie_pk"": ""bladerunner_1982"", ""title"": ""Blade Runner"", ""release_year"": 1982, ""director"": ""Ridley Scott"", ""genres"": ""Action|Drama|Sci-Fi"", ""source_flags"": ""csv|tmdb""}"
+doc_lesalairedelapeur_1955,lesalairedelapeur_1955,Le salaire de la peur,"Title: Le salaire de la peur
+Genres: Adventure|Drama|Thriller
+Overview: In a decrepit South American village, four men are hired to transport an urgent nitroglycerine shipment without the equipment that would make it safe.
+Tagline: In | a | decrepit | South | American | village, | four | men | are | hired
+Review snippet: In a decrepit South American village, four men are hired to transport an urgent nitroglycerine shipment without the equipment that would make it safe.","{""movie_pk"": ""lesalairedelapeur_1955"", ""title"": ""Le salaire de la peur"", ""release_year"": 1955, ""director"": ""Henri-Georges Clouzot"", ""genres"": ""Adventure|Drama|Thriller"", ""source_flags"": ""csv|tmdb""}"
+doc_lapassiondejeannedaposarc_1928,lapassiondejeannedaposarc_1928,La passion de Jeanne d&apos;Arc,"Title: La passion de Jeanne d&apos;Arc
+Genres: Biography|Drama|History
+Overview: In 1431, Jeanne d&apos;Arc is placed on trial on charges of heresy. The ecclesiastical jurists attempt to force Jeanne to recant her claims of holy visions.
+Tagline: In | 1431, | Jeanne | d&apos;Arc | is | placed | on | trial | on | charges
+Review snippet: In 1431, Jeanne d&apos;Arc is placed on trial on charges of heresy. The ecclesiastical jurists attempt to force Jeanne to recant her claims of holy visions.","{""movie_pk"": ""lapassiondejeannedaposarc_1928"", ""title"": ""La passion de Jeanne d&apos;Arc"", ""release_year"": 1928, ""director"": ""Carl Theodor Dreyer"", ""genres"": ""Biography|Drama|History"", ""source_flags"": ""csv|tmdb""}"
+doc_ladridibiciclette_1949,ladridibiciclette_1949,Ladri di biciclette,"Title: Ladri di biciclette
+Genres: Drama
+Overview: In post-war Italy, a working-class man&apos;s bicycle is stolen, endangering his efforts to find work. He and his son set out to find it.
+Tagline: In | post-war | Italy, | a | working-class | man&apos;s | bicycle | is | stolen, | endangering
+Review snippet: In post-war Italy, a working-class man&apos;s bicycle is stolen, endangering his efforts to find work. He and his son set out to find it.","{""movie_pk"": ""ladridibiciclette_1949"", ""title"": ""Ladri di biciclette"", ""release_year"": 1949, ""director"": ""Vittorio De Sica"", ""genres"": ""Drama"", ""source_flags"": ""csv|tmdb""}"
+doc_thekid_1921,thekid_1921,The Kid,"Title: The Kid
+Genres: Comedy|Drama|Family
+Overview: The Tramp cares for an abandoned child, but events put their relationship in jeopardy.
+Tagline: The | Tramp | cares | for | an | abandoned | child, | but | events | put
+Review snippet: The Tramp cares for an abandoned child, but events put their relationship in jeopardy.","{""movie_pk"": ""thekid_1921"", ""title"": ""The Kid"", ""release_year"": 1921, ""director"": ""Charles Chaplin"", ""genres"": ""Comedy|Drama|Family"", ""source_flags"": ""csv|tmdb""}"
+doc_inglouriousbasterds_2009,inglouriousbasterds_2009,Inglourious Basterds,"Title: Inglourious Basterds
+Genres: Adventure|Drama|War
+Overview: In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner&apos;s vengeful plans for the same.
+Tagline: In | Nazi-occupied | France | during | World | War | II, | a | plan | to
+Review snippet: In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner&apos;s vengeful plans for the same.","{""movie_pk"": ""inglouriousbasterds_2009"", ""title"": ""Inglourious Basterds"", ""release_year"": 2009, ""director"": ""Quentin Tarantino"", ""genres"": ""Adventure|Drama|War"", ""source_flags"": ""csv|tmdb""}"
+doc_joker_2019,joker_2019,Joker,"Title: Joker
+Genres: Crime|Drama|Thriller
+Overview: A mentally troubled stand-up comedian embarks on a downward spiral that leads to the creation of an iconic villain.
+Tagline: A | mentally | troubled | stand-up | comedian | embarks | on | a | downward | spiral
+Review snippet: A mentally troubled stand-up comedian embarks on a downward spiral that leads to the creation of an iconic villain.","{""movie_pk"": ""joker_2019"", ""title"": ""Joker"", ""release_year"": 2019, ""director"": ""Todd Phillips"", ""genres"": ""Crime|Drama|Thriller"", ""source_flags"": ""csv|tmdb""}"
+doc_rocky_1976,rocky_1976,Rocky,"Title: Rocky
+Genres: Drama|Sport
+Overview: A small-time Philadelphia boxer gets a supremely rare chance to fight the world heavyweight champion in a bout in which he strives to go the distance for his self-respect.
+Tagline: A | small-time | Philadelphia | boxer | gets | a | supremely | rare | chance | to
+Review snippet: A small-time Philadelphia boxer gets a supremely rare chance to fight the world heavyweight champion in a bout in which he strives to go the distance for his self-respect.","{""movie_pk"": ""rocky_1976"", ""title"": ""Rocky"", ""release_year"": 1976, ""director"": ""John G. Avildsen"", ""genres"": ""Drama|Sport"", ""source_flags"": ""csv|tmdb""}"
+doc_elsecretodesusojos_2010,elsecretodesusojos_2010,El secreto de sus ojos,"Title: El secreto de sus ojos
+Genres: Drama|Mystery|Romance
+Overview: A retired legal counselor writes a novel hoping to find closure for one of his past unresolved homicide cases and for his unreciprocated love with his superior - both of which still haunt him decades later.
+Tagline: A | retired | legal | counselor | writes | a | novel | hoping | to | find
+Review snippet: A retired legal counselor writes a novel hoping to find closure for one of his past unresolved homicide cases and for his unreciprocated love with his superior - both of which still haunt him decades later.","{""movie_pk"": ""elsecretodesusojos_2010"", ""title"": ""El secreto de sus ojos"", ""release_year"": 2010, ""director"": ""Juan José Campanella"", ""genres"": ""Drama|Mystery|Romance"", ""source_flags"": ""csv|tmdb""}"
+doc_tokillamockingbird_1963,tokillamockingbird_1963,To Kill a Mockingbird,"Title: To Kill a Mockingbird
+Genres: Crime|Drama
+Overview: Atticus Finch, a widowed lawyer in Depression-era Alabama, defends a black man against an undeserved rape charge, and his children against prejudice.
+Tagline: Atticus | Finch, | a | widowed | lawyer | in | Depression-era | Alabama, | defends | a
+Review snippet: Atticus Finch, a widowed lawyer in Depression-era Alabama, defends a black man against an undeserved rape charge, and his children against prejudice.","{""movie_pk"": ""tokillamockingbird_1963"", ""title"": ""To Kill a Mockingbird"", ""release_year"": 1963, ""director"": ""Robert Mulligan"", ""genres"": ""Crime|Drama"", ""source_flags"": ""csv|tmdb""}"
+doc_casino_1995,casino_1995,Casino,"Title: Casino
+Genres: Crime|Drama
+Overview: A tale of greed, deception, money, power, and murder occur between two best friends: a mafia enforcer and a casino executive compete against each other over a gambling empire, and over a fast-living and fast-loving socialite.
+Tagline: A | tale | of | greed, | deception, | money, | power, | and | murder | occur
+Review snippet: A tale of greed, deception, money, power, and murder occur between two best friends: a mafia enforcer and a casino executive compete against each other over a gambling empire, and over a fast-living and fast-loving socialite.","{""movie_pk"": ""casino_1995"", ""title"": ""Casino"", ""release_year"": 1995, ""director"": ""Martin Scorsese"", ""genres"": ""Crime|Drama"", ""source_flags"": ""csv|tmdb""}"
+doc_relatossalvajes_2014,relatossalvajes_2014,Relatos salvajes,"Title: Relatos salvajes
+Genres: Comedy|Drama|Thriller
+Overview: Six short stories that explore the extremities of human behavior involving people in distress.
+Tagline: Six | short | stories | that | explore | the | extremities | of | human | behavior
+Review snippet: Six short stories that explore the extremities of human behavior involving people in distress.","{""movie_pk"": ""relatossalvajes_2014"", ""title"": ""Relatos salvajes"", ""release_year"": 2014, ""director"": ""Damián Szifron"", ""genres"": ""Comedy|Drama|Thriller"", ""source_flags"": ""csv|tmdb""}"
+doc_piratesofthecaribbeanthecurseoftheblackpearl_2003,piratesofthecaribbeanthecurseoftheblackpearl_2003,Pirates of the Caribbean: The Curse of the Black Pearl,"Title: Pirates of the Caribbean: The Curse of the Black Pearl
+Genres: Action|Adventure|Fantasy
+Overview: Blacksmith Will Turner teams up with eccentric pirate &quot;Captain&quot; Jack Sparrow to save his love, the governor&apos;s daughter, from Jack&apos;s former pirate allies, who are now undead.
+Tagline: Blacksmith | Will | Turner | teams | up | with | eccentric | pirate | &quot;Captain&quot; | Jack
+Review snippet: Blacksmith Will Turner teams up with eccentric pirate &quot;Captain&quot; Jack Sparrow to save his love, the governor&apos;s daughter, from Jack&apos;s former pirate allies, who are now undead.","{""movie_pk"": ""piratesofthecaribbeanthecurseoftheblackpearl_2003"", ""title"": ""Pirates of the Caribbean: The Curse of the Black Pearl"", ""release_year"": 2003, ""director"": ""Gore Verbinski"", ""genres"": ""Action|Adventure|Fantasy"", ""source_flags"": ""csv|tmdb""}"
+doc_topgunmaverick_2022,topgunmaverick_2022,Top Gun: Maverick,"Title: Top Gun: Maverick
+Genres: Action|Drama
+Overview: After thirty years, Maverick is still pushing the envelope as a top naval aviator, but must confront ghosts of his past when he leads TOP GUN&apos;s elite graduates on a mission that demands the ultimate sacrifice from those chosen to ...
+Tagline: After | thirty | years, | Maverick | is | still | pushing | the | envelope | as
+Review snippet: After thirty years, Maverick is still pushing the envelope as a top naval aviator, but must confront ghosts of his past when he leads TOP GUN&apos;s elite graduates on a mission that demands the ultimate sacrifice from those chosen to ...","{""movie_pk"": ""topgunmaverick_2022"", ""title"": ""Top Gun: Maverick"", ""release_year"": 2022, ""director"": ""Joseph Kosinski"", ""genres"": ""Action|Drama"", ""source_flags"": ""csv|tmdb""}"
+doc_seppuku_1964,seppuku_1964,Seppuku,"Title: Seppuku
+Genres: Action|Drama|Mystery
+Overview: When a ronin requesting seppuku at a feudal lord&apos;s palace is told of the brutal suicide of another ronin who previously visited, he reveals how their pasts are intertwined - and in doing so challenges the clan&apos;s integrity.
+Tagline: When | a | ronin | requesting | seppuku | at | a | feudal | lord&apos;s | palace
+Review snippet: When a ronin requesting seppuku at a feudal lord&apos;s palace is told of the brutal suicide of another ronin who previously visited, he reveals how their pasts are intertwined - and in doing so challenges the clan&apos;s integrity.","{""movie_pk"": ""seppuku_1964"", ""title"": ""Seppuku"", ""release_year"": 1964, ""director"": ""Masaki Kobayashi"", ""genres"": ""Action|Drama|Mystery"", ""source_flags"": ""csv|tmdb""}"
+doc_hotelrwanda_2005,hotelrwanda_2005,Hotel Rwanda,"Title: Hotel Rwanda
+Genres: Biography|Drama|History
+Overview: Paul Rusesabagina, a hotel manager, houses over a thousand Tutsi refugees during their struggle against the Hutu militia in Rwanda, Africa.
+Tagline: Paul | Rusesabagina, | a | hotel | manager, | houses | over | a | thousand | Tutsi
+Review snippet: Paul Rusesabagina, a hotel manager, houses over a thousand Tutsi refugees during their struggle against the Hutu militia in Rwanda, Africa.","{""movie_pk"": ""hotelrwanda_2005"", ""title"": ""Hotel Rwanda"", ""release_year"": 2005, ""director"": ""Terry George"", ""genres"": ""Biography|Drama|History"", ""source_flags"": ""csv|tmdb""}"
+doc_hotarunohaka_1989,hotarunohaka_1989,Hotaru no haka,"Title: Hotaru no haka
+Genres: Animation|Drama|War
+Overview: A young boy and his little sister struggle to survive in Japan during World War II.
+Tagline: A | young | boy | and | his | little | sister | struggle | to | survive
+Review snippet: A young boy and his little sister struggle to survive in Japan during World War II.","{""movie_pk"": ""hotarunohaka_1989"", ""title"": ""Hotaru no haka"", ""release_year"": 1989, ""director"": ""Isao Takahata"", ""genres"": ""Animation|Drama|War"", ""source_flags"": ""csv|tmdb""}"
+doc_theprestige_2006,theprestige_2006,The Prestige,"Title: The Prestige
+Genres: Drama|Mystery|Sci-Fi
+Overview: After a tragic accident, two stage magicians in 1890s London engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other.
+Tagline: After | a | tragic | accident, | two | stage | magicians | in | 1890s | London
+Review snippet: After a tragic accident, two stage magicians in 1890s London engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other.","{""movie_pk"": ""theprestige_2006"", ""title"": ""The Prestige"", ""release_year"": 2006, ""director"": ""Christopher Nolan"", ""genres"": ""Drama|Mystery|Sci-Fi"", ""source_flags"": ""csv|tmdb""}"
+doc_ilbuonoilbruttoilcattivo_1967,ilbuonoilbruttoilcattivo_1967,"Il buono, il brutto, il cattivo","Title: Il buono, il brutto, il cattivo
+Genres: Adventure|Western
+Overview: A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.
+Tagline: A | bounty | hunting | scam | joins | two | men | in | an | uneasy
+Review snippet: A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.","{""movie_pk"": ""ilbuonoilbruttoilcattivo_1967"", ""title"": ""Il buono, il brutto, il cattivo"", ""release_year"": 1967, ""director"": ""Sergio Leone"", ""genres"": ""Adventure|Western"", ""source_flags"": ""csv|tmdb""}"
+doc_spidermanintothespiderverse_2018,spidermanintothespiderverse_2018,Spider-Man: Into the Spider-Verse,"Title: Spider-Man: Into the Spider-Verse
+Genres: Action|Adventure|Animation
+Overview: Teen Miles Morales becomes the Spider-Man of his universe, and must join with five spider-powered individuals from other dimensions to stop a threat for all realities.
+Tagline: Teen | Miles | Morales | becomes | the | Spider-Man | of | his | universe, | and
+Review snippet: Teen Miles Morales becomes the Spider-Man of his universe, and must join with five spider-powered individuals from other dimensions to stop a threat for all realities.","{""movie_pk"": ""spidermanintothespiderverse_2018"", ""title"": ""Spider-Man: Into the Spider-Verse"", ""release_year"": 2018, ""director"": ""Bob Persichetti"", ""genres"": ""Action|Adventure|Animation"", ""source_flags"": ""csv|tmdb""}"
+doc_coco_2017,coco_2017,Coco,"Title: Coco
+Genres: Adventure|Animation|Comedy
+Overview: Aspiring musician Miguel, confronted with his family&apos;s ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.
+Tagline: Aspiring | musician | Miguel, | confronted | with | his | family&apos;s | ancestral | ban | on
+Review snippet: Aspiring musician Miguel, confronted with his family&apos;s ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.","{""movie_pk"": ""coco_2017"", ""title"": ""Coco"", ""release_year"": 2017, ""director"": ""Lee Unkrich"", ""genres"": ""Adventure|Animation|Comedy"", ""source_flags"": ""csv|tmdb""}"
+doc_avengersinfinitywar_2018,avengersinfinitywar_2018,Avengers: Infinity War,"Title: Avengers: Infinity War
+Genres: Action|Adventure|Sci-Fi
+Overview: The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.
+Tagline: The | Avengers | and | their | allies | must | be | willing | to | sacrifice
+Review snippet: The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.","{""movie_pk"": ""avengersinfinitywar_2018"", ""title"": ""Avengers: Infinity War"", ""release_year"": 2018, ""director"": ""Anthony Russo"", ""genres"": ""Action|Adventure|Sci-Fi"", ""source_flags"": ""csv|tmdb""}"
+doc_kiminonawa_2017,kiminonawa_2017,Kimi no Na wa.,"Title: Kimi no Na wa.
+Genres: Animation|Drama|Fantasy
+Overview: Two strangers find themselves linked in a bizarre way. When a connection forms, will distance be the only thing to keep them apart?
+Tagline: Two | strangers | find | themselves | linked | in | a | bizarre | way. | When
+Review snippet: Two strangers find themselves linked in a bizarre way. When a connection forms, will distance be the only thing to keep them apart?","{""movie_pk"": ""kiminonawa_2017"", ""title"": ""Kimi no Na wa."", ""release_year"": 2017, ""director"": ""Makoto Shinkai"", ""genres"": ""Animation|Drama|Fantasy"", ""source_flags"": ""csv|tmdb""}"
+doc_thedeparted_2006,thedeparted_2006,The Departed,"Title: The Departed
+Genres: Crime|Drama|Thriller
+Overview: An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.
+Tagline: An | undercover | cop | and | a | mole | in | the | police | attempt
+Review snippet: An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.","{""movie_pk"": ""thedeparted_2006"", ""title"": ""The Departed"", ""release_year"": 2006, ""director"": ""Martin Scorsese"", ""genres"": ""Crime|Drama|Thriller"", ""source_flags"": ""csv|tmdb""}"
+doc_groundhogday_1993,groundhogday_1993,Groundhog Day,"Title: Groundhog Day
+Genres: Comedy|Drama|Fantasy
+Overview: A narcissistic, self-centered weatherman finds himself in a time loop on Groundhog Day, and the day keeps repeating until he gets it right.
+Tagline: A | narcissistic, | self-centered | weatherman | finds | himself | in | a | time | loop
+Review snippet: A narcissistic, self-centered weatherman finds himself in a time loop on Groundhog Day, and the day keeps repeating until he gets it right.","{""movie_pk"": ""groundhogday_1993"", ""title"": ""Groundhog Day"", ""release_year"": 1993, ""director"": ""Harold Ramis"", ""genres"": ""Comedy|Drama|Fantasy"", ""source_flags"": ""csv|tmdb""}"
+doc_detsjundeinseglet_1958,detsjundeinseglet_1958,Det sjunde inseglet,"Title: Det sjunde inseglet
+Genres: Drama|Fantasy
+Overview: A knight returning to Sweden after the Crusades seeks answers about life, death, and the existence of God as he plays chess against the Grim Reaper during the Black Plague.
+Tagline: A | knight | returning | to | Sweden | after | the | Crusades | seeks | answers
+Review snippet: A knight returning to Sweden after the Crusades seeks answers about life, death, and the existence of God as he plays chess against the Grim Reaper during the Black Plague.","{""movie_pk"": ""detsjundeinseglet_1958"", ""title"": ""Det sjunde inseglet"", ""release_year"": 1958, ""director"": ""Ingmar Bergman"", ""genres"": ""Drama|Fantasy"", ""source_flags"": ""csv|tmdb""}"
+doc_rashmon_1951,rashmon_1951,Rashômon,"Title: Rashômon
+Genres: Crime|Drama|Mystery
+Overview: The rape of a bride and the murder of her samurai husband are recalled from the perspectives of a bandit, the bride, the samurai&apos;s ghost and a woodcutter.
+Tagline: The | rape | of | a | bride | and | the | murder | of | her
+Review snippet: The rape of a bride and the murder of her samurai husband are recalled from the perspectives of a bandit, the bride, the samurai&apos;s ghost and a woodcutter.","{""movie_pk"": ""rashmon_1951"", ""title"": ""Rashômon"", ""release_year"": 1951, ""director"": ""Akira Kurosawa"", ""genres"": ""Crime|Drama|Mystery"", ""source_flags"": ""csv|tmdb""}"
+doc_sherlockjr_1924,sherlockjr_1924,Sherlock Jr.,"Title: Sherlock Jr.
+Genres: Action|Comedy|Romance
+Overview: A film projectionist longs to be a detective, and puts his meagre skills to work when he is framed by a rival for stealing his girlfriend&apos;s father&apos;s pocketwatch.
+Tagline: A | film | projectionist | longs | to | be | a | detective, | and | puts
+Review snippet: A film projectionist longs to be a detective, and puts his meagre skills to work when he is framed by a rival for stealing his girlfriend&apos;s father&apos;s pocketwatch.","{""movie_pk"": ""sherlockjr_1924"", ""title"": ""Sherlock Jr."", ""release_year"": 1924, ""director"": ""Buster Keaton"", ""genres"": ""Action|Comedy|Romance"", ""source_flags"": ""csv|tmdb""}"
+doc_shutterisland_2010,shutterisland_2010,Shutter Island,"Title: Shutter Island
+Genres: Mystery|Thriller
+Overview: A U.S. Marshal investigates a psychiatric facility on an isolated island.
+Tagline: 
+Review snippet:","{""movie_pk"": ""shutterisland_2010"", ""title"": ""Shutter Island"", ""release_year"": 2010, ""director"": ""Martin Scorsese"", ""genres"": ""Mystery|Thriller"", ""source_flags"": ""csv|tmdb""}"
+doc_batmanbegins_2005,batmanbegins_2005,Batman Begins,"Title: Batman Begins
+Genres: Action|Crime|Drama
+Overview: After training with his mentor, Batman begins his fight to free crime-ridden Gotham City from corruption.
+Tagline: After | training | with | his | mentor, | Batman | begins | his | fight | to
+Review snippet: After training with his mentor, Batman begins his fight to free crime-ridden Gotham City from corruption.","{""movie_pk"": ""batmanbegins_2005"", ""title"": ""Batman Begins"", ""release_year"": 2005, ""director"": ""Christopher Nolan"", ""genres"": ""Action|Crime|Drama"", ""source_flags"": ""csv|tmdb""}"
+doc_toystory3_2010,toystory3_2010,Toy Story 3,"Title: Toy Story 3
+Genres: Adventure|Animation|Comedy
+Overview: The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves for college, and it&apos;s up to Woody to convince the other toys that they weren&apos;t abandoned and to return home.
+Tagline: The | toys | are | mistakenly | delivered | to | a | day-care | center | instead
+Review snippet: The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves for college, and it&apos;s up to Woody to convince the other toys that they weren&apos;t abandoned and to return home.","{""movie_pk"": ""toystory3_2010"", ""title"": ""Toy Story 3"", ""release_year"": 2010, ""director"": ""Lee Unkrich"", ""genres"": ""Adventure|Animation|Comedy"", ""source_flags"": ""csv|tmdb""}"
+doc_reservoirdogs_1992,reservoirdogs_1992,Reservoir Dogs,"Title: Reservoir Dogs
+Genres: Crime|Thriller
+Overview: When a simple jewelry heist goes horribly wrong, the surviving criminals begin to suspect that one of them is a police informant.
+Tagline: When | a | simple | jewelry | heist | goes | horribly | wrong, | the | surviving
+Review snippet: When a simple jewelry heist goes horribly wrong, the surviving criminals begin to suspect that one of them is a police informant.","{""movie_pk"": ""reservoirdogs_1992"", ""title"": ""Reservoir Dogs"", ""release_year"": 1992, ""director"": ""Quentin Tarantino"", ""genres"": ""Crime|Thriller"", ""source_flags"": ""csv|tmdb""}"
+doc_harrypotterandthedeathlyhallowspart2_2011,harrypotterandthedeathlyhallowspart2_2011,Harry Potter and the Deathly Hallows - Part 2,"Title: Harry Potter and the Deathly Hallows - Part 2
+Genres: Adventure|Family|Fantasy
+Overview: Harry, Ron, and Hermione search for Voldemort&apos;s remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts.
+Tagline: Harry, | Ron, | and | Hermione | search | for | Voldemort&apos;s | remaining | Horcruxes | in
+Review snippet: Harry, Ron, and Hermione search for Voldemort&apos;s remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts.","{""movie_pk"": ""harrypotterandthedeathlyhallowspart2_2011"", ""title"": ""Harry Potter and the Deathly Hallows - Part 2"", ""release_year"": 2011, ""director"": ""David Yates"", ""genres"": ""Adventure|Family|Fantasy"", ""source_flags"": ""csv|tmdb""}"
+doc_jaws_1975,jaws_1975,Jaws,"Title: Jaws
+Genres: Adventure|Thriller
+Overview: When a killer shark unleashes chaos on a beach community off Cape Cod, it&apos;s up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down.
+Tagline: When | a | killer | shark | unleashes | chaos | on | a | beach | community
+Review snippet: When a killer shark unleashes chaos on a beach community off Cape Cod, it&apos;s up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down.","{""movie_pk"": ""jaws_1975"", ""title"": ""Jaws"", ""release_year"": 1975, ""director"": ""Steven Spielberg"", ""genres"": ""Adventure|Thriller"", ""source_flags"": ""csv|tmdb""}"
+doc_jaibhim_2021,jaibhim_2021,Jai Bhim,"Title: Jai Bhim
+Genres: Crime|Drama|Mystery
+Overview: When a tribal man is arrested for a case of alleged theft, his wife turns to a human-rights lawyer to help bring justice.
+Tagline: When | a | tribal | man | is | arrested | for | a | case | of
+Review snippet: When a tribal man is arrested for a case of alleged theft, his wife turns to a human-rights lawyer to help bring justice.","{""movie_pk"": ""jaibhim_2021"", ""title"": ""Jai Bhim"", ""release_year"": 2021, ""director"": ""T.J. Gnanavel"", ""genres"": ""Crime|Drama|Mystery"", ""source_flags"": ""csv|tmdb""}"
+doc_aliens_1986,aliens_1986,Aliens,"Title: Aliens
+Genres: Action|Adventure|Sci-Fi
+Overview: Fifty-seven years after surviving an apocalyptic attack aboard her space vessel by merciless space creatures, Officer Ripley awakens from hyper-sleep and tries to warn anyone who will listen about the predators.
+Tagline: Fifty-seven | years | after | surviving | an | apocalyptic | attack | aboard | her | space
+Review snippet: Fifty-seven years after surviving an apocalyptic attack aboard her space vessel by merciless space creatures, Officer Ripley awakens from hyper-sleep and tries to warn anyone who will listen about the predators.","{""movie_pk"": ""aliens_1986"", ""title"": ""Aliens"", ""release_year"": 1986, ""director"": ""James Cameron"", ""genres"": ""Action|Adventure|Sci-Fi"", ""source_flags"": ""csv|tmdb""}"
+doc_network_1976,network_1976,Network,"Title: Network
+Genres: Drama
+Overview: A television network cynically exploits a deranged former anchor&apos;s ravings and revelations about the news media for its own profit, but finds that his message may be difficult to control.
+Tagline: A | television | network | cynically | exploits | a | deranged | former | anchor&apos;s | ravings
+Review snippet: A television network cynically exploits a deranged former anchor&apos;s ravings and revelations about the news media for its own profit, but finds that his message may be difficult to control.","{""movie_pk"": ""network_1976"", ""title"": ""Network"", ""release_year"": 1976, ""director"": ""Sidney Lumet"", ""genres"": ""Drama"", ""source_flags"": ""csv|tmdb""}"
+doc_persona_1967,persona_1967,Persona,"Title: Persona
+Genres: Drama|Thriller
+Overview: A nurse is put in charge of a mute actress and finds that their personae are melding together.
+Tagline: A | nurse | is | put | in | charge | of | a | mute | actress
+Review snippet: A nurse is put in charge of a mute actress and finds that their personae are melding together.","{""movie_pk"": ""persona_1967"", ""title"": ""Persona"", ""release_year"": 1967, ""director"": ""Ingmar Bergman"", ""genres"": ""Drama|Thriller"", ""source_flags"": ""csv|tmdb""}"
+doc_thedarkknight_2008,thedarkknight_2008,The Dark Knight,"Title: The Dark Knight
+Genres: Action|Crime|Drama
+Overview: When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.
+Tagline: When | the | menace | known | as | the | Joker | wreaks | havoc | and
+Review snippet: When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.","{""movie_pk"": ""thedarkknight_2008"", ""title"": ""The Dark Knight"", ""release_year"": 2008, ""director"": ""Christopher Nolan"", ""genres"": ""Action|Crime|Drama"", ""source_flags"": ""csv|tmdb""}"
+doc_room_2016,room_2016,Room,"Title: Room
+Genres: Drama|Thriller
+Overview: Held captive for 7 years in an enclosed space, a woman and her young son finally gain their freedom, allowing the boy to experience the outside world for the first time.
+Tagline: Held | captive | for | 7 | years | in | an | enclosed | space, | a
+Review snippet: Held captive for 7 years in an enclosed space, a woman and her young son finally gain their freedom, allowing the boy to experience the outside world for the first time.","{""movie_pk"": ""room_2016"", ""title"": ""Room"", ""release_year"": 2016, ""director"": ""Lenny Abrahamson"", ""genres"": ""Drama|Thriller"", ""source_flags"": ""csv|tmdb""}"
+doc_chinatown_1974,chinatown_1974,Chinatown,"Title: Chinatown
+Genres: Drama|Mystery|Thriller
+Overview: A private detective hired to expose an adulterer in 1930s Los Angeles finds himself caught up in a web of deceit, corruption, and murder.
+Tagline: A | private | detective | hired | to | expose | an | adulterer | in | 1930s
+Review snippet: A private detective hired to expose an adulterer in 1930s Los Angeles finds himself caught up in a web of deceit, corruption, and murder.","{""movie_pk"": ""chinatown_1974"", ""title"": ""Chinatown"", ""release_year"": 1974, ""director"": ""Roman Polanski"", ""genres"": ""Drama|Mystery|Thriller"", ""source_flags"": ""csv|tmdb""}"
+doc_jodaeiyenaderazsimin_2011,jodaeiyenaderazsimin_2011,Jodaeiye Nader az Simin,"Title: Jodaeiye Nader az Simin
+Genres: Drama
+Overview: A married couple are faced with a difficult decision - to improve the life of their child by moving to another country or to stay in Iran and look after a deteriorating parent who has Alzheimer&apos;s disease.
+Tagline: A | married | couple | are | faced | with | a | difficult | decision | -
+Review snippet: A married couple are faced with a difficult decision - to improve the life of their child by moving to another country or to stay in Iran and look after a deteriorating parent who has Alzheimer&apos;s disease.","{""movie_pk"": ""jodaeiyenaderazsimin_2011"", ""title"": ""Jodaeiye Nader az Simin"", ""release_year"": 2011, ""director"": ""Asghar Farhadi"", ""genres"": ""Drama"", ""source_flags"": ""csv|tmdb""}"
+doc_theapartment_1960,theapartment_1960,The Apartment,"Title: The Apartment
+Genres: Comedy|Drama|Romance
+Overview: A Manhattan insurance clerk tries to rise in his company by letting its executives use his apartment for trysts, but complications and a romance of his own ensue.
+Tagline: A | Manhattan | insurance | clerk | tries | to | rise | in | his | company
+Review snippet: A Manhattan insurance clerk tries to rise in his company by letting its executives use his apartment for trysts, but complications and a romance of his own ensue.","{""movie_pk"": ""theapartment_1960"", ""title"": ""The Apartment"", ""release_year"": 1960, ""director"": ""Billy Wilder"", ""genres"": ""Comedy|Drama|Romance"", ""source_flags"": ""csv|tmdb""}"
+doc_theexorcist_1973,theexorcist_1973,The Exorcist,"Title: The Exorcist
+Genres: Horror
+Overview: When a teenage girl is possessed by a mysterious entity, her mother seeks the help of two priests to save her daughter.
+Tagline: When | a | teenage | girl | is | possessed | by | a | mysterious | entity,
+Review snippet: When a teenage girl is possessed by a mysterious entity, her mother seeks the help of two priests to save her daughter.","{""movie_pk"": ""theexorcist_1973"", ""title"": ""The Exorcist"", ""release_year"": 1973, ""director"": ""William Friedkin"", ""genres"": ""Horror"", ""source_flags"": ""csv|tmdb""}"
+doc_thetrumanshow_1998,thetrumanshow_1998,The Truman Show,"Title: The Truman Show
+Genres: Comedy|Drama
+Overview: An insurance salesman discovers his whole life is actually a reality TV show.
+Tagline: An | insurance | salesman | discovers | his | whole | life | is | actually | a
+Review snippet: An insurance salesman discovers his whole life is actually a reality TV show.","{""movie_pk"": ""thetrumanshow_1998"", ""title"": ""The Truman Show"", ""release_year"": 1998, ""director"": ""Peter Weir"", ""genres"": ""Comedy|Drama"", ""source_flags"": ""csv|tmdb""}"
+doc_goodfellas_1990,goodfellas_1990,Goodfellas,"Title: Goodfellas
+Genres: Biography|Crime|Drama
+Overview: The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate.
+Tagline: The | story | of | Henry | Hill | and | his | life | in | the
+Review snippet: The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate.","{""movie_pk"": ""goodfellas_1990"", ""title"": ""Goodfellas"", ""release_year"": 1990, ""director"": ""Martin Scorsese"", ""genres"": ""Biography|Crime|Drama"", ""source_flags"": ""csv|tmdb""}"
+doc_thethirdman_1949,thethirdman_1949,The Third Man,"Title: The Third Man
+Genres: Film-Noir|Mystery|Thriller
+Overview: Pulp novelist Holly Martins travels to shadowy, postwar Vienna, only to find himself investigating the mysterious death of an old friend, Harry Lime.
+Tagline: Pulp | novelist | Holly | Martins | travels | to | shadowy, | postwar | Vienna, | only
+Review snippet: Pulp novelist Holly Martins travels to shadowy, postwar Vienna, only to find himself investigating the mysterious death of an old friend, Harry Lime.","{""movie_pk"": ""thethirdman_1949"", ""title"": ""The Third Man"", ""release_year"": 1949, ""director"": ""Carol Reed"", ""genres"": ""Film-Noir|Mystery|Thriller"", ""source_flags"": ""csv|tmdb""}"
+doc_toystory_1995,toystory_1995,Toy Story,"Title: Toy Story
+Genres: Adventure|Animation|Comedy
+Overview: A cowboy doll is profoundly threatened and jealous when a new spaceman action figure supplants him as top toy in a boy&apos;s bedroom.
+Tagline: A | cowboy | doll | is | profoundly | threatened | and | jealous | when | a
+Review snippet: A cowboy doll is profoundly threatened and jealous when a new spaceman action figure supplants him as top toy in a boy&apos;s bedroom.","{""movie_pk"": ""toystory_1995"", ""title"": ""Toy Story"", ""release_year"": 1995, ""director"": ""John Lasseter"", ""genres"": ""Adventure|Animation|Comedy"", ""source_flags"": ""csv|tmdb""}"
+doc_ithappenedonenight_1934,ithappenedonenight_1934,It Happened One Night,"Title: It Happened One Night
+Genres: Comedy|Romance
+Overview: A renegade reporter trailing a young runaway heiress for a big story joins her on a bus heading from Florida to New York, and they end up stuck with each other when the bus leaves them behind at one of the stops.
+Tagline: A | renegade | reporter | trailing | a | young | runaway | heiress | for | a
+Review snippet: A renegade reporter trailing a young runaway heiress for a big story joins her on a bus heading from Florida to New York, and they end up stuck with each other when the bus leaves them behind at one of the stops.","{""movie_pk"": ""ithappenedonenight_1934"", ""title"": ""It Happened One Night"", ""release_year"": 1934, ""director"": ""Frank Capra"", ""genres"": ""Comedy|Romance"", ""source_flags"": ""csv|tmdb""}"
+doc_lesquatrecentscoups_1959,lesquatrecentscoups_1959,Les quatre cents coups,"Title: Les quatre cents coups
+Genres: Crime|Drama
+Overview: A young boy, left without attention, delves into a life of petty crime.
+Tagline: A | young | boy, | left | without | attention, | delves | into | a | life
+Review snippet: A young boy, left without attention, delves into a life of petty crime.","{""movie_pk"": ""lesquatrecentscoups_1959"", ""title"": ""Les quatre cents coups"", ""release_year"": 1959, ""director"": ""François Truffaut"", ""genres"": ""Crime|Drama"", ""source_flags"": ""csv|tmdb""}"
+doc_beforesunset_2004,beforesunset_2004,Before Sunset,"Title: Before Sunset
+Genres: Drama|Romance
+Overview: Nine years after Jesse and Celine first met, they encounter each other again on the French leg of Jesse&apos;s book tour.
+Tagline: Nine | years | after | Jesse | and | Celine | first | met, | they | encounter
+Review snippet: Nine years after Jesse and Celine first met, they encounter each other again on the French leg of Jesse&apos;s book tour.","{""movie_pk"": ""beforesunset_2004"", ""title"": ""Before Sunset"", ""release_year"": 2004, ""director"": ""Richard Linklater"", ""genres"": ""Drama|Romance"", ""source_flags"": ""csv|tmdb""}"
+doc_thething_1982,thething_1982,The Thing,"Title: The Thing
+Genres: Horror|Mystery|Sci-Fi
+Overview: A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.
+Tagline: A | research | team | in | Antarctica | is | hunted | by | a | shape-shifting
+Review snippet: A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.","{""movie_pk"": ""thething_1982"", ""title"": ""The Thing"", ""release_year"": 1982, ""director"": ""John Carpenter"", ""genres"": ""Horror|Mystery|Sci-Fi"", ""source_flags"": ""csv|tmdb""}"
+doc_12angrymen_1957,12angrymen_1957,12 Angry Men,"Title: 12 Angry Men
+Genres: Crime|Drama
+Overview: The jury in a New York City murder trial is frustrated by a single member whose skeptical caution forces them to more carefully consider the evidence before jumping to a hasty verdict.
+Tagline: The | jury | in | a | New | York | City | murder | trial | is
+Review snippet: The jury in a New York City murder trial is frustrated by a single member whose skeptical caution forces them to more carefully consider the evidence before jumping to a hasty verdict.","{""movie_pk"": ""12angrymen_1957"", ""title"": ""12 Angry Men"", ""release_year"": 1957, ""director"": ""Sidney Lumet"", ""genres"": ""Crime|Drama"", ""source_flags"": ""csv|tmdb""}"
+doc_benhur_1959,benhur_1959,Ben-Hur,"Title: Ben-Hur
+Genres: Adventure|Drama
+Overview: After a Jewish prince is betrayed and sent into slavery by a Roman friend in 1st-century Jerusalem, he regains his freedom and comes back for revenge.
+Tagline: After | a | Jewish | prince | is | betrayed | and | sent | into | slavery
+Review snippet: After a Jewish prince is betrayed and sent into slavery by a Roman friend in 1st-century Jerusalem, he regains his freedom and comes back for revenge.","{""movie_pk"": ""benhur_1959"", ""title"": ""Ben-Hur"", ""release_year"": 1959, ""director"": ""William Wyler"", ""genres"": ""Adventure|Drama"", ""source_flags"": ""csv|tmdb""}"
+doc_thegeneral_1927,thegeneral_1927,The General,"Title: The General
+Genres: Action|Adventure|Comedy
+Overview: After being rejected by the Confederate military, not realizing it was due to his crucial civilian role, an engineer must single-handedly recapture his beloved locomotive after it is seized by Union spies and return it through ene...
+Tagline: After | being | rejected | by | the | Confederate | military, | not | realizing | it
+Review snippet: After being rejected by the Confederate military, not realizing it was due to his crucial civilian role, an engineer must single-handedly recapture his beloved locomotive after it is seized by Union spies and return it through ene...","{""movie_pk"": ""thegeneral_1927"", ""title"": ""The General"", ""release_year"": 1927, ""director"": ""Clyde Bruckman"", ""genres"": ""Action|Adventure|Comedy"", ""source_flags"": ""csv|tmdb""}"
+doc_oneflewoverthecuckooapossnest_1975,oneflewoverthecuckooapossnest_1975,One Flew Over the Cuckoo&apos;s Nest,"Title: One Flew Over the Cuckoo&apos;s Nest
+Genres: Drama
+Overview: In the Fall of 1963, a Korean War veteran and criminal pleads insanity and is admitted to a mental institution, where he rallies up the scared patients against the tyrannical nurse.
+Tagline: In | the | Fall | of | 1963, | a | Korean | War | veteran | and
+Review snippet: In the Fall of 1963, a Korean War veteran and criminal pleads insanity and is admitted to a mental institution, where he rallies up the scared patients against the tyrannical nurse.","{""movie_pk"": ""oneflewoverthecuckooapossnest_1975"", ""title"": ""One Flew Over the Cuckoo&apos;s Nest"", ""release_year"": 1975, ""director"": ""Milos Forman"", ""genres"": ""Drama"", ""source_flags"": ""csv|tmdb""}"
+doc_up_2009,up_2009,Up,"Title: Up
+Genres: Adventure|Animation|Comedy
+Overview: 78-year-old Carl Fredricksen travels to Paradise Falls in his house equipped with balloons, inadvertently taking a young stowaway.
+Tagline: 78-year-old | Carl | Fredricksen | travels | to | Paradise | Falls | in | his | house
+Review snippet: 78-year-old Carl Fredricksen travels to Paradise Falls in his house equipped with balloons, inadvertently taking a young stowaway.","{""movie_pk"": ""up_2009"", ""title"": ""Up"", ""release_year"": 2009, ""director"": ""Pete Docter"", ""genres"": ""Adventure|Animation|Comedy"", ""source_flags"": ""csv|tmdb""}"
+doc_thegreatdictator_1941,thegreatdictator_1941,The Great Dictator,"Title: The Great Dictator
+Genres: Comedy|Drama|War
+Overview: Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel&apos;s regime.
+Tagline: Dictator | Adenoid | Hynkel | tries | to | expand | his | empire | while | a
+Review snippet: Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel&apos;s regime.","{""movie_pk"": ""thegreatdictator_1941"", ""title"": ""The Great Dictator"", ""release_year"": 1941, ""director"": ""Charles Chaplin"", ""genres"": ""Comedy|Drama|War"", ""source_flags"": ""csv|tmdb""}"
+doc_montypythonandtheholygrail_1975,montypythonandtheholygrail_1975,Monty Python and the Holy Grail,"Title: Monty Python and the Holy Grail
+Genres: Adventure|Comedy|Fantasy
+Overview: King Arthur and his Knights of the Round Table embark on a surreal, low-budget search for the Holy Grail, encountering many, very silly obstacles.
+Tagline: King | Arthur | and | his | Knights | of | the | Round | Table | embark
+Review snippet: King Arthur and his Knights of the Round Table embark on a surreal, low-budget search for the Holy Grail, encountering many, very silly obstacles.","{""movie_pk"": ""montypythonandtheholygrail_1975"", ""title"": ""Monty Python and the Holy Grail"", ""release_year"": 1975, ""director"": ""Terry Gilliam"", ""genres"": ""Adventure|Comedy|Fantasy"", ""source_flags"": ""csv|tmdb""}"
+doc_gonegirl_2014,gonegirl_2014,Gone Girl,"Title: Gone Girl
+Genres: Drama|Mystery|Thriller
+Overview: A husband becomes the prime suspect when his wife disappears.
+Tagline: 
+Review snippet:","{""movie_pk"": ""gonegirl_2014"", ""title"": ""Gone Girl"", ""release_year"": 2014, ""director"": ""David Fincher"", ""genres"": ""Drama|Mystery|Thriller"", ""source_flags"": ""csv|tmdb""}"
+doc_ran_1985,ran_1985,Ran,"Title: Ran
+Genres: Action|Drama|War
+Overview: In Medieval Japan, an elderly warlord retires, handing over his empire to his three sons. However, he vastly underestimates how the new-found power will corrupt them and cause them to turn on each other...and him.
+Tagline: In | Medieval | Japan, | an | elderly | warlord | retires, | handing | over | his
+Review snippet: In Medieval Japan, an elderly warlord retires, handing over his empire to his three sons. However, he vastly underestimates how the new-found power will corrupt them and cause them to turn on each other...and him.","{""movie_pk"": ""ran_1985"", ""title"": ""Ran"", ""release_year"": 1985, ""director"": ""Akira Kurosawa"", ""genres"": ""Action|Drama|War"", ""source_flags"": ""csv|tmdb""}"
+doc_madmaxfuryroad_2015,madmaxfuryroad_2015,Mad Max: Fury Road,"Title: Mad Max: Fury Road
+Genres: Action|Adventure|Sci-Fi
+Overview: In a post-apocalyptic wasteland, Max and Furiosa flee a tyrant.
+Tagline: 
+Review snippet:","{""movie_pk"": ""madmaxfuryroad_2015"", ""title"": ""Mad Max: Fury Road"", ""release_year"": 2015, ""director"": ""George Miller"", ""genres"": ""Action|Adventure|Sci-Fi"", ""source_flags"": ""csv|tmdb""}"
+doc_monstersinc_2001,monstersinc_2001,"Monsters, Inc.","Title: Monsters, Inc.
+Genres: Adventure|Animation|Comedy
+Overview: In order to power the city, monsters have to scare children so that they scream. However, the children are toxic to the monsters, and after a child gets through, two monsters realize things may not be what they think.
+Tagline: In | order | to | power | the | city, | monsters | have | to | scare
+Review snippet: In order to power the city, monsters have to scare children so that they scream. However, the children are toxic to the monsters, and after a child gets through, two monsters realize things may not be what they think.","{""movie_pk"": ""monstersinc_2001"", ""title"": ""Monsters, Inc."", ""release_year"": 2001, ""director"": ""Pete Docter"", ""genres"": ""Adventure|Animation|Comedy"", ""source_flags"": ""csv|tmdb""}"
+doc_taxidriver_1976,taxidriver_1976,Taxi Driver,"Title: Taxi Driver
+Genres: Crime|Drama
+Overview: A mentally unstable veteran works as a nighttime taxi driver in New York City, where the perceived decadence and sleaze fuels his urge for violent action.
+Tagline: A | mentally | unstable | veteran | works | as | a | nighttime | taxi | driver
+Review snippet: A mentally unstable veteran works as a nighttime taxi driver in New York City, where the perceived decadence and sleaze fuels his urge for violent action.","{""movie_pk"": ""taxidriver_1976"", ""title"": ""Taxi Driver"", ""release_year"": 1976, ""director"": ""Martin Scorsese"", ""genres"": ""Crime|Drama"", ""source_flags"": ""csv|tmdb""}"
+doc_trainspotting_1996,trainspotting_1996,Trainspotting,"Title: Trainspotting
+Genres: Drama
+Overview: Renton, deeply immersed in the Edinburgh drug scene, tries to clean up and get out, despite the allure of the drugs and influence of friends.
+Tagline: Renton, | deeply | immersed | in | the | Edinburgh | drug | scene, | tries | to
+Review snippet: Renton, deeply immersed in the Edinburgh drug scene, tries to clean up and get out, despite the allure of the drugs and influence of friends.","{""movie_pk"": ""trainspotting_1996"", ""title"": ""Trainspotting"", ""release_year"": 1996, ""director"": ""Danny Boyle"", ""genres"": ""Drama"", ""source_flags"": ""csv|tmdb""}"
+doc_intouchables_2011,intouchables_2011,Intouchables,"Title: Intouchables
+Genres: Biography|Comedy|Drama
+Overview: After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caregiver.
+Tagline: After | he | becomes | a | quadriplegic | from | a | paragliding | accident, | an
+Review snippet: After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caregiver.","{""movie_pk"": ""intouchables_2011"", ""title"": ""Intouchables"", ""release_year"": 2011, ""director"": ""Olivier Nakache"", ""genres"": ""Biography|Comedy|Drama"", ""source_flags"": ""csv|tmdb""}"
+doc_schindleraposslist_1994,schindleraposslist_1994,Schindler&apos;s List,"Title: Schindler&apos;s List
+Genres: Biography|Drama|History
+Overview: In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.
+Tagline: In | German-occupied | Poland | during | World | War | II, | industrialist | Oskar | Schindler
+Review snippet: In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.","{""movie_pk"": ""schindleraposslist_1994"", ""title"": ""Schindler&apos;s List"", ""release_year"": 1994, ""director"": ""Steven Spielberg"", ""genres"": ""Biography|Drama|History"", ""source_flags"": ""csv|tmdb""}"
+doc_parasite_2019,parasite_2019,Parasite,"Title: Parasite
+Genres: Drama|Thriller
+Overview: A poor family infiltrates a wealthy household, leading to escalating conflict.
+Tagline: 
+Review snippet:","{""movie_pk"": ""parasite_2019"", ""title"": ""Parasite"", ""release_year"": 2019, ""director"": ""Bong Joon Ho"", ""genres"": ""Drama|Thriller"", ""source_flags"": ""csv|tmdb""}"
+doc_tkymonogatari_1972,tkymonogatari_1972,Tôkyô monogatari,"Title: Tôkyô monogatari
+Genres: Drama
+Overview: An old couple visit their children and grandchildren in the city, but receive little attention.
+Tagline: An | old | couple | visit | their | children | and | grandchildren | in | the
+Review snippet: An old couple visit their children and grandchildren in the city, but receive little attention.","{""movie_pk"": ""tkymonogatari_1972"", ""title"": ""Tôkyô monogatari"", ""release_year"": 1972, ""director"": ""Yasujirô Ozu"", ""genres"": ""Drama"", ""source_flags"": ""csv|tmdb""}"
+doc_lahaine_1996,lahaine_1996,La haine,"Title: La haine
+Genres: Crime|Drama
+Overview: 24 hours in the lives of three young men in the French suburbs the day after a violent riot.
+Tagline: 24 | hours | in | the | lives | of | three | young | men | in
+Review snippet: 24 hours in the lives of three young men in the French suburbs the day after a violent riot.","{""movie_pk"": ""lahaine_1996"", ""title"": ""La haine"", ""release_year"": 1996, ""director"": ""Mathieu Kassovitz"", ""genres"": ""Crime|Drama"", ""source_flags"": ""csv|tmdb""}"
+doc_aladdin_1992,aladdin_1992,Aladdin,"Title: Aladdin
+Genres: Adventure|Animation|Comedy
+Overview: A kindhearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true.
+Tagline: A | kindhearted | street | urchin | and | a | power-hungry | Grand | Vizier | vie
+Review snippet: A kindhearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true.","{""movie_pk"": ""aladdin_1992"", ""title"": ""Aladdin"", ""release_year"": 1992, ""director"": ""Ron Clements"", ""genres"": ""Adventure|Animation|Comedy"", ""source_flags"": ""csv|tmdb""}"
+doc_citylights_1931,citylights_1931,City Lights,"Title: City Lights
+Genres: Comedy|Drama|Romance
+Overview: With the aid of a wealthy erratic tippler, a dewy-eyed tramp who has fallen in love with a sightless flower girl accumulates money to be able to help her medically.
+Tagline: With | the | aid | of | a | wealthy | erratic | tippler, | a | dewy-eyed
+Review snippet: With the aid of a wealthy erratic tippler, a dewy-eyed tramp who has fallen in love with a sightless flower girl accumulates money to be able to help her medically.","{""movie_pk"": ""citylights_1931"", ""title"": ""City Lights"", ""release_year"": 1931, ""director"": ""Charles Chaplin"", ""genres"": ""Comedy|Drama|Romance"", ""source_flags"": ""csv|tmdb""}"
+doc_nuovocinemaparadiso_1990,nuovocinemaparadiso_1990,Nuovo Cinema Paradiso,"Title: Nuovo Cinema Paradiso
+Genres: Drama|Romance
+Overview: A filmmaker recalls his childhood when falling in love with the pictures at the cinema of his home village and forms a deep friendship with the cinema&apos;s projectionist.
+Tagline: A | filmmaker | recalls | his | childhood | when | falling | in | love | with
+Review snippet: A filmmaker recalls his childhood when falling in love with the pictures at the cinema of his home village and forms a deep friendship with the cinema&apos;s projectionist.","{""movie_pk"": ""nuovocinemaparadiso_1990"", ""title"": ""Nuovo Cinema Paradiso"", ""release_year"": 1990, ""director"": ""Giuseppe Tornatore"", ""genres"": ""Drama|Romance"", ""source_flags"": ""csv|tmdb""}"
+doc_savingprivateryan_1998,savingprivateryan_1998,Saving Private Ryan,"Title: Saving Private Ryan
+Genres: Drama|War
+Overview: Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.
+Tagline: Following | the | Normandy | Landings, | a | group | of | U.S. | soldiers | go
+Review snippet: Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.","{""movie_pk"": ""savingprivateryan_1998"", ""title"": ""Saving Private Ryan"", ""release_year"": 1998, ""director"": ""Steven Spielberg"", ""genres"": ""Drama|War"", ""source_flags"": ""csv|tmdb""}"
+doc_dersuuzala_1977,dersuuzala_1977,Dersu Uzala,"Title: Dersu Uzala
+Genres: Adventure|Biography|Drama
+Overview: The Russian army sends an explorer on an expedition to the snowy Siberian wilderness where he makes friends with a seasoned local hunter.
+Tagline: The | Russian | army | sends | an | explorer | on | an | expedition | to
+Review snippet: The Russian army sends an explorer on an expedition to the snowy Siberian wilderness where he makes friends with a seasoned local hunter.","{""movie_pk"": ""dersuuzala_1977"", ""title"": ""Dersu Uzala"", ""release_year"": 1977, ""director"": ""Akira Kurosawa"", ""genres"": ""Adventure|Biography|Drama"", ""source_flags"": ""csv|tmdb""}"
+doc_theincredibles_2004,theincredibles_2004,The Incredibles,"Title: The Incredibles
+Genres: Action|Adventure|Animation
+Overview: While trying to lead a quiet suburban life, a family of undercover superheroes are forced into action to save the world.
+Tagline: While | trying | to | lead | a | quiet | suburban | life, | a | family
+Review snippet: While trying to lead a quiet suburban life, a family of undercover superheroes are forced into action to save the world.","{""movie_pk"": ""theincredibles_2004"", ""title"": ""The Incredibles"", ""release_year"": 2004, ""director"": ""Brad Bird"", ""genres"": ""Action|Adventure|Animation"", ""source_flags"": ""csv|tmdb""}"
+doc_oppenheimer_2023,oppenheimer_2023,Oppenheimer,"Title: Oppenheimer
+Genres: Drama|History|Thriller
+Overview: The story of J. Robert Oppenheimer and the creation of the atomic bomb.
+Tagline: 
+Review snippet:","{""movie_pk"": ""oppenheimer_2023"", ""title"": ""Oppenheimer"", ""release_year"": 2023, ""director"": ""Christopher Nolan"", ""genres"": ""Drama|History|Thriller"", ""source_flags"": ""csv|tmdb""}"
+doc_themartian_2015,themartian_2015,The Martian,"Title: The Martian
+Genres: Adventure|Drama|Sci-Fi
+Overview: An astronaut stranded on Mars must survive until rescue.
+Tagline: 
+Review snippet:","{""movie_pk"": ""themartian_2015"", ""title"": ""The Martian"", ""release_year"": 2015, ""director"": ""Ridley Scott"", ""genres"": ""Adventure|Drama|Sci-Fi"", ""source_flags"": ""csv|tmdb""}"
+doc_platoon_1987,platoon_1987,Platoon,"Title: Platoon
+Genres: Drama|War
+Overview: Chris Taylor, a neophyte recruit in Vietnam, finds himself caught in a battle of wills between two sergeants, one good and the other evil. A shrewd examination of the brutality of war and the duality of man in conflict.
+Tagline: Chris | Taylor, | a | neophyte | recruit | in | Vietnam, | finds | himself | caught
+Review snippet: Chris Taylor, a neophyte recruit in Vietnam, finds himself caught in a battle of wills between two sergeants, one good and the other evil. A shrewd examination of the brutality of war and the duality of man in conflict.","{""movie_pk"": ""platoon_1987"", ""title"": ""Platoon"", ""release_year"": 1987, ""director"": ""Oliver Stone"", ""genres"": ""Drama|War"", ""source_flags"": ""csv|tmdb""}"
+doc_warrior_2011,warrior_2011,Warrior,"Title: Warrior
+Genres: Action|Drama|Sport
+Overview: The youngest son of an alcoholic former boxer returns home, where he&apos;s trained by his father for competition in a mixed martial arts tournament - a path that puts the fighter on a collision course with his estranged, older brother.
+Tagline: The | youngest | son | of | an | alcoholic | former | boxer | returns | home,
+Review snippet: The youngest son of an alcoholic former boxer returns home, where he&apos;s trained by his father for competition in a mixed martial arts tournament - a path that puts the fighter on a collision course with his estranged, older brother.","{""movie_pk"": ""warrior_2011"", ""title"": ""Warrior"", ""release_year"": 2011, ""director"": ""Gavin O&apos;Connor"", ""genres"": ""Action|Drama|Sport"", ""source_flags"": ""csv|tmdb""}"
+doc_thewolfofwallstreet_2013,thewolfofwallstreet_2013,The Wolf of Wall Street,"Title: The Wolf of Wall Street
+Genres: Biography|Comedy|Crime
+Overview: Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.
+Tagline: Based | on | the | true | story | of | Jordan | Belfort, | from | his
+Review snippet: Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.","{""movie_pk"": ""thewolfofwallstreet_2013"", ""title"": ""The Wolf of Wall Street"", ""release_year"": 2013, ""director"": ""Martin Scorsese"", ""genres"": ""Biography|Comedy|Crime"", ""source_flags"": ""csv|tmdb""}"
+doc_howtotrainyourdragon_2010,howtotrainyourdragon_2010,How to Train Your Dragon,"Title: How to Train Your Dragon
+Genres: Action|Adventure|Animation
+Overview: A hapless young Viking who aspires to hunt dragons becomes the unlikely friend of a young dragon himself, and learns there may be more to the creatures than he assumed.
+Tagline: A | hapless | young | Viking | who | aspires | to | hunt | dragons | becomes
+Review snippet: A hapless young Viking who aspires to hunt dragons becomes the unlikely friend of a young dragon himself, and learns there may be more to the creatures than he assumed.","{""movie_pk"": ""howtotrainyourdragon_2010"", ""title"": ""How to Train Your Dragon"", ""release_year"": 2010, ""director"": ""Dean DeBlois"", ""genres"": ""Action|Adventure|Animation"", ""source_flags"": ""csv|tmdb""}"
+doc_metropolis_1927,metropolis_1927,Metropolis,"Title: Metropolis
+Genres: Drama|Sci-Fi
+Overview: In a futuristic city sharply divided between the working class and the city planners, the son of the city&apos;s mastermind falls in love with a working-class prophet who predicts the coming of a savior to mediate their differences.
+Tagline: In | a | futuristic | city | sharply | divided | between | the | working | class
+Review snippet: In a futuristic city sharply divided between the working class and the city planners, the son of the city&apos;s mastermind falls in love with a working-class prophet who predicts the coming of a savior to mediate their differences.","{""movie_pk"": ""metropolis_1927"", ""title"": ""Metropolis"", ""release_year"": 1927, ""director"": ""Fritz Lang"", ""genres"": ""Drama|Sci-Fi"", ""source_flags"": ""csv|tmdb""}"
+doc_dune_2021,dune_2021,Dune,"Title: Dune
+Genres: Adventure|Drama|Sci-Fi
+Overview: Paul Atreides leads noble houses in a struggle over the desert planet Arrakis.
+Tagline: 
+Review snippet:","{""movie_pk"": ""dune_2021"", ""title"": ""Dune"", ""release_year"": 2021, ""director"": ""Denis Villeneuve"", ""genres"": ""Adventure|Drama|Sci-Fi"", ""source_flags"": ""csv|tmdb""}"
+doc_itapossawonderfullife_1947,itapossawonderfullife_1947,It&apos;s a Wonderful Life,"Title: It&apos;s a Wonderful Life
+Genres: Drama|Family|Fantasy
+Overview: An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed.
+Tagline: An | angel | is | sent | from | Heaven | to | help | a | desperately
+Review snippet: An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed.","{""movie_pk"": ""itapossawonderfullife_1947"", ""title"": ""It&apos;s a Wonderful Life"", ""release_year"": 1947, ""director"": ""Frank Capra"", ""genres"": ""Drama|Family|Fantasy"", ""source_flags"": ""csv|tmdb""}"
+doc_bachehayeaseman_1999,bachehayeaseman_1999,Bacheha-Ye aseman,"Title: Bacheha-Ye aseman
+Genres: Drama|Family|Sport
+Overview: After a boy loses his sister&apos;s pair of shoes, he goes on a series of adventures in order to find them. When he can&apos;t, he tries a new way to &quot;win&quot; a new pair.
+Tagline: After | a | boy | loses | his | sister&apos;s | pair | of | shoes, | he
+Review snippet: After a boy loses his sister&apos;s pair of shoes, he goes on a series of adventures in order to find them. When he can&apos;t, he tries a new way to &quot;win&quot; a new pair.","{""movie_pk"": ""bachehayeaseman_1999"", ""title"": ""Bacheha-Ye aseman"", ""release_year"": 1999, ""director"": ""Majid Majidi"", ""genres"": ""Drama|Family|Sport"", ""source_flags"": ""csv|tmdb""}"
+doc_therewillbeblood_2008,therewillbeblood_2008,There Will Be Blood,"Title: There Will Be Blood
+Genres: Drama
+Overview: A story of family, religion, hatred, oil and madness, focusing on a turn-of-the-century prospector in the early days of the business.
+Tagline: A | story | of | family, | religion, | hatred, | oil | and | madness, | focusing
+Review snippet: A story of family, religion, hatred, oil and madness, focusing on a turn-of-the-century prospector in the early days of the business.","{""movie_pk"": ""therewillbeblood_2008"", ""title"": ""There Will Be Blood"", ""release_year"": 2008, ""director"": ""Paul Thomas Anderson"", ""genres"": ""Drama"", ""source_flags"": ""csv|tmdb""}"
+doc_prisoners_2013,prisoners_2013,Prisoners,"Title: Prisoners
+Genres: Crime|Drama|Thriller
+Overview: When two girls disappear, a father takes matters into his own hands.
+Tagline: 
+Review snippet:","{""movie_pk"": ""prisoners_2013"", ""title"": ""Prisoners"", ""release_year"": 2013, ""director"": ""Denis Villeneuve"", ""genres"": ""Crime|Drama|Thriller"", ""source_flags"": ""csv|tmdb""}"
+doc_inthenameofthefather_1994,inthenameofthefather_1994,In the Name of the Father,"Title: In the Name of the Father
+Genres: Biography|Crime|Drama
+Overview: A man&apos;s coerced confession to an I.R.A. bombing he did not commit results in the imprisonment of his father as well. An English lawyer fights to free them.
+Tagline: A | man&apos;s | coerced | confession | to | an | I.R.A. | bombing | he | did
+Review snippet: A man&apos;s coerced confession to an I.R.A. bombing he did not commit results in the imprisonment of his father as well. An English lawyer fights to free them.","{""movie_pk"": ""inthenameofthefather_1994"", ""title"": ""In the Name of the Father"", ""release_year"": 1994, ""director"": ""Jim Sheridan"", ""genres"": ""Biography|Crime|Drama"", ""source_flags"": ""csv|tmdb""}"
+doc_sentochihironokamikakushi_2003,sentochihironokamikakushi_2003,Sen to Chihiro no kamikakushi,"Title: Sen to Chihiro no kamikakushi
+Genres: Adventure|Animation|Family
+Overview: During her family&apos;s move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.
+Tagline: During | her | family&apos;s | move | to | the | suburbs, | a | sullen | 10-year-old
+Review snippet: During her family&apos;s move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.","{""movie_pk"": ""sentochihironokamikakushi_2003"", ""title"": ""Sen to Chihiro no kamikakushi"", ""release_year"": 2003, ""director"": ""Hayao Miyazaki"", ""genres"": ""Adventure|Animation|Family"", ""source_flags"": ""csv|tmdb""}"
+doc_haurunougokushiro_2005,haurunougokushiro_2005,Hauru no ugoku shiro,"Title: Hauru no ugoku shiro
+Genres: Adventure|Animation|Family
+Overview: When an unconfident young woman is cursed with an old body by a spiteful witch, her only chance of breaking the spell lies with a self-indulgent yet insecure young wizard and his companions in his legged, walking castle.
+Tagline: When | an | unconfident | young | woman | is | cursed | with | an | old
+Review snippet: When an unconfident young woman is cursed with an old body by a spiteful witch, her only chance of breaking the spell lies with a self-indulgent yet insecure young wizard and his companions in his legged, walking castle.","{""movie_pk"": ""haurunougokushiro_2005"", ""title"": ""Hauru no ugoku shiro"", ""release_year"": 2005, ""director"": ""Hayao Miyazaki"", ""genres"": ""Adventure|Animation|Family"", ""source_flags"": ""csv|tmdb""}"
+doc_arrival_2016,arrival_2016,Arrival,"Title: Arrival
+Genres: Drama|Mystery|Sci-Fi
+Overview: A linguist tries to communicate with mysterious visitors to Earth.
+Tagline: 
+Review snippet:","{""movie_pk"": ""arrival_2016"", ""title"": ""Arrival"", ""release_year"": 2016, ""director"": ""Denis Villeneuve"", ""genres"": ""Drama|Mystery|Sci-Fi"", ""source_flags"": ""csv|tmdb""}"
+doc_spotlight_2015,spotlight_2015,Spotlight,"Title: Spotlight
+Genres: Biography|Crime|Drama
+Overview: The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core.
+Tagline: The | true | story | of | how | the | Boston | Globe | uncovered | the
+Review snippet: The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core.","{""movie_pk"": ""spotlight_2015"", ""title"": ""Spotlight"", ""release_year"": 2015, ""director"": ""Tom McCarthy"", ""genres"": ""Biography|Crime|Drama"", ""source_flags"": ""csv|tmdb""}"
+doc_everythingeverywhereallatonce_2022,everythingeverywhereallatonce_2022,Everything Everywhere All at Once,"Title: Everything Everywhere All at Once
+Genres: Adventure|Comedy|Sci-Fi
+Overview: A woman is pulled into a multiverse conflict while repairing her family.
+Tagline: 
+Review snippet:","{""movie_pk"": ""everythingeverywhereallatonce_2022"", ""title"": ""Everything Everywhere All at Once"", ""release_year"": 2022, ""director"": ""Daniel Kwan & Daniel Scheinert"", ""genres"": ""Adventure|Comedy|Sci-Fi"", ""source_flags"": ""csv|tmdb""}"
+doc_allabouteve_1950,allabouteve_1950,All About Eve,"Title: All About Eve
+Genres: Drama
+Overview: A seemingly timid but secretly ruthless ingénue insinuates herself into the lives of an aging Broadway star and her circle of theater friends.
+Tagline: A | seemingly | timid | but | secretly | ruthless | ingénue | insinuates | herself | into
+Review snippet: A seemingly timid but secretly ruthless ingénue insinuates herself into the lives of an aging Broadway star and her circle of theater friends.","{""movie_pk"": ""allabouteve_1950"", ""title"": ""All About Eve"", ""release_year"": 1950, ""director"": ""Joseph L. Mankiewicz"", ""genres"": ""Drama"", ""source_flags"": ""csv|tmdb""}"
+doc_theempirestrikesback_1980,theempirestrikesback_1980,The Empire Strikes Back,"Title: The Empire Strikes Back
+Genres: Action|Adventure|Fantasy
+Overview: After the Rebels are brutally overpowered by the Empire on the ice planet Hoth, Luke Skywalker begins Jedi training with Yoda, while his friends are pursued across the galaxy by Darth Vader and bounty hunter Boba Fett.
+Tagline: After | the | Rebels | are | brutally | overpowered | by | the | Empire | on
+Review snippet: After the Rebels are brutally overpowered by the Empire on the ice planet Hoth, Luke Skywalker begins Jedi training with Yoda, while his friends are pursued across the galaxy by Darth Vader and bounty hunter Boba Fett.","{""movie_pk"": ""theempirestrikesback_1980"", ""title"": ""The Empire Strikes Back"", ""release_year"": 1980, ""director"": ""Irvin Kershner"", ""genres"": ""Action|Adventure|Fantasy"", ""source_flags"": ""csv|tmdb""}"
+doc_northbynorthwest_1959,northbynorthwest_1959,North by Northwest,"Title: North by Northwest
+Genres: Action|Adventure|Mystery
+Overview: A New York City advertising executive goes on the run after being mistaken for a government agent by a group of foreign spies, and falls for a woman whose loyalties he begins to doubt.
+Tagline: A | New | York | City | advertising | executive | goes | on | the | run
+Review snippet: A New York City advertising executive goes on the run after being mistaken for a government agent by a group of foreign spies, and falls for a woman whose loyalties he begins to doubt.","{""movie_pk"": ""northbynorthwest_1959"", ""title"": ""North by Northwest"", ""release_year"": 1959, ""director"": ""Alfred Hitchcock"", ""genres"": ""Action|Adventure|Mystery"", ""source_flags"": ""csv|tmdb""}"
+doc_lefabuleuxdestindaposamliepoulain_2002,lefabuleuxdestindaposamliepoulain_2002,Le fabuleux destin d&apos;Amélie Poulain,"Title: Le fabuleux destin d&apos;Amélie Poulain
+Genres: Comedy|Romance
+Overview: Amélie is an innocent and naive girl in Paris with her own sense of justice. She decides to help those around her and, along the way, discovers love.
+Tagline: Amélie | is | an | innocent | and | naive | girl | in | Paris | with
+Review snippet: Amélie is an innocent and naive girl in Paris with her own sense of justice. She decides to help those around her and, along the way, discovers love.","{""movie_pk"": ""lefabuleuxdestindaposamliepoulain_2002"", ""title"": ""Le fabuleux destin d&apos;Amélie Poulain"", ""release_year"": 2002, ""director"": ""Jean-Pierre Jeunet"", ""genres"": ""Comedy|Romance"", ""source_flags"": ""csv|tmdb""}"
+doc_theshawshankredemption_1994,theshawshankredemption_1994,The Shawshank Redemption,"Title: The Shawshank Redemption
+Genres: Drama
+Overview: Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+Tagline: Two | imprisoned | men | bond | over | a | number | of | years, | finding
+Review snippet: Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.","{""movie_pk"": ""theshawshankredemption_1994"", ""title"": ""The Shawshank Redemption"", ""release_year"": 1994, ""director"": ""Frank Darabont"", ""genres"": ""Drama"", ""source_flags"": ""csv|tmdb""}"
+doc_bladerunner2049_2017,bladerunner2049_2017,Blade Runner 2049,"Title: Blade Runner 2049
+Genres: Drama|Sci-Fi|Thriller
+Overview: A young blade runner discovers a secret that leads him to former blade runner Rick Deckard.
+Tagline: 
+Review snippet:","{""movie_pk"": ""bladerunner2049_2017"", ""title"": ""Blade Runner 2049"", ""release_year"": 2017, ""director"": ""Denis Villeneuve"", ""genres"": ""Drama|Sci-Fi|Thriller"", ""source_flags"": ""csv|tmdb""}"
+doc_onthewaterfront_1954,onthewaterfront_1954,On the Waterfront,"Title: On the Waterfront
+Genres: Crime|Drama|Thriller
+Overview: An ex-prize fighter turned New Jersey longshoreman struggles to stand up to his corrupt union bosses, including his older brother, as he starts to connect with the grieving sister of one of the syndicate&apos;s victims.
+Tagline: An | ex-prize | fighter | turned | New | Jersey | longshoreman | struggles | to | stand
+Review snippet: An ex-prize fighter turned New Jersey longshoreman struggles to stand up to his corrupt union bosses, including his older brother, as he starts to connect with the grieving sister of one of the syndicate&apos;s victims.","{""movie_pk"": ""onthewaterfront_1954"", ""title"": ""On the Waterfront"", ""release_year"": 1954, ""director"": ""Elia Kazan"", ""genres"": ""Crime|Drama|Thriller"", ""source_flags"": ""csv|tmdb""}"
+doc_getout_2017,getout_2017,Get Out,"Title: Get Out
+Genres: Horror|Mystery|Thriller
+Overview: A man uncovers disturbing secrets while visiting his girlfriend's family.
+Tagline: 
+Review snippet:","{""movie_pk"": ""getout_2017"", ""title"": ""Get Out"", ""release_year"": 2017, ""director"": ""Jordan Peele"", ""genres"": ""Horror|Mystery|Thriller"", ""source_flags"": ""csv|tmdb""}"
+doc_laconfidential_1997,laconfidential_1997,L.A. Confidential,"Title: L.A. Confidential
+Genres: Crime|Drama|Mystery
+Overview: As corruption grows in 1950s Los Angeles, three policemen - one strait-laced, one brutal, and one sleazy - investigate a series of murders with their own brand of justice.
+Tagline: As | corruption | grows | in | 1950s | Los | Angeles, | three | policemen | -
+Review snippet: As corruption grows in 1950s Los Angeles, three policemen - one strait-laced, one brutal, and one sleazy - investigate a series of murders with their own brand of justice.","{""movie_pk"": ""laconfidential_1997"", ""title"": ""L.A. Confidential"", ""release_year"": 1997, ""director"": ""Curtis Hanson"", ""genres"": ""Crime|Drama|Mystery"", ""source_flags"": ""csv|tmdb""}"
+doc_exmachina_2015,exmachina_2015,Ex Machina,"Title: Ex Machina
+Genres: Drama|Sci-Fi|Thriller
+Overview: A programmer evaluates a humanoid AI with unclear intentions.
+Tagline: 
+Review snippet:","{""movie_pk"": ""exmachina_2015"", ""title"": ""Ex Machina"", ""release_year"": 2015, ""director"": ""Alex Garland"", ""genres"": ""Drama|Sci-Fi|Thriller"", ""source_flags"": ""csv|tmdb""}"
+doc_thehelp_2011,thehelp_2011,The Help,"Title: The Help
+Genres: Drama
+Overview: An aspiring author during the civil rights movement of the 1960s decides to write a book detailing the African American maids&apos; point of view on the white families for which they work, and the hardships they go through on a daily b...
+Tagline: An | aspiring | author | during | the | civil | rights | movement | of | the
+Review snippet: An aspiring author during the civil rights movement of the 1960s decides to write a book detailing the African American maids&apos; point of view on the white families for which they work, and the hardships they go through on a daily b...","{""movie_pk"": ""thehelp_2011"", ""title"": ""The Help"", ""release_year"": 2011, ""director"": ""Tate Taylor"", ""genres"": ""Drama"", ""source_flags"": ""csv|tmdb""}"
+doc_spidermannowayhome_2021,spidermannowayhome_2021,Spider-Man: No Way Home,"Title: Spider-Man: No Way Home
+Genres: Action|Adventure|Fantasy
+Overview: With Spider-Man&apos;s identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it truly means to be Spider-Man.
+Tagline: With | Spider-Man&apos;s | identity | now | revealed, | Peter | asks | Doctor | Strange | for
+Review snippet: With Spider-Man&apos;s identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it truly means to be Spider-Man.","{""movie_pk"": ""spidermannowayhome_2021"", ""title"": ""Spider-Man: No Way Home"", ""release_year"": 2021, ""director"": ""Jon Watts"", ""genres"": ""Action|Adventure|Fantasy"", ""source_flags"": ""csv|tmdb""}"
+doc_nocountryforoldmen_2007,nocountryforoldmen_2007,No Country for Old Men,"Title: No Country for Old Men
+Genres: Crime|Drama|Thriller
+Overview: Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two million dollars in cash near the Rio Grande.
+Tagline: Violence | and | mayhem | ensue | after | a | hunter | stumbles | upon | a
+Review snippet: Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two million dollars in cash near the Rio Grande.","{""movie_pk"": ""nocountryforoldmen_2007"", ""title"": ""No Country for Old Men"", ""release_year"": 2007, ""director"": ""Ethan Coen"", ""genres"": ""Crime|Drama|Thriller"", ""source_flags"": ""csv|tmdb""}"
+doc_moderntimes_1936,moderntimes_1936,Modern Times,"Title: Modern Times
+Genres: Comedy|Drama|Romance
+Overview: The Tramp struggles to live in modern industrial society with the help of a young homeless woman.
+Tagline: The | Tramp | struggles | to | live | in | modern | industrial | society | with
+Review snippet: The Tramp struggles to live in modern industrial society with the help of a young homeless woman.","{""movie_pk"": ""moderntimes_1936"", ""title"": ""Modern Times"", ""release_year"": 1936, ""director"": ""Charles Chaplin"", ""genres"": ""Comedy|Drama|Romance"", ""source_flags"": ""csv|tmdb""}"
+doc_salinuichueok_2003,salinuichueok_2003,Salinui chueok,"Title: Salinui chueok
+Genres: Crime|Drama|Mystery
+Overview: In a small Korean province in 1986, two detectives struggle with the case of multiple young women being found raped and murdered by an unknown culprit.
+Tagline: In | a | small | Korean | province | in | 1986, | two | detectives | struggle
+Review snippet: In a small Korean province in 1986, two detectives struggle with the case of multiple young women being found raped and murdered by an unknown culprit.","{""movie_pk"": ""salinuichueok_2003"", ""title"": ""Salinui chueok"", ""release_year"": 2003, ""director"": ""Bong Joon Ho"", ""genres"": ""Crime|Drama|Mystery"", ""source_flags"": ""csv|tmdb""}"
+doc_pathsofglory_1957,pathsofglory_1957,Paths of Glory,"Title: Paths of Glory
+Genres: Drama|War
+Overview: After refusing to attack an enemy position, a general accuses the soldiers of cowardice and their commanding officer must defend them.
+Tagline: After | refusing | to | attack | an | enemy | position, | a | general | accuses
+Review snippet: After refusing to attack an enemy position, a general accuses the soldiers of cowardice and their commanding officer must defend them.","{""movie_pk"": ""pathsofglory_1957"", ""title"": ""Paths of Glory"", ""release_year"": 1957, ""director"": ""Stanley Kubrick"", ""genres"": ""Drama|War"", ""source_flags"": ""csv|tmdb""}"
+doc_requiemforadream_2000,requiemforadream_2000,Requiem for a Dream,"Title: Requiem for a Dream
+Genres: Drama
+Overview: The drug-induced utopias of four Coney Island people are shattered when their addictions run deep.
+Tagline: The | drug-induced | utopias | of | four | Coney | Island | people | are | shattered
+Review snippet: The drug-induced utopias of four Coney Island people are shattered when their addictions run deep.","{""movie_pk"": ""requiemforadream_2000"", ""title"": ""Requiem for a Dream"", ""release_year"": 2000, ""director"": ""Darren Aronofsky"", ""genres"": ""Drama"", ""source_flags"": ""csv|tmdb""}"
+doc_thegrapesofwrath_1940,thegrapesofwrath_1940,The Grapes of Wrath,"Title: The Grapes of Wrath
+Genres: Drama
+Overview: An Oklahoma family, driven off their farm by the poverty and hopelessness of the Dust Bowl, joins the westward migration to California, suffering the misfortunes of the homeless in the Great Depression.
+Tagline: An | Oklahoma | family, | driven | off | their | farm | by | the | poverty
+Review snippet: An Oklahoma family, driven off their farm by the poverty and hopelessness of the Dust Bowl, joins the westward migration to California, suffering the misfortunes of the homeless in the Great Depression.","{""movie_pk"": ""thegrapesofwrath_1940"", ""title"": ""The Grapes of Wrath"", ""release_year"": 1940, ""director"": ""John Ford"", ""genres"": ""Drama"", ""source_flags"": ""csv|tmdb""}"
+doc_catchmeifyoucan_2002,catchmeifyoucan_2002,Catch Me If You Can,"Title: Catch Me If You Can
+Genres: Biography|Crime|Drama
+Overview: Barely 21 yet, Frank is a skilled forger who has passed as a doctor, lawyer and pilot. FBI agent Carl becomes obsessed with tracking down the con man, who only revels in the pursuit.
+Tagline: Barely | 21 | yet, | Frank | is | a | skilled | forger | who | has
+Review snippet: Barely 21 yet, Frank is a skilled forger who has passed as a doctor, lawyer and pilot. FBI agent Carl becomes obsessed with tracking down the con man, who only revels in the pursuit.","{""movie_pk"": ""catchmeifyoucan_2002"", ""title"": ""Catch Me If You Can"", ""release_year"": 2002, ""director"": ""Steven Spielberg"", ""genres"": ""Biography|Crime|Drama"", ""source_flags"": ""csv|tmdb""}"
+doc_tenet_2020,tenet_2020,Tenet,"Title: Tenet
+Genres: Action|Sci-Fi|Thriller
+Overview: A secret agent manipulates time inversion to prevent global catastrophe.
+Tagline: 
+Review snippet:","{""movie_pk"": ""tenet_2020"", ""title"": ""Tenet"", ""release_year"": 2020, ""director"": ""Christopher Nolan"", ""genres"": ""Action|Sci-Fi|Thriller"", ""source_flags"": ""csv|tmdb""}"
+doc_thematrix_1999,thematrix_1999,The Matrix,"Title: The Matrix
+Genres: Action|Sci-Fi
+Overview: When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.
+Tagline: When | a | beautiful | stranger | leads | computer | hacker | Neo | to | a
+Review snippet: When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.","{""movie_pk"": ""thematrix_1999"", ""title"": ""The Matrix"", ""release_year"": 1999, ""director"": ""Lana Wachowski"", ""genres"": ""Action|Sci-Fi"", ""source_flags"": ""csv|tmdb""}"
+doc_starwars_1977,starwars_1977,Star Wars,"Title: Star Wars
+Genres: Action|Adventure|Fantasy
+Overview: Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire&apos;s world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth ...
+Tagline: Luke | Skywalker | joins | forces | with | a | Jedi | Knight, | a | cocky
+Review snippet: Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire&apos;s world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth ...","{""movie_pk"": ""starwars_1977"", ""title"": ""Star Wars"", ""release_year"": 1977, ""director"": ""George Lucas"", ""genres"": ""Action|Adventure|Fantasy"", ""source_flags"": ""csv|tmdb""}"
+doc_thepianist_2003,thepianist_2003,The Pianist,"Title: The Pianist
+Genres: Biography|Drama|Music
+Overview: A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.
+Tagline: A | Polish | Jewish | musician | struggles | to | survive | the | destruction | of
+Review snippet: A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.","{""movie_pk"": ""thepianist_2003"", ""title"": ""The Pianist"", ""release_year"": 2003, ""director"": ""Roman Polanski"", ""genres"": ""Biography|Drama|Music"", ""source_flags"": ""csv|tmdb""}"
+doc_thesixthsense_1999,thesixthsense_1999,The Sixth Sense,"Title: The Sixth Sense
+Genres: Drama|Mystery|Thriller
+Overview: A frightened, withdrawn Philadelphia boy who communicates with spirits seeks the help of a disheartened child psychologist.
+Tagline: A | frightened, | withdrawn | Philadelphia | boy | who | communicates | with | spirits | seeks
+Review snippet: A frightened, withdrawn Philadelphia boy who communicates with spirits seeks the help of a disheartened child psychologist.","{""movie_pk"": ""thesixthsense_1999"", ""title"": ""The Sixth Sense"", ""release_year"": 1999, ""director"": ""M. Night Shyamalan"", ""genres"": ""Drama|Mystery|Thriller"", ""source_flags"": ""csv|tmdb""}"
+doc_thesilenceofthelambs_1991,thesilenceofthelambs_1991,The Silence of the Lambs,"Title: The Silence of the Lambs
+Genres: Crime|Drama|Thriller
+Overview: A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.
+Tagline: A | young | F.B.I. | cadet | must | receive | the | help | of | an
+Review snippet: A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.","{""movie_pk"": ""thesilenceofthelambs_1991"", ""title"": ""The Silence of the Lambs"", ""release_year"": 1991, ""director"": ""Jonathan Demme"", ""genres"": ""Crime|Drama|Thriller"", ""source_flags"": ""csv|tmdb""}"
+doc_mononokehime_1997,mononokehime_1997,Mononoke-hime,"Title: Mononoke-hime
+Genres: Action|Adventure|Animation
+Overview: On a journey to find the cure for a Tatarigami&apos;s curse, Ashitaka finds himself in the middle of a war between the forest gods and Tatara, a mining colony. In this quest he also meets San, the Mononoke Hime.
+Tagline: On | a | journey | to | find | the | cure | for | a | Tatarigami&apos;s
+Review snippet: On a journey to find the cure for a Tatarigami&apos;s curse, Ashitaka finds himself in the middle of a war between the forest gods and Tatara, a mining colony. In this quest he also meets San, the Mononoke Hime.","{""movie_pk"": ""mononokehime_1997"", ""title"": ""Mononoke-hime"", ""release_year"": 1997, ""director"": ""Hayao Miyazaki"", ""genres"": ""Action|Adventure|Animation"", ""source_flags"": ""csv|tmdb""}"
+doc_thegreenmile_1999,thegreenmile_1999,The Green Mile,"Title: The Green Mile
+Genres: Crime|Drama|Fantasy
+Overview: The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.
+Tagline: The | lives | of | guards | on | Death | Row | are | affected | by
+Review snippet: The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.","{""movie_pk"": ""thegreenmile_1999"", ""title"": ""The Green Mile"", ""release_year"": 1999, ""director"": ""Frank Darabont"", ""genres"": ""Crime|Drama|Fantasy"", ""source_flags"": ""csv|tmdb""}"
+doc_snatch_2001,snatch_2001,Snatch,"Title: Snatch
+Genres: Comedy|Crime
+Overview: Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompetent amateur robbers and supposedly Jewish jewelers fight to track down a priceless stolen diamond.
+Tagline: Unscrupulous | boxing | promoters, | violent | bookmakers, | a | Russian | gangster, | incompetent | amateur
+Review snippet: Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompetent amateur robbers and supposedly Jewish jewelers fight to track down a priceless stolen diamond.","{""movie_pk"": ""snatch_2001"", ""title"": ""Snatch"", ""release_year"": 2001, ""director"": ""Guy Ritchie"", ""genres"": ""Comedy|Crime"", ""source_flags"": ""csv|tmdb""}"
+doc_yjinb_1961,yjinb_1961,Yôjinbô,"Title: Yôjinbô
+Genres: Action|Drama|Thriller
+Overview: A crafty ronin comes to a town divided by two criminal gangs and decides to play them against each other to free the town.
+Tagline: A | crafty | ronin | comes | to | a | town | divided | by | two
+Review snippet: A crafty ronin comes to a town divided by two criminal gangs and decides to play them against each other to free the town.","{""movie_pk"": ""yjinb_1961"", ""title"": ""Yôjinbô"", ""release_year"": 1961, ""director"": ""Akira Kurosawa"", ""genres"": ""Action|Drama|Thriller"", ""source_flags"": ""csv|tmdb""}"
+doc_alien_1979,alien_1979,Alien,"Title: Alien
+Genres: Horror|Sci-Fi
+Overview: The crew of a commercial spacecraft encounter a deadly lifeform after investigating an unknown transmission.
+Tagline: The | crew | of | a | commercial | spacecraft | encounter | a | deadly | lifeform
+Review snippet: The crew of a commercial spacecraft encounter a deadly lifeform after investigating an unknown transmission.","{""movie_pk"": ""alien_1979"", ""title"": ""Alien"", ""release_year"": 1979, ""director"": ""Ridley Scott"", ""genres"": ""Horror|Sci-Fi"", ""source_flags"": ""csv|tmdb""}"
+doc_dialmformurder_1954,dialmformurder_1954,Dial M for Murder,"Title: Dial M for Murder
+Genres: Crime|Thriller
+Overview: A former tennis star arranges the murder of his adulterous wife.
+Tagline: A | former | tennis | star | arranges | the | murder | of | his | adulterous
+Review snippet: A former tennis star arranges the murder of his adulterous wife.","{""movie_pk"": ""dialmformurder_1954"", ""title"": ""Dial M for Murder"", ""release_year"": 1954, ""director"": ""Alfred Hitchcock"", ""genres"": ""Crime|Thriller"", ""source_flags"": ""csv|tmdb""}"
+doc_rebecca_1940,rebecca_1940,Rebecca,"Title: Rebecca
+Genres: Drama|Film-Noir|Mystery
+Overview: A self-conscious woman juggles adjusting to her new role as an aristocrat&apos;s wife and avoiding being intimidated by his first wife&apos;s spectral presence.
+Tagline: A | self-conscious | woman | juggles | adjusting | to | her | new | role | as
+Review snippet: A self-conscious woman juggles adjusting to her new role as an aristocrat&apos;s wife and avoiding being intimidated by his first wife&apos;s spectral presence.","{""movie_pk"": ""rebecca_1940"", ""title"": ""Rebecca"", ""release_year"": 1940, ""director"": ""Alfred Hitchcock"", ""genres"": ""Drama|Film-Noir|Mystery"", ""source_flags"": ""csv|tmdb""}"
+doc_ragingbull_1980,ragingbull_1980,Raging Bull,"Title: Raging Bull
+Genres: Biography|Drama|Sport
+Overview: The life of boxer Jake LaMotta, whose violence and temper that led him to the top in the ring destroyed his life outside of it.
+Tagline: The | life | of | boxer | Jake | LaMotta, | whose | violence | and | temper
+Review snippet: The life of boxer Jake LaMotta, whose violence and temper that led him to the top in the ring destroyed his life outside of it.","{""movie_pk"": ""ragingbull_1980"", ""title"": ""Raging Bull"", ""release_year"": 1980, ""director"": ""Martin Scorsese"", ""genres"": ""Biography|Drama|Sport"", ""source_flags"": ""csv|tmdb""}"
+doc_meinestadtsuchteinenmrder_1931,meinestadtsuchteinenmrder_1931,M - Eine Stadt sucht einen Mörder,"Title: M - Eine Stadt sucht einen Mörder
+Genres: Crime|Mystery|Thriller
+Overview: When the police in a German city are unable to catch a child-murderer, other criminals join in the manhunt.
+Tagline: When | the | police | in | a | German | city | are | unable | to
+Review snippet: When the police in a German city are unable to catch a child-murderer, other criminals join in the manhunt.","{""movie_pk"": ""meinestadtsuchteinenmrder_1931"", ""title"": ""M - Eine Stadt sucht einen Mörder"", ""release_year"": 1931, ""director"": ""Fritz Lang"", ""genres"": ""Crime|Mystery|Thriller"", ""source_flags"": ""csv|tmdb""}"
+doc_2001aspaceodyssey_1970,2001aspaceodyssey_1970,2001: A Space Odyssey,"Title: 2001: A Space Odyssey
+Genres: Adventure|Sci-Fi
+Overview: After uncovering a mysterious artifact buried beneath the Lunar surface, a spacecraft is sent to Jupiter to find its origins - a spacecraft manned by two men and the supercomputer H.A.L. 9000.
+Tagline: After | uncovering | a | mysterious | artifact | buried | beneath | the | Lunar | surface,
+Review snippet: After uncovering a mysterious artifact buried beneath the Lunar surface, a spacecraft is sent to Jupiter to find its origins - a spacecraft manned by two men and the supercomputer H.A.L. 9000.","{""movie_pk"": ""2001aspaceodyssey_1970"", ""title"": ""2001: A Space Odyssey"", ""release_year"": 1970, ""director"": ""Stanley Kubrick"", ""genres"": ""Adventure|Sci-Fi"", ""source_flags"": ""csv|tmdb""}"
+doc_standbyme_1986,standbyme_1986,Stand by Me,"Title: Stand by Me
+Genres: Adventure|Drama
+Overview: After the death of one of his friends, a writer recounts a childhood journey with his friends to find the body of a missing boy.
+Tagline: After | the | death | of | one | of | his | friends, | a | writer
+Review snippet: After the death of one of his friends, a writer recounts a childhood journey with his friends to find the body of a missing boy.","{""movie_pk"": ""standbyme_1986"", ""title"": ""Stand by Me"", ""release_year"": 1986, ""director"": ""Rob Reiner"", ""genres"": ""Adventure|Drama"", ""source_flags"": ""csv|tmdb""}"
+doc_1917_2020,1917_2020,1917,"Title: 1917
+Genres: Action|Drama|War
+Overview: April 6th, 1917. As an infantry battalion assembles to wage war deep in enemy territory, two soldiers are assigned to race against time and deliver a message that will stop 1,600 men from walking straight into a deadly trap.
+Tagline: April | 6th, | 1917. | As | an | infantry | battalion | assembles | to | wage
+Review snippet: April 6th, 1917. As an infantry battalion assembles to wage war deep in enemy territory, two soldiers are assigned to race against time and deliver a message that will stop 1,600 men from walking straight into a deadly trap.","{""movie_pk"": ""1917_2020"", ""title"": ""1917"", ""release_year"": 2020, ""director"": ""Sam Mendes"", ""genres"": ""Action|Drama|War"", ""source_flags"": ""csv|tmdb""}"
+doc_sicario_2015,sicario_2015,Sicario,"Title: Sicario
+Genres: Crime|Drama|Thriller
+Overview: An FBI agent joins a task force against a drug cartel on the U.S.-Mexico border.
+Tagline: 
+Review snippet:","{""movie_pk"": ""sicario_2015"", ""title"": ""Sicario"", ""release_year"": 2015, ""director"": ""Denis Villeneuve"", ""genres"": ""Crime|Drama|Thriller"", ""source_flags"": ""csv|tmdb""}"
+doc_coolhandluke_1967,coolhandluke_1967,Cool Hand Luke,"Title: Cool Hand Luke
+Genres: Crime|Drama
+Overview: A laid back Southern man is sentenced to two years in a rural prison, but refuses to conform.
+Tagline: A | laid | back | Southern | man | is | sentenced | to | two | years
+Review snippet: A laid back Southern man is sentenced to two years in a rural prison, but refuses to conform.","{""movie_pk"": ""coolhandluke_1967"", ""title"": ""Cool Hand Luke"", ""release_year"": 1967, ""director"": ""Stuart Rosenberg"", ""genres"": ""Crime|Drama"", ""source_flags"": ""csv|tmdb""}"
+doc_duneparttwo_2024,duneparttwo_2024,Dune: Part Two,"Title: Dune: Part Two
+Genres: Adventure|Drama|Sci-Fi
+Overview: Paul unites with the Fremen while facing prophecy, war, and political power.
+Tagline: 
+Review snippet:","{""movie_pk"": ""duneparttwo_2024"", ""title"": ""Dune: Part Two"", ""release_year"": 2024, ""director"": ""Denis Villeneuve"", ""genres"": ""Adventure|Drama|Sci-Fi"", ""source_flags"": ""csv|tmdb""}"
+doc_jurassicpark_1993,jurassicpark_1993,Jurassic Park,"Title: Jurassic Park
+Genres: Action|Adventure|Sci-Fi
+Overview: A pragmatic paleontologist touring an almost complete theme park on an island in Central America is tasked with protecting a couple of kids after a power failure causes the park&apos;s cloned dinosaurs to run loose.
+Tagline: A | pragmatic | paleontologist | touring | an | almost | complete | theme | park | on
+Review snippet: A pragmatic paleontologist touring an almost complete theme park on an island in Central America is tasked with protecting a couple of kids after a power failure causes the park&apos;s cloned dinosaurs to run loose.","{""movie_pk"": ""jurassicpark_1993"", ""title"": ""Jurassic Park"", ""release_year"": 1993, ""director"": ""Steven Spielberg"", ""genres"": ""Action|Adventure|Sci-Fi"", ""source_flags"": ""csv|tmdb""}"
+doc_amadeus_1984,amadeus_1984,Amadeus,"Title: Amadeus
+Genres: Biography|Drama|Music
+Overview: The life, success and troubles of Wolfgang Amadeus Mozart, as told by Antonio Salieri, the contemporaneous composer who was deeply jealous of Mozart&apos;s talent and claimed to have murdered him.
+Tagline: The | life, | success | and | troubles | of | Wolfgang | Amadeus | Mozart, | as
+Review snippet: The life, success and troubles of Wolfgang Amadeus Mozart, as told by Antonio Salieri, the contemporaneous composer who was deeply jealous of Mozart&apos;s talent and claimed to have murdered him.","{""movie_pk"": ""amadeus_1984"", ""title"": ""Amadeus"", ""release_year"": 1984, ""director"": ""Milos Forman"", ""genres"": ""Biography|Drama|Music"", ""source_flags"": ""csv|tmdb""}"
+doc_thesoundofmusic_1965,thesoundofmusic_1965,The Sound of Music,"Title: The Sound of Music
+Genres: Biography|Drama|Family
+Overview: A young novitiate is sent by her convent in 1930s Austria to become a governess to the seven children of a widowed naval officer.
+Tagline: A | young | novitiate | is | sent | by | her | convent | in | 1930s
+Review snippet: A young novitiate is sent by her convent in 1930s Austria to become a governess to the seven children of a widowed naval officer.","{""movie_pk"": ""thesoundofmusic_1965"", ""title"": ""The Sound of Music"", ""release_year"": 1965, ""director"": ""Robert Wise"", ""genres"": ""Biography|Drama|Family"", ""source_flags"": ""csv|tmdb""}"
+doc_incendies_2011,incendies_2011,Incendies,"Title: Incendies
+Genres: Drama|Mystery
+Overview: Twins journey to the Middle East to discover their family history and fulfill their mother&apos;s last wishes.
+Tagline: Twins | journey | to | the | Middle | East | to | discover | their | family
+Review snippet: Twins journey to the Middle East to discover their family history and fulfill their mother&apos;s last wishes.","{""movie_pk"": ""incendies_2011"", ""title"": ""Incendies"", ""release_year"": 2011, ""director"": ""Denis Villeneuve"", ""genres"": ""Drama|Mystery"", ""source_flags"": ""csv|tmdb""}"
+doc_scarface_1983,scarface_1983,Scarface,"Title: Scarface
+Genres: Crime|Drama
+Overview: In 1980 Miami, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.
+Tagline: In | 1980 | Miami, | a | determined | Cuban | immigrant | takes | over | a
+Review snippet: In 1980 Miami, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.","{""movie_pk"": ""scarface_1983"", ""title"": ""Scarface"", ""release_year"": 1983, ""director"": ""Brian De Palma"", ""genres"": ""Crime|Drama"", ""source_flags"": ""csv|tmdb""}"
+doc_caposeraunavoltailwest_1969,caposeraunavoltailwest_1969,C&apos;era una volta il West,"Title: C&apos;era una volta il West
+Genres: Western
+Overview: A mysterious stranger with a harmonica joins forces with a notorious desperado to protect a beautiful widow from a ruthless assassin working for the railroad.
+Tagline: A | mysterious | stranger | with | a | harmonica | joins | forces | with | a
+Review snippet: A mysterious stranger with a harmonica joins forces with a notorious desperado to protect a beautiful widow from a ruthless assassin working for the railroad.","{""movie_pk"": ""caposeraunavoltailwest_1969"", ""title"": ""C&apos;era una volta il West"", ""release_year"": 1969, ""director"": ""Sergio Leone"", ""genres"": ""Western"", ""source_flags"": ""csv|tmdb""}"
+doc_perqualchedollaroinpi_1967,perqualchedollaroinpi_1967,Per qualche dollaro in più,"Title: Per qualche dollaro in più
+Genres: Western
+Overview: Two bounty hunters with the same intentions team up to track down an escaped Mexican outlaw.
+Tagline: Two | bounty | hunters | with | the | same | intentions | team | up | to
+Review snippet: Two bounty hunters with the same intentions team up to track down an escaped Mexican outlaw.","{""movie_pk"": ""perqualchedollaroinpi_1967"", ""title"": ""Per qualche dollaro in più"", ""release_year"": 1967, ""director"": ""Sergio Leone"", ""genres"": ""Western"", ""source_flags"": ""csv|tmdb""}"
+doc_backtothefuture_1985,backtothefuture_1985,Back to the Future,"Title: Back to the Future
+Genres: Adventure|Comedy|Sci-Fi
+Overview: Marty McFly, a 17-year-old high school student, is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.
+Tagline: Marty | McFly, | a | 17-year-old | high | school | student, | is | accidentally | sent
+Review snippet: Marty McFly, a 17-year-old high school student, is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.","{""movie_pk"": ""backtothefuture_1985"", ""title"": ""Back to the Future"", ""release_year"": 1985, ""director"": ""Robert Zemeckis"", ""genres"": ""Adventure|Comedy|Sci-Fi"", ""source_flags"": ""csv""}"
+doc_milliondollarbaby_2005,milliondollarbaby_2005,Million Dollar Baby,"Title: Million Dollar Baby
+Genres: Drama|Sport
+Overview: A determined woman works with a hardened boxing trainer to become a professional.
+Tagline: A | determined | woman | works | with | a | hardened | boxing | trainer | to
+Review snippet: A determined woman works with a hardened boxing trainer to become a professional.","{""movie_pk"": ""milliondollarbaby_2005"", ""title"": ""Million Dollar Baby"", ""release_year"": 2005, ""director"": ""Clint Eastwood"", ""genres"": ""Drama|Sport"", ""source_flags"": ""csv""}"
+doc_whiplash_2014,whiplash_2014,Whiplash,"Title: Whiplash
+Genres: Drama|Music
+Overview: A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student&apos;s potential.
+Tagline: A | promising | young | drummer | enrolls | at | a | cut-throat | music | conservatory
+Review snippet: A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student&apos;s potential.","{""movie_pk"": ""whiplash_2014"", ""title"": ""Whiplash"", ""release_year"": 2014, ""director"": ""Damien Chazelle"", ""genres"": ""Drama|Music"", ""source_flags"": ""csv""}"
+doc_tonarinototoro_1990,tonarinototoro_1990,Tonari no Totoro,"Title: Tonari no Totoro
+Genres: Animation|Comedy|Family
+Overview: When two girls move to the country to be near their ailing mother, they have adventures with the wondrous forest spirits who live nearby.
+Tagline: When | two | girls | move | to | the | country | to | be | near
+Review snippet: When two girls move to the country to be near their ailing mother, they have adventures with the wondrous forest spirits who live nearby.","{""movie_pk"": ""tonarinototoro_1990"", ""title"": ""Tonari no Totoro"", ""release_year"": 1990, ""director"": ""Hayao Miyazaki"", ""genres"": ""Animation|Comedy|Family"", ""source_flags"": ""csv""}"
+doc_patherpanchali_1955,patherpanchali_1955,Pather Panchali,"Title: Pather Panchali
+Genres: Drama
+Overview: Impoverished priest Harihar Ray, dreaming of a better life for himself and his family, leaves his rural Bengal village in search of work.
+Tagline: Impoverished | priest | Harihar | Ray, | dreaming | of | a | better | life | for
+Review snippet: Impoverished priest Harihar Ray, dreaming of a better life for himself and his family, leaves his rural Bengal village in search of work.","{""movie_pk"": ""patherpanchali_1955"", ""title"": ""Pather Panchali"", ""release_year"": 1955, ""director"": ""Satyajit Ray"", ""genres"": ""Drama"", ""source_flags"": ""csv""}"
+doc_annihilation_2018,annihilation_2018,Annihilation,"Title: Annihilation
+Genres: Horror|Mystery|Sci-Fi
+Overview: A biologist enters a mysterious zone where nature is mutating.
+Tagline: 
+Review snippet:","{""movie_pk"": ""annihilation_2018"", ""title"": ""Annihilation"", ""release_year"": 2018, ""director"": ""Alex Garland"", ""genres"": ""Horror|Mystery|Sci-Fi"", ""source_flags"": ""csv|tmdb""}"
+doc_12yearsaslave_2013,12yearsaslave_2013,12 Years a Slave,"Title: 12 Years a Slave
+Genres: Biography|Drama|History
+Overview: In the antebellum United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery.
+Tagline: In | the | antebellum | United | States, | Solomon | Northup, | a | free | black
+Review snippet: In the antebellum United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery.","{""movie_pk"": ""12yearsaslave_2013"", ""title"": ""12 Years a Slave"", ""release_year"": 2013, ""director"": ""Steve McQueen"", ""genres"": ""Biography|Drama|History"", ""source_flags"": ""csv""}"
+doc_memento_2001,memento_2001,Memento,"Title: Memento
+Genres: Mystery|Thriller
+Overview: A man with short-term memory loss attempts to track down his wife&apos;s murderer.
+Tagline: A | man | with | short-term | memory | loss | attempts | to | track | down
+Review snippet: A man with short-term memory loss attempts to track down his wife&apos;s murderer.","{""movie_pk"": ""memento_2001"", ""title"": ""Memento"", ""release_year"": 2001, ""director"": ""Christopher Nolan"", ""genres"": ""Mystery|Thriller"", ""source_flags"": ""csv""}"
+doc_braveheart_1995,braveheart_1995,Braveheart,"Title: Braveheart
+Genres: Biography|Drama|History
+Overview: Scottish warrior William Wallace leads his countrymen in a rebellion to free his homeland from the tyranny of King Edward I of England.
+Tagline: Scottish | warrior | William | Wallace | leads | his | countrymen | in | a | rebellion
+Review snippet: Scottish warrior William Wallace leads his countrymen in a rebellion to free his homeland from the tyranny of King Edward I of England.","{""movie_pk"": ""braveheart_1995"", ""title"": ""Braveheart"", ""release_year"": 1995, ""director"": ""Mel Gibson"", ""genres"": ""Biography|Drama|History"", ""source_flags"": ""csv""}"
+doc_idiismotri_1985,idiismotri_1985,Idi i smotri,"Title: Idi i smotri
+Genres: Drama|Thriller|War
+Overview: After finding an old rifle, a young boy joins the Soviet resistance movement against ruthless German forces and experiences the horrors of World War II.
+Tagline: After | finding | an | old | rifle, | a | young | boy | joins | the
+Review snippet: After finding an old rifle, a young boy joins the Soviet resistance movement against ruthless German forces and experiences the horrors of World War II.","{""movie_pk"": ""idiismotri_1985"", ""title"": ""Idi i smotri"", ""release_year"": 1985, ""director"": ""Elem Klimov"", ""genres"": ""Drama|Thriller|War"", ""source_flags"": ""csv""}"
+doc_theterminator_1984,theterminator_1984,The Terminator,"Title: The Terminator
+Genres: Action|Sci-Fi
+Overview: A human soldier is sent from 2029 to 1984 to stop an almost indestructible cyborg killing machine, sent from the same year, which has been programmed to execute a young woman whose unborn son is the key to humanity&apos;s future salvat...
+Tagline: A | human | soldier | is | sent | from | 2029 | to | 1984 | to
+Review snippet: A human soldier is sent from 2029 to 1984 to stop an almost indestructible cyborg killing machine, sent from the same year, which has been programmed to execute a young woman whose unborn son is the key to humanity&apos;s future salvat...","{""movie_pk"": ""theterminator_1984"", ""title"": ""The Terminator"", ""release_year"": 1984, ""director"": ""James Cameron"", ""genres"": ""Action|Sci-Fi"", ""source_flags"": ""csv""}"
+doc_3idiots_2009,3idiots_2009,3 Idiots,"Title: 3 Idiots
+Genres: Comedy|Drama
+Overview: Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them &quot;idiots&quot;.
+Tagline: Two | friends | are | searching | for | their | long | lost | companion. | They
+Review snippet: Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them &quot;idiots&quot;.","{""movie_pk"": ""3idiots_2009"", ""title"": ""3 Idiots"", ""release_year"": 2009, ""director"": ""Rajkumar Hirani"", ""genres"": ""Comedy|Drama"", ""source_flags"": ""csv""}"
+doc_unforgiven_1992,unforgiven_1992,Unforgiven,"Title: Unforgiven
+Genres: Drama|Western
+Overview: Retired Old West gunslinger William Munny reluctantly takes on one last job, with the help of his old partner Ned Logan and a young man, The &quot;Schofield Kid.&quot;
+Tagline: Retired | Old | West | gunslinger | William | Munny | reluctantly | takes | on | one
+Review snippet: Retired Old West gunslinger William Munny reluctantly takes on one last job, with the help of his old partner Ned Logan and a young man, The &quot;Schofield Kid.&quot;","{""movie_pk"": ""unforgiven_1992"", ""title"": ""Unforgiven"", ""release_year"": 1992, ""director"": ""Clint Eastwood"", ""genres"": ""Drama|Western"", ""source_flags"": ""csv""}"
+doc_amoresperros_2001,amoresperros_2001,Amores perros,"Title: Amores perros
+Genres: Drama|Thriller
+Overview: A horrific car accident connects three stories, each involving characters dealing with loss, regret, and life&apos;s harsh realities, all in the name of love.
+Tagline: A | horrific | car | accident | connects | three | stories, | each | involving | characters
+Review snippet: A horrific car accident connects three stories, each involving characters dealing with loss, regret, and life&apos;s harsh realities, all in the name of love.","{""movie_pk"": ""amoresperros_2001"", ""title"": ""Amores perros"", ""release_year"": 2001, ""director"": ""Alejandro G. Iñárritu"", ""genres"": ""Drama|Thriller"", ""source_flags"": ""csv""}"
+doc_judgmentatnuremberg_1961,judgmentatnuremberg_1961,Judgment at Nuremberg,"Title: Judgment at Nuremberg
+Genres: Drama|War
+Overview: In 1948, an American court in occupied Germany tries four Nazis judged for war crimes.
+Tagline: In | 1948, | an | American | court | in | occupied | Germany | tries | four
+Review snippet: In 1948, an American court in occupied Germany tries four Nazis judged for war crimes.","{""movie_pk"": ""judgmentatnuremberg_1961"", ""title"": ""Judgment at Nuremberg"", ""release_year"": 1961, ""director"": ""Stanley Kramer"", ""genres"": ""Drama|War"", ""source_flags"": ""csv""}"
+doc_thebridgeontheriverkwai_1957,thebridgeontheriverkwai_1957,The Bridge on the River Kwai,"Title: The Bridge on the River Kwai
+Genres: Adventure|Drama|War
+Overview: British POWs are forced to build a railway bridge across the river Kwai for their Japanese captors in occupied Burma, not knowing that the allied forces are planning a daring commando raid through the jungle to destroy it.
+Tagline: British | POWs | are | forced | to | build | a | railway | bridge | across
+Review snippet: British POWs are forced to build a railway bridge across the river Kwai for their Japanese captors in occupied Burma, not knowing that the allied forces are planning a daring commando raid through the jungle to destroy it.","{""movie_pk"": ""thebridgeontheriverkwai_1957"", ""title"": ""The Bridge on the River Kwai"", ""release_year"": 1957, ""director"": ""David Lean"", ""genres"": ""Adventure|Drama|War"", ""source_flags"": ""csv""}"
+doc_gonewiththewind_1940,gonewiththewind_1940,Gone with the Wind,"Title: Gone with the Wind
+Genres: Drama|Romance|War
+Overview: The manipulative daughter of a Georgia plantation owner conducts a turbulent romance with a roguish profiteer during the American Civil War and Reconstruction periods.
+Tagline: The | manipulative | daughter | of | a | Georgia | plantation | owner | conducts | a
+Review snippet: The manipulative daughter of a Georgia plantation owner conducts a turbulent romance with a roguish profiteer during the American Civil War and Reconstruction periods.","{""movie_pk"": ""gonewiththewind_1940"", ""title"": ""Gone with the Wind"", ""release_year"": 1940, ""director"": ""Victor Fleming"", ""genres"": ""Drama|Romance|War"", ""source_flags"": ""csv""}"
+doc_killbillvol1_2003,killbillvol1_2003,Kill Bill: Vol. 1,"Title: Kill Bill: Vol. 1
+Genres: Action|Crime|Drama
+Overview: After awakening from a four-year coma, a former assassin wreaks vengeance on the team of assassins who betrayed her.
+Tagline: After | awakening | from | a | four-year | coma, | a | former | assassin | wreaks
+Review snippet: After awakening from a four-year coma, a former assassin wreaks vengeance on the team of assassins who betrayed her.","{""movie_pk"": ""killbillvol1_2003"", ""title"": ""Kill Bill: Vol. 1"", ""release_year"": 2003, ""director"": ""Quentin Tarantino"", ""genres"": ""Action|Crime|Drama"", ""source_flags"": ""csv""}"
+doc_singinaposintherain_1952,singinaposintherain_1952,Singin&apos; in the Rain,"Title: Singin&apos; in the Rain
+Genres: Comedy|Musical|Romance
+Overview: A silent film star falls for a chorus girl just as he and his delusionally jealous screen partner are trying to make the difficult transition to talking pictures in 1920s Hollywood.
+Tagline: A | silent | film | star | falls | for | a | chorus | girl | just
+Review snippet: A silent film star falls for a chorus girl just as he and his delusionally jealous screen partner are trying to make the difficult transition to talking pictures in 1920s Hollywood.","{""movie_pk"": ""singinaposintherain_1952"", ""title"": ""Singin&apos; in the Rain"", ""release_year"": 1952, ""director"": ""Stanley Donen"", ""genres"": ""Comedy|Musical|Romance"", ""source_flags"": ""csv""}"
+doc_apocalypsenow_1979,apocalypsenow_1979,Apocalypse Now,"Title: Apocalypse Now
+Genres: Drama|Mystery|War
+Overview: A U.S. Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel who sees himself as a god.
+Tagline: A | U.S. | Army | officer | serving | in | Vietnam | is | tasked | with
+Review snippet: A U.S. Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel who sees himself as a god.","{""movie_pk"": ""apocalypsenow_1979"", ""title"": ""Apocalypse Now"", ""release_year"": 1979, ""director"": ""Francis Ford Coppola"", ""genres"": ""Drama|Mystery|War"", ""source_flags"": ""csv""}"
+doc_nope_2022,nope_2022,Nope,"Title: Nope
+Genres: Horror|Sci-Fi|Thriller
+Overview: Two siblings investigate an unexplainable phenomenon in the sky above their ranch.
+Tagline: 
+Review snippet:","{""movie_pk"": ""nope_2022"", ""title"": ""Nope"", ""release_year"": 2022, ""director"": ""Jordan Peele"", ""genres"": ""Horror|Sci-Fi|Thriller"", ""source_flags"": ""csv|tmdb""}"
+doc_grantorino_2009,grantorino_2009,Gran Torino,"Title: Gran Torino
+Genres: Drama
+Overview: Disgruntled Korean War veteran Walt Kowalski sets out to reform his neighbor, Thao Lor, a Hmong teenager who tried to steal Kowalski&apos;s prized possession: a 1972 Gran Torino.
+Tagline: Disgruntled | Korean | War | veteran | Walt | Kowalski | sets | out | to | reform
+Review snippet: Disgruntled Korean War veteran Walt Kowalski sets out to reform his neighbor, Thao Lor, a Hmong teenager who tried to steal Kowalski&apos;s prized possession: a 1972 Gran Torino.","{""movie_pk"": ""grantorino_2009"", ""title"": ""Gran Torino"", ""release_year"": 2009, ""director"": ""Clint Eastwood"", ""genres"": ""Drama"", ""source_flags"": ""csv""}"
+doc_hacksawridge_2016,hacksawridge_2016,Hacksaw Ridge,"Title: Hacksaw Ridge
+Genres: Biography|Drama|History
+Overview: World War II American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first man in American history to receive the Medal of Honor without firing a shot.
+Tagline: World | War | II | American | Army | Medic | Desmond | T. | Doss, | who
+Review snippet: World War II American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first man in American history to receive the Medal of Honor without firing a shot.","{""movie_pk"": ""hacksawridge_2016"", ""title"": ""Hacksaw Ridge"", ""release_year"": 2016, ""director"": ""Mel Gibson"", ""genres"": ""Biography|Drama|History"", ""source_flags"": ""csv""}"
+doc_babamveoglum_2005,babamveoglum_2005,Babam ve Oglum,"Title: Babam ve Oglum
+Genres: Drama|Family
+Overview: The family of a left-wing journalist is torn apart after the military coup of Turkey in 1980.
+Tagline: The | family | of | a | left-wing | journalist | is | torn | apart | after
+Review snippet: The family of a left-wing journalist is torn apart after the military coup of Turkey in 1980.","{""movie_pk"": ""babamveoglum_2005"", ""title"": ""Babam ve Oglum"", ""release_year"": 2005, ""director"": ""Çagan Irmak"", ""genres"": ""Drama|Family"", ""source_flags"": ""csv""}"
+doc_jagten_2013,jagten_2013,Jagten,"Title: Jagten
+Genres: Drama
+Overview: A teacher lives a lonely life, all the while struggling over his son&apos;s custody. His life slowly gets better as he finds love and receives good news from his son, but his new luck is about to be brutally shattered by an innocent li...
+Tagline: A | teacher | lives | a | lonely | life, | all | the | while | struggling
+Review snippet: A teacher lives a lonely life, all the while struggling over his son&apos;s custody. His life slowly gets better as he finds love and receives good news from his son, but his new luck is about to be brutally shattered by an innocent li...","{""movie_pk"": ""jagten_2013"", ""title"": ""Jagten"", ""release_year"": 2013, ""director"": ""Thomas Vinterberg"", ""genres"": ""Drama"", ""source_flags"": ""csv""}"
+doc_terminator2judgmentday_1991,terminator2judgmentday_1991,Terminator 2: Judgment Day,"Title: Terminator 2: Judgment Day
+Genres: Action|Sci-Fi
+Overview: A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her 10-year old adolescent son John from an even more advanced and powerful cyborg.
+Tagline: A | cyborg, | identical | to | the | one | who | failed | to | kill
+Review snippet: A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her 10-year old adolescent son John from an even more advanced and powerful cyborg.","{""movie_pk"": ""terminator2judgmentday_1991"", ""title"": ""Terminator 2: Judgment Day"", ""release_year"": 1991, ""director"": ""James Cameron"", ""genres"": ""Action|Sci-Fi"", ""source_flags"": ""csv""}"
+doc_starwarsepisodevireturnofthejedi_1983,starwarsepisodevireturnofthejedi_1983,Star Wars: Episode VI - Return of the Jedi,"Title: Star Wars: Episode VI - Return of the Jedi
+Genres: Action|Adventure|Fantasy
+Overview: After a daring mission to rescue Han Solo from Jabba the Hutt, the Rebels dispatch to Endor to destroy the second Death Star. Meanwhile, Luke struggles to help Darth Vader back from the dark side without falling into the Emperor&apos;s...
+Tagline: After | a | daring | mission | to | rescue | Han | Solo | from | Jabba
+Review snippet: After a daring mission to rescue Han Solo from Jabba the Hutt, the Rebels dispatch to Endor to destroy the second Death Star. Meanwhile, Luke struggles to help Darth Vader back from the dark side without falling into the Emperor&apos;s...","{""movie_pk"": ""starwarsepisodevireturnofthejedi_1983"", ""title"": ""Star Wars: Episode VI - Return of the Jedi"", ""release_year"": 1983, ""director"": ""Richard Marquand"", ""genres"": ""Action|Adventure|Fantasy"", ""source_flags"": ""csv""}"
+doc_goodwillhunting_1998,goodwillhunting_1998,Good Will Hunting,"Title: Good Will Hunting
+Genres: Drama|Romance
+Overview: Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life.
+Tagline: Will | Hunting, | a | janitor | at | M.I.T., | has | a | gift | for
+Review snippet: Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life.","{""movie_pk"": ""goodwillhunting_1998"", ""title"": ""Good Will Hunting"", ""release_year"": 1998, ""director"": ""Gus Van Sant"", ""genres"": ""Drama|Romance"", ""source_flags"": ""csv""}"
+doc_aclockworkorange_1972,aclockworkorange_1972,A Clockwork Orange,"Title: A Clockwork Orange
+Genres: Crime|Sci-Fi
+Overview: In the future, a sadistic gang leader is imprisoned and volunteers for a conduct-aversion experiment, but it doesn&apos;t go as planned.
+Tagline: In | the | future, | a | sadistic | gang | leader | is | imprisoned | and
+Review snippet: In the future, a sadistic gang leader is imprisoned and volunteers for a conduct-aversion experiment, but it doesn&apos;t go as planned.","{""movie_pk"": ""aclockworkorange_1972"", ""title"": ""A Clockwork Orange"", ""release_year"": 1972, ""director"": ""Stanley Kubrick"", ""genres"": ""Crime|Sci-Fi"", ""source_flags"": ""csv""}"
+doc_labattagliadialgeri_1967,labattagliadialgeri_1967,La battaglia di Algeri,"Title: La battaglia di Algeri
+Genres: Drama|War
+Overview: In the 1950s, fear and violence escalate as the people of Algiers fight for independence from the French government.
+Tagline: In | the | 1950s, | fear | and | violence | escalate | as | the | people
+Review snippet: In the 1950s, fear and violence escalate as the people of Algiers fight for independence from the French government.","{""movie_pk"": ""labattagliadialgeri_1967"", ""title"": ""La battaglia di Algeri"", ""release_year"": 1967, ""director"": ""Gillo Pontecorvo"", ""genres"": ""Drama|War"", ""source_flags"": ""csv""}"
+doc_threebillboardsoutsideebbingmissouri_2017,threebillboardsoutsideebbingmissouri_2017,"Three Billboards Outside Ebbing, Missouri","Title: Three Billboards Outside Ebbing, Missouri
+Genres: Comedy|Crime|Drama
+Overview: A mother personally challenges the local authorities to solve her daughter&apos;s murder when they fail to catch the culprit.
+Tagline: A | mother | personally | challenges | the | local | authorities | to | solve | her
+Review snippet: A mother personally challenges the local authorities to solve her daughter&apos;s murder when they fail to catch the culprit.","{""movie_pk"": ""threebillboardsoutsideebbingmissouri_2017"", ""title"": ""Three Billboards Outside Ebbing, Missouri"", ""release_year"": 2017, ""director"": ""Martin McDonagh"", ""genres"": ""Comedy|Crime|Drama"", ""source_flags"": ""csv""}"
+doc_ellaberintodelfauno_2007,ellaberintodelfauno_2007,El laberinto del fauno,"Title: El laberinto del fauno
+Genres: Drama|Fantasy|War
+Overview: In the Falangist Spain of 1944, the bookish young stepdaughter of a sadistic army officer escapes into an eerie but captivating fantasy world.
+Tagline: In | the | Falangist | Spain | of | 1944, | the | bookish | young | stepdaughter
+Review snippet: In the Falangist Spain of 1944, the bookish young stepdaughter of a sadistic army officer escapes into an eerie but captivating fantasy world.","{""movie_pk"": ""ellaberintodelfauno_2007"", ""title"": ""El laberinto del fauno"", ""release_year"": 2007, ""director"": ""Guillermo del Toro"", ""genres"": ""Drama|Fantasy|War"", ""source_flags"": ""csv""}"
+doc_sunsetblvd_1950,sunsetblvd_1950,Sunset Blvd.,"Title: Sunset Blvd.
+Genres: Drama|Film-Noir
+Overview: A screenwriter develops a dangerous relationship with a faded film star determined to make a triumphant return.
+Tagline: A | screenwriter | develops | a | dangerous | relationship | with | a | faded | film
+Review snippet: A screenwriter develops a dangerous relationship with a faded film star determined to make a triumphant return.","{""movie_pk"": ""sunsetblvd_1950"", ""title"": ""Sunset Blvd."", ""release_year"": 1950, ""director"": ""Billy Wilder"", ""genres"": ""Drama|Film-Noir"", ""source_flags"": ""csv""}"
+doc_thebiglebowski_1998,thebiglebowski_1998,The Big Lebowski,"Title: The Big Lebowski
+Genres: Comedy|Crime
+Overview: Ultimate L.A. slacker Jeff &quot;The Dude&quot; Lebowski, mistaken for a millionaire of the same name, seeks restitution for a rug ruined by debt collectors, enlisting his bowling buddies for help while trying to find the millionaire&apos;s miss...
+Tagline: Ultimate | L.A. | slacker | Jeff | &quot;The | Dude&quot; | Lebowski, | mistaken | for | a
+Review snippet: Ultimate L.A. slacker Jeff &quot;The Dude&quot; Lebowski, mistaken for a millionaire of the same name, seeks restitution for a rug ruined by debt collectors, enlisting his bowling buddies for help while trying to find the millionaire&apos;s miss...","{""movie_pk"": ""thebiglebowski_1998"", ""title"": ""The Big Lebowski"", ""release_year"": 1998, ""director"": ""Joel Coen"", ""genres"": ""Comedy|Crime"", ""source_flags"": ""csv""}"
+doc_thegodfatherpartii_1974,thegodfatherpartii_1974,The Godfather Part II,"Title: The Godfather Part II
+Genres: Crime|Drama
+Overview: The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.
+Tagline: The | early | life | and | career | of | Vito | Corleone | in | 1920s
+Review snippet: The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.","{""movie_pk"": ""thegodfatherpartii_1974"", ""title"": ""The Godfather Part II"", ""release_year"": 1974, ""director"": ""Francis Ford Coppola"", ""genres"": ""Crime|Drama"", ""source_flags"": ""csv""}"

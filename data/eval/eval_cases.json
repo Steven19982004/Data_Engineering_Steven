@@ -1,0 +1,32 @@
+[
+  {
+    "id": "q1",
+    "question": "找出 2015 年后的高评分科幻片",
+    "expected_tool": "sql.fetch_high_rated_scifi",
+    "expected_keywords": ["Dune", "Arrival", "Blade Runner 2049"]
+  },
+  {
+    "id": "q2",
+    "question": "比较 Christopher Nolan 和 Denis Villeneuve 在数据集中的表现",
+    "expected_tool": "sql.compare_directors",
+    "expected_keywords": ["Christopher Nolan", "Denis Villeneuve"]
+  },
+  {
+    "id": "q3",
+    "question": "找出与 Interstellar 在主题或风格上相似的电影",
+    "expected_tool": "vector.find_similar_movies",
+    "expected_keywords": ["Interstellar"]
+  },
+  {
+    "id": "q4",
+    "question": "总结 Arrival 和 Blade Runner 2049 的共同主题",
+    "expected_tool": "nlp.summarize_common_themes",
+    "expected_keywords": ["time", "identity", "communication"]
+  },
+  {
+    "id": "q5",
+    "question": "找出评分较高且投票数足够的 thriller 电影",
+    "expected_tool": "sql.fetch_high_quality_thrillers",
+    "expected_keywords": ["Parasite", "Gone Girl", "Shutter Island"]
+  }
+]

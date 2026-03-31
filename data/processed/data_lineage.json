@@ -1,0 +1,23 @@
+{
+  "generated_at_utc": "2026-03-14T21:28:47.637687+00:00",
+  "sources": [
+    "data/raw/movies_catalog.csv",
+    "data/raw/ratings_snapshot.csv",
+    "data/raw/reviews_corpus.jsonl",
+    "data/raw/omdb_fixture.json (or OMDb API if enabled)"
+  ],
+  "transformations": [
+    "title normalization",
+    "date parsing",
+    "type casting",
+    "deduplication",
+    "movies-ratings merge",
+    "reviews-to-movie mapping",
+    "OMDb enrichment",
+    "document build for vector retrieval"
+  ],
+  "storage": {
+    "sqlite": "/Users/cai/Desktop/Movie-Intelligence-Agent/storage/movie_agent.db",
+    "vector_store": "/Users/cai/Desktop/Movie-Intelligence-Agent/storage/vector_store"
+  }
+}
